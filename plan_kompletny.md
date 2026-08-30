@@ -113,18 +113,18 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 16:00 | (opcjonalnie 2. salut armatni) |
 | 17:00–17:30 | **Autobus 13/14/15 Valletta → Sliema** — karta *(opcjonalnie prom)* |
 
-> 🎉 ⚠️ **Alternatywa, jeśli pominiesz Grandmaster's Palace / muzea:** kawa w kawiarni przy Upper Barrakka + spacer po bastionach i Lower Barrakka — najlepszy „darmowy" zamiennik; ewentualnie **Casa Rocca Piccola** (10 €, pałac + schrony bombowe).
+> ⚠️ **Alternatywa, jeśli pominiesz Grandmaster's Palace / muzea:** kawa w kawiarni przy Upper Barrakka + spacer po bastionach i Lower Barrakka — najlepszy „darmowy" zamiennik; ewentualnie **Casa Rocca Piccola** (10 €, pałac + schrony bombowe).
 >
 
 ### Dzień 3 · czw 01.10 — Gozo (pełny dzień) bus → Valletta + szybki prom · karta 🔴
 
-> 🎉 **🚤 Dojazd na Gozo — domyślnie szybki prom z Valletty (decyzja):** autobus 13/14/15 do Valletty (~25 min) → **terminal Lascaris Wharf** (pod murami, ~40 m poniżej dworca — zejście **windą Barrakka 1 €** / darmowym **X133** z dworca, stanowisko A1 / ~10 min pieszo w dół) → **bez długiej jazdy 222 do Ċirkewwy** (Comino w D5 zostaje przez Ċirkewwę).
+> **🚤 Dojazd na Gozo — domyślnie szybki prom z Valletty (decyzja):** autobus 13/14/15 do Valletty (~25 min) → **terminal Lascaris Wharf** (pod murami, ~40 m poniżej dworca — zejście **windą Barrakka 1 €** / darmowym **X133** z dworca, stanowisko A1 / ~10 min pieszo w dół) → **bez długiej jazdy 222 do Ċirkewwy** (Comino w D5 zostaje przez Ċirkewwę).
 >
-> 🎉 **(domyślne) Valletta → Gozo:** Gozo Highspeed **~45 min bezpośrednio** do Mġarr, **~7,50 € w jedną (~15 € w obie)**; wybierz opcję „Return", promocja zmienna do ~12 €); całoroczny; kup bilet online. https://gozohighspeed.com
+> **(domyślne) Valletta → Gozo:** Gozo Highspeed **~45 min bezpośrednio** do Mġarr, **~7,50 € w jedną (~15 € w obie)**; wybierz opcję „Return", promocja zmienna do ~12 €); całoroczny; kup bilet online. https://gozohighspeed.com
 >
-> 🎉 **(alternatywa) Sliema → Gozo (przez Buġibba):** Gozo Highspeed ~1 h 15 min (krótka przesiadka — nie jeden bezpośredni rejs), **~8,50 € w jedną (~17 € w obie)**, sezon marzec–październik — wygodniej, bo powrót kończy się w St Julian's, a ostatni kurs Mġarr→Sliema jest później (21:15→22:30). ⚠️ Terminal ze Sliemy jest na The Strand (~25–35 min pieszo od Argento / krótki bus), nie przy samym hotelu.
+> **(alternatywa) Sliema → Gozo (przez Buġibba):** Gozo Highspeed ~1 h 15 min (krótka przesiadka — nie jeden bezpośredni rejs), **~8,50 € w jedną (~17 € w obie)**, sezon marzec–październik — wygodniej, bo powrót kończy się w St Julian's, a ostatni kurs Mġarr→Sliema jest później (21:15→22:30). ⚠️ Terminal ze Sliemy jest na The Strand (~25–35 min pieszo od Argento / krótki bus), nie przy samym hotelu.
 >
-> 🎉 **(budżetowo) autobus 222 + prom Gozo Channel:** ~1 h 45–2 h 15 min, **4,65 € w obie** (bus na karcie) — taniej, ale dłużej i jedziesz do Ċirkewwy.
+> **(budżetowo) autobus 222 + prom Gozo Channel:** ~1 h 45–2 h 15 min, **4,65 € w obie** (bus na karcie) — taniej, ale dłużej i jedziesz do Ċirkewwy.
 >
 
 | Godz. | Co |
@@ -159,7 +159,7 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 15:30–17:00 | ✅ **Darmowy widok z Barrakki** albo tania **dgħajsa (łódka)** przez port (~3–5 €) — klimat i widoki z wody · *(pełniejsza alternatywa: **Rejs po Grand Harbour** 1,5 h, 15–25 €)* |
 | 17:30 | **Autobus 13/14/15 → Sliema** — karta |
 
-> 🎉 ⚠️ **Alternatywy:** zamiast Fort St Angelo (12 €) — darmowy spacer nabrzeżem Birgu + widoki z Gardjola; zamiast drogiego rejsu (15–25 €) — tania **dgħajsa (łódka)** przez port ~3–5 € albo darmowy widok z Barrakka; tani „widok z wody" — prom Grand Harbour w obie strony (~5 € return). Jeśli wybierzesz **dgħajsę**, rozważ też pełniejszą opcję — dłuższy **Rejs po Grand Harbour** (1,5 h, 15–25 €). **Uwaga:** dgħajsa to atrakcja, nie pewny środek transportu — jako plan awaryjny na powrót przez port używaj zwykłego promu Valletta–Three Cities (~3 € one way, pewny rozkład).
+> ⚠️ **Alternatywy:** zamiast Fort St Angelo (12 €) — darmowy spacer nabrzeżem Birgu + widoki z Gardjola; zamiast drogiego rejsu (15–25 €) — tania **dgħajsa (łódka)** przez port ~3–5 € albo darmowy widok z Barrakka; tani „widok z wody" — prom Grand Harbour w obie strony (~5 € return). Jeśli wybierzesz **dgħajsę**, rozważ też pełniejszą opcję — dłuższy **Rejs po Grand Harbour** (1,5 h, 15–25 €). **Uwaga:** dgħajsa to atrakcja, nie pewny środek transportu — jako plan awaryjny na powrót przez port używaj zwykłego promu Valletta–Three Cities (~3 € one way, pewny rozkład).
 >
 
 ### Dzień 5 · sob 03.10 — Comino + Blue Lagoon 222 + prom Ċirkewwa→Comino 🟢
@@ -176,7 +176,7 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 14:00–15:00 | **Prom powrotny** → Ċirkewwa |
 | 15:00–16:30 | **Autobus 222** → Sliema (~75–110 min) — karta |
 
-> 🎉 **⚠️ Landing pass na Blue Lagoon (bezpłatny, osobny od biletu na łódź):** jeśli planujesz **zejść na ląd** przy Blue Lagoon, najpierw zarezerwuj **darmowy poranny slot AMS** (08:00–13:00; okna: 08:00–13:00 · 13:30–17:30 · 18:00–22:00) na **bluelagooncomino.mt / blcomino.com**, a przy zakupie Comino Ferries sprawdź, czy potwierdzenie zawiera dostęp/QR. Jeśli nie — pobierz bezpłatny pass z AMS. Jeśli pływasz **z pokładu** (bez schodzenia do kontrolowanego obszaru) — pass niepotrzebny.
+> **⚠️ Landing pass na Blue Lagoon (bezpłatny, osobny od biletu na łódź):** jeśli planujesz **zejść na ląd** przy Blue Lagoon, najpierw zarezerwuj **darmowy poranny slot AMS** (08:00–13:00; okna: 08:00–13:00 · 13:30–17:30 · 18:00–22:00) na **bluelagooncomino.mt / blcomino.com**, a przy zakupie Comino Ferries sprawdź, czy potwierdzenie zawiera dostęp/QR. Jeśli nie — pobierz bezpłatny pass z AMS. Jeśli pływasz **z pokładu** (bez schodzenia do kontrolowanego obszaru) — pass niepotrzebny.
 >
 
 > Czy warte w październiku: ✅ tak przy wczesnym starcie. 🕐 wypłyń przed 09:00. **Nie rób pełnego obchodu wyspy** — wybierz Crystal Lagoon **albo** wieżę św. Marii + Santa Maria Bay (spokojniejsza plaża); wieża św. Marii to opcja zależna od otwarcia. **Rejs ze Sliemy to osobna, droższa opcja** (ok. 28–40 €): sprawdź konkretną ofertę, bo nie każdy rejs obejmuje właściwy slot landing passu (czasem wymaga popołudniowego 13:30–17:30).
@@ -201,7 +201,7 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 12:45 | ⭐ **Marsaxlokk + obiad z owoców morza** (promenada, łodzie luzzu, stoiska). ⚠️ Uczciwie: dojście ~12:45 oznacza, że **rybna część targu zwykle już zniknęła** (najbardziej lokalne stragany kończą ok. południa) — zostają pamiątki, produkty i klimat portu. To świadomy kompromis przy priorytecie "Blue Grotto najpierw". |
 | 15:30–16:30 | **81/85 → Valletta → 13/14/15 → Sliema** — karta |
 
-> 🎉 ⚠️ **Dlaczego Blue Grotto najpierw:** jaskinie mają najlepsze światło i najmniej ludzi rano (do ~13:00). Marsaxlokk zostaje na obiad/popołudnie — klimat portu i luzzu są cały dzień, a targ rybny (jeśli trafisz w niedzielę) i tak zwykle kończy się przed południem. **Świadomie rezygnujemy z porannego wyboru straganów** na rzecz światła w jaskiniach. Nie dzielimy tego na 2 dni: oba są na południu, każda przesiadka to ~1–1,5 h bez bezpośredniego połączenia.
+> ⚠️ **Dlaczego Blue Grotto najpierw:** jaskinie mają najlepsze światło i najmniej ludzi rano (do ~13:00). Marsaxlokk zostaje na obiad/popołudnie — klimat portu i luzzu są cały dzień, a targ rybny (jeśli trafisz w niedzielę) i tak zwykle kończy się przed południem. **Świadomie rezygnujemy z porannego wyboru straganów** na rzecz światła w jaskiniach. Nie dzielimy tego na 2 dni: oba są na południu, każda przesiadka to ~1–1,5 h bez bezpośredniego połączenia.
 >
 
 ### Dzień 7 · pon 05.10 — Mdina + Rabat → zachód słońca NAD MORZEM na klifach Dingli 202 + 201 · karta 🕐
@@ -353,7 +353,7 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 - **Październik:** lekka kurtka wieczorem, kapcie do wody, sprawdzaj prognozę przed rejsami.
 - **St John's:** czynne 09:00–16:45, ostatnie wejście ~16:00.
 
-> 🎉 **Wydarzenia w terminach wyjazdu (uwaga na tłok/hałas):** **Notte Bianca w Valletcie** — **sob 3.10** (wieczór D5), cała Valletta otwarta za darmo do późna (opcjonalny wieczorny bonus, wróć ~21:30, bo D6 zaczyna się wcześnie). **Defected Malta 1–4.10** (UNO, Fort St Elmo, Café del Mar) — jeśli nie lubisz dużych imprez, licz się ze wzmożonym ruchem w St Julian's; w Argento poproś o pokój od cichej strony.
+> **🎉 Wydarzenia w terminach wyjazdu (uwaga na tłok/hałas):** **Notte Bianca w Valletcie** — **sob 3.10** (wieczór D5), cała Valletta otwarta za darmo do późna (opcjonalny wieczorny bonus, wróć ~21:30, bo D6 zaczyna się wcześnie). **Defected Malta 1–4.10** (UNO, Fort St Elmo, Café del Mar) — jeśli nie lubisz dużych imprez, licz się ze wzmożonym ruchem w St Julian's; w Argento poproś o pokój od cichej strony.
 >
 
 ## 8. Rekomendacje i ostrzeżenia z polskich blogów

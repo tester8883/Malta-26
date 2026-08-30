@@ -1,0 +1,150 @@
+# 🚌 Malta — plan transportu dzień po dniu (tabelki)
+
+Zamiast mapek — dokładna rozpiska każdego odcinka podróży. Linie: autobus · prom/rejs · pieszo. Czasy orientacyjne — sprawdzaj na żywo w aplikacji Tallinja.
+
+**🎟️ Bilet: 7-dniowy Explore (25 €)** pokrywa wszystkie autobusy D1–D8 (w tym do Valletty w D2/D3/D4 — 13/14/15 zamiast promu oraz 88 z/na lotnisko). ⚠️ **Explore NIE obejmuje linii „Tallinja Direct"/TD** (3 €/przejazd) — wszystkie trasy w planie (poza opcjonalnym TD2 na lotnisko) używają zwykłych linii objętych kartą. Osobno płacisz: szybki prom Gozo (D3, ~15 € w obie przez Valletta; przez Sliema ~17 €), prom Valletta→Three Cities (D4, ~5 € return), prom Comino z Ċirkewwy (D5, ~15 €), rejs Blue Grotto (D6, ~10 €) i wstępy. Explore kupisz w Malta Public Transport Sales Office w Welcomer's Hall na lotnisku (~08:00–19:30).
+
+## Elastyczność dni — co sztywne, co zalecane, co dowolne
+
+| Dzień | Sztywne? | Uzasadnienie |
+| --- | --- | --- |
+| D1 wt · przylot | 🔒 twardo | lot przylotowy 12:05 — nie do zmiany |
+| D8 wt · wylot | 🔒 twardo | lot wylotowy 12:30 — nie do zmiany |
+| D6 nd · Blue Grotto + Marsaxlokk | 🔵 dowolne | targ rybny i tak zniknie do ~12:30 (Blue Grotto rano), więc **niedziela nie jest już kotwicą**; dzień łączony ze względu na długą trasę |
+| D7 pon · Mdina + Rabat | 🔒 zalecane pon | **Muzeum Katedralne w Mdina zamknięte w niedziele**, otwarte w pon. Mdiny nie rób w niedzielę |
+| D3 czw · Gozo | 🟡 zalecane dzień powszedni | szybki prom z Valletty codziennie i bezpośrednio (alternatywa ze Sliemy w sezonie), ale w weekend na Gozo tłoczniej; czwartek OK, nie sztywno |
+| D2 śr · Valletta | 🟡 zalecane wcześnie | St John's "na świeżo"; salut 12:00 działa codziennie. W zasadzie dowolne |
+| D5 sob · Comino | 🔵 dowolne | Blue Lagoon rano — każdy dzień OK; weekend nieco tłoczniejszy (Notte Bianca wieczorem) |
+| D4 pt · Three Cities | 🔵 dowolne | można przesuwać bez konsekwencji |
+
+> Jedyne twarde punkty to loty (D1/D8) i Mdina w pon (D7, unikaj niedzieli). D6 nie jest już zależne od niedzieli. D4/D5 można dowolnie przestawiać — np. przy złej pogodzie na Comino zamienisz D5 z D4 lub D7 bez łamania zasad. Nie rób dwóch wysp (Gozo+Comino) ani dwóch miast (Valletta+Three Cities) z rzędu — na zmianę miasto/wyspa.
+>
+
+## Dzień 1 · wt 29.09 — Przylot + St Julian's 88 + 13/14/15
+
+Lądowanie 12:05 → na lotnisku do ~13:00. Po drodze kup 7-dniowy Explore (licznik ruszy przy pierwszym użyciu — już teraz). Na lotnisko jeżdżą 88 (zwykła, w karcie) i TD2 („Direct", +3 €, poza kartą).
+
+| Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
+| --- | --- | --- | --- | --- | --- |
+| 1 | autobus 88 | Lotnisko → Valletta | ~35 min | karta (7 dni) | **pierwsze przyłożenie = start karty** |
+| 1b | autobus 13/14/15 | Valletta → St Julian's | ~25 min | karta | przesiadka w Valletcie |
+| 2 | pieszo | Hotel (Spinola) → Portomaso → St George's Bay | ~1,5–2 h | 0 € | Wieczorny spacer + zachód słońca |
+
+> 🕐 Karta 7-dniowa liczy od pierwszego użycia — 88 w D1 to jej start (na lotnisku). Opcjonalnie wygodniej: TD2 prosto do St Julian's, ale +3 € i bez karty.
+>
+
+## Dzień 2 · śr 30.09 — Valletta autobus 13/14/15 · w karcie
+
+Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
+
+| Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
+| --- | --- | --- | --- | --- | --- |
+| 1 | pieszo | Hotel → przystanek Ferries (Sliema) | ~10 min | 0 € |  |
+| 2 | autobus 13/14/15 | Sliema → Valletta | ~20–25 min | karta | opcjonalnie prom ~10 min za ~2 € (widok/szybciej) |
+| 3 | pieszo | Po Valletcie: St John's → Barrakka → Lower Barrakka | cały dzień | 15 € (St John's) | 🕐 St John's 09:00; salut na Upper Barrakka 12:00 |
+| 3b | pieszo (◽ max 1) | ◽ Grandmaster's Palace (12 €) / MUŻA (8 €) / Archeologia (10 €) / Malta Experience (16 €) | 1–1,5 h | 8–16 € | ⚠️ Grandmaster's — Sala Tronowa zamknięta, State Rooms tylko w wybrane dni (nie w nasze) → pomiń · MUŻA ⚠️ jeśli lubisz sztukę · Malta Experience 🚫 drogi show, nie historia |
+| 4 | autobus 13/14/15 | Valletta → Sliema | ~20–25 min | karta | opcjonalnie prom |
+
+> Alternatywa dla ⚠️ (Grandmaster's Palace / muzea): kawa przy Upper Barrakka + spacer po bastionach i Lower Barrakka (gratis); ewentualnie Casa Rocca Piccola (10 €) zamiast pałacu.
+>
+
+## Dzień 3 · czw 01.10 — Gozo (pełny dzień) bus 13/14/15 + szybki prom Valletta→Gozo · karta 7 dni
+
+🚌 13/14/15 → Valletta → 🚤 szybki prom do Mġarr (bez jazdy do Ċirkewwy). Mġarr → (301) → Victoria → (307) → Ġgantija → (301) → Mġarr → (szybki prom) → Valletta → (13/14/15) → Sliema.
+
+| Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
+| --- | --- | --- | --- | --- | --- |
+| 1 | autobus 13/14/15 | Sliema → Valletta | ~25 min | karta | 🕐 wyjście z hotelu 07:20–07:30 (boarding 2 min przed odjazdem; Lascaris szuka się pierwszy raz) |
+| 2 | szybki prom Gozo Highspeed | Valletta → Mġarr | ~45 min (bezpośrednio) | ~7,50 € (bilet online) | 🕐 kurs ~08:45 → 09:30; z Lascaris Wharf (zejście windą Barrakka 1 € / X133 / pieszo ~10 min); miej monetę 1 € |
+| 3 | autobus 301 | Mġarr → Victoria | ~12 min | karta | co ~30 min |
+| 3b | pieszo | ⭐ Victoria / Citadella | 1,5 h | 0 € | panorama |
+| 4 | autobus 307 | Victoria → Xaghra (Ġgantija) | ~15 min | karta | ⭐ Ġgantija/Ta' Kola 10 € combo (UNESCO) — otwarte od ~09:00 (godziny letnie HM do 31.10); ost. wejście 30 min przed zamknięciem |
+| 5 | autobus 307 + 301 | Xagħra → Victoria (~13 min) → Mġarr (~12 min) | ~30–40 min (przesiadka) | karta | ◽ Ta' Pinu (308) ✅ gratis · pola solne (302/310/322) ✅ · Ramla/Xlendi ✅ |
+| 6 | szybki prom Gozo Highspeed | Mġarr → Valletta | ~45 min | ~7,50 € (bilet online) | cel kurs ~16:45 → Valletta ~17:30 → 13/14/15 → Sliema ~18:00; ost. standardowy 20:45 → 21:30 |
+
+> **Alternatywa (Sliema → Gozo przez Buġibba):** ~1 h 15 min, ~8,50 €/jedna strona (~17 € w obie), sezon marzec–październik — wygodny powrót prosto do St Julian's (Mġarr→Sliema 17:15 → ~18:30; ostatni 21:15). **Budżetowo** zamiast szybkiego promu: 222 + Gozo Channel (~1h45–2h15, 4,65 €) — taniej, ale dłużej i jazda do Ċirkewwy.
+>
+
+## Dzień 4 · pt 02.10 — Three Cities autobus + prom do Birgu osobno
+
+| Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
+| --- | --- | --- | --- | --- | --- |
+| 1 | autobus 13/14/15 | Sliema → Valletta | ~20–25 min | karta |  |
+| 2 | prom Valletta→Three Cities | Valletta (Lascaris Wharf) → Birgu/Vittoriosa | ~10 min | ~3 € / ~5 € return | winda Barrakka 1 € za bilet powrotny (góra i dół); z return promu w cenie (Explore raczej nie obejmuje) |
+| 3 | ⭐ pieszo | Birgu — ⭐ Fort St Angelo (10 €, ⚠️ średnio warta; historia+widoki) → Gardjola Gardens | 2–3 h | 10 € | widok na Vallettę za darmo — ⭐ warte |
+| 3b | ◽ | ◽ Pałac Inkwizytora (8 €) / Maritime Museum (8 €) | 1 h każdy | 8 € | Oceny: oba ⚠️ opcjonalne — historia, bierz max 1 jeśli czas |
+| 3c | ✅ | ✅ Darmowy widok z Barrakki albo tania dgħajsa (łódka) przez port (~3–5 €) | 30 min | 0–5 € | klimat i widoki z wody — rekomendacja |
+| 3c-alt | ◽ rejs | ◽ Rejs po Grand Harbour (15–25 €, 1,5 h) — alternatywa dla dgħajsy | 1,5 h | 15–25 € | tylko jeśli chcesz dłuższy, pełniejszy rejs |
+| 4 | autobus 13/14/15 | Valletta → Sliema (powrót) | ~20–25 min | karta |  |
+
+> Alternatywy dla ⚠️/◽: zamiast Fort St Angelo (10 €) — darmowy spacer po nabrzeżu w Birgu + widoki z Gardjola; zamiast drogiego rejsu po Grand Harbour — tania dgħajsa (łódka) przez port ~3–5 € albo prom Valletta–Three Cities w obie strony (~5 € return), który i tak pokrywa trasę.
+>
+
+## Dzień 5 · sob 03.10 — Comino + Blue Lagoon 222 + prom Ċirkewwa
+
+🟢 Dzień na wodzie, mało logistyki — odskocznia po dwóch intensywnych dniach (Gozo D3, miasta D4). 222 → Ċirkewwa → prom Comino Ferries → Blue Lagoon (Comino).
+
+| Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
+| --- | --- | --- | --- | --- | --- |
+| 1 | autobus 222 | Sliema → Ċirkewwa | 75–110 min | karta | 🕐 wyjazd ~07:15 |
+| 2 | prom Comino Ferries | Ċirkewwa → Blue Lagoon (Comino) | ~45 min | ~15 € return | 🕐 pierwszy kurs = mniej tłoku; bilet elastyczny (bez godziny) — kup online i przyjedź rano |
+| 3 | ten sam prom | Comino → Ċirkewwa (powrót) | ~45 min | w cenie (return) | ◽ Crystal Lagoon (kąpiel, mniej tłoku) **albo** wieża św. Marii + Santa Maria Bay; wieża ⚠️ zależna od otwarcia (nie rób pełnego obchodu wyspy) |
+| 4 | autobus 222 | Ċirkewwa → Sliema | 75–110 min | karta |  |
+
+> Rejs ze Sliemy to osobna, droższa opcja (ok. 28–40 €) — sprawdź konkretną ofertę, bo ceny/godziny/slot landing passu zależą od rejsu.
+>
+
+> ⚠️ **Landing pass na Blue Lagoon (bezpłatny, osobny od biletu na łódź):** aby **wejść na brzeg**, trzeba zarezerwować **darmowy kod QR** (limit 4000 os.). Okna: **08:00–13:00 · 13:30–17:30 · 18:00–22:00** — wybierz slot **08:00–13:00** i zarezerwuj na **bluelagooncomino.mt / blcomino.com**. Pływasz z pokładu (bez schodzenia na brzeg) → pass niepotrzebny.
+>
+
+> 🎉 **Wydarzenia:** **Notte Bianca** (sob 3.10, wieczór D5) — darmowy festiwal sztuki w Valletcie ~19:00–4:00 (opcjonalnie, maks. do ~21:30, bo D6 zaczyna się wcześnie) · **Defected Malta** 1–4.10 → w okolicy St Julian's może być głośno — proś o cichszy pokój w Argento.
+>
+
+## Dzień 6 · nd 04.10 — Blue Grotto (rano) + Marsaxlokk (obiad/klimat) 13/74/81/119/201 · karta 7 dni
+
+Kolejność: Blue Grotto NAJPIERW (najlepsze światło do ~13:00, najmniej ludzi), potem Marsaxlokk na obiad/klimat (łódki luzzu, port). Niedzielny targ rybny to bonus „best-effort" — i tak zwykle zniknie do ~12:30 przy Blue Grotto rano. Trasa bez kręcenia kółek.
+
+| Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
+| --- | --- | --- | --- | --- | --- |
+| 1 | autobus 13/14/15 | Sliema → Valletta | ~20 min | karta | 🕐 wyjazd z hotelu ~07:45, by zdążyć na 74 o 08:35 |
+| 2 | autobus 74 | Valletta (stanowisko A5) → Blue Grotto (przystanek Panorama) | ~42 min | karta | 🕐 w niedzielę co 60 min — złap kurs 08:35 (przyjazd ~09:17); bądź przed 08:30 |
+| 3 | rejs łódką | Blue Grotto (Wied iż-Żurrieq) | 20–25 min | ~10 € | ⭐ warte; przed grupami wycieczkowymi; kupno na miejscu, ⚠️ zależny od pogody |
+| 3b | pieszo | Klifowy punkt widokowy + ◽ Ħaġar Qim/Mnajdra (10 €, UNESCO, ~15–20 min pieszo) | 1–2 h | 10 € (◽) | ⭐ Ħaġar Qim warte dla lubiących prehistorię; klify |
+| 4 | autobus 201→119 lub 74→81 | Blue Grotto → Marsaxlokk | ~1–1,5 h | karta | przesiadka na lotnisku (201→119) lub w Valletcie (74→81) |
+| 5 | w porcie | Marsaxlokk + obiad z owoców morza | ~2 h | obiad | ⚠️ Uczciwie: po ~12:30 rybna część targu zwykle już zniknęła (lokalne stragany kończą ok. południa) — zostają pamiątki, produkty i klimat portu; łodzie luzzu cały dzień |
+| 6 | autobus 81/85 → 13/14/15 | Marsaxlokk → Valletta → Sliema | ~1 h | karta |  |
+
+> **Konflikt "co rano":** i Blue Grotto (najlepsze światło do ~13:00), i targ (najlepsze stragany rano) chcą Twojego poranka. Rozstrzygnięcie: **Blue Grotto rano (~09:15)**, Marsaxlokk na obiad/popołudnie. ⚠️ Uczciwie: dojście ~12:30–13:00 = **rybna część targu zwykle już zniknęła** (najbardziej lokalne stragany kończą ok. południa) — zostają pamiątki, produkty i klimat portu (łódki luzzu). To świadomy kompromis przy priorytecie "Blue Grotto najpierw". Nie dzielimy tego na 2 dni: oba są na południu i każda przesiadka to ~1–1,5 h bez bezpośredniego połączenia. **Alternatywa (odwrócona kolejność):** Marsaxlokk najpierw (bus 81 z Valletty co ~20 min, ~35 min; targ 07:00–10:00), potem 81/85 → Valletta → 74 na Blue Grotto ok. 12:00–13:00 (dobre światło do ~13:00; minus: więcej osób w południe).
+>
+
+## Dzień 7 · pon 05.10 — Mdina + Rabat autobus 202 + 201 · karta 7 dni
+
+Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **klify Dingli na zachód słońca**. ◽ Opcjonalnie Rotunda w Moście.
+
+| Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
+| --- | --- | --- | --- | --- | --- |
+| 1 | autobus 202 | Sliema (przystanek Ferries) → Mdina | ~53 min | karta | co ~60 min; 🕐 wyjazd ~09:00 |
+| 2 | pieszo | ⭐ Mdina — spacer + bastiony | 2–3 h | 0 € | 🕐 przed wycieczkami (~10:00); ◽ Katedra+Muzeum combo 15 € (ulg. 10 €) ⚠️ pominąć |
+| 2b | przejście | Mdina → Rabat (katakumby) | ~15 min | 0 € | miasta obok siebie |
+| 2c | pieszo (◽) | ◽ Katakumby św. Pawła (10 €) / Domus Romana (6 €) | 1–1,5 h | 10 € | ⚠️ tylko jeśli lubisz katakumby / mozaiki |
+| 3 | autobus 201 | Rabat → klify Dingli (na zachód słońca) | ~20 min | karta | 🌅 Zachód 5.10 wypada **ok. 18:40** — bądź na klifach ~17:30, zostań do ~18:45 |
+| 3b | autobus 201 | Dingli → Mdina/Rabat (powrót po zachodzie) | ~20 min | karta | sprawdź **ostatni kurs tego dnia** w Tallinja; 201 co ~60 min |
+| 3c | pieszo | 🌙 Wieczorna Mdina (podświetlone mury) | ~45 min | 0 € | opcja, jeśli wrócisz przed 20:00 |
+| 4 | autobus 202 | Mdina/Rabat → Sliema (powrót) | ~53 min | karta | ostatni odjazd ~ok. 21–22:00 — nie przegap |
+
+> **Dlaczego Dingli, a nie bastiony Mdiny?** Z bastionów Mdiny słońce zachodzi **nad lądem**, a z klifów Dingli **nad otwartym morzem** — ikoniczne ujęcie. Zostajemy w okolicy cały dzień (Rabat → Dingli → wieczorna Mdina → 202), więc wracamy raz, nie dwukrotnie. ⚠️ **Zabezpieczenie:** 201 z Dingli wieczorem ~co 60 min — sprawdź ostatni kurs na 5.10; jeśli jest za wcześnie na zachód (~18:40), oglądaj go z bastionów Mdiny.
+>
+
+> **Z blogów:** na powrót z Mdiny **wsiadaj na pierwszym dostępnym przystanku** (pełny autobus nie zatrzyma się na kolejnym). ◽ **Rotunda w Moście** (darmowa, jedna z największych kopuł w Europie): gdybyś jechał trasą 51/52/53 przez Vallettę, wysiądź w Moście na ~20 min.
+>
+
+## Dzień 8 · wt 06.10 — Wylot 13/14/15 + 88 · karta 7 dni
+
+| Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
+| --- | --- | --- | --- | --- | --- |
+| 1 | autobus 13/14/15 | St Julian's → Valletta | ~25 min | karta | 🕐 wyjazd z hotelu ~08:30–08:45 |
+| 2 | autobus 88 | Valletta → Lotnisko | ~35 min | karta | 88 co ~15–30 min; karta wygasa 06.10 ~13:00 (nadal ważna na poranny dojazd); awaryjnie ~2,50 € |
+
+> Na lotnisku ~10:00–10:15 (~2 h 15 min przed odlotem 12:30 — to komfortowy zapas, spokojnie wystarczający; Malta Airport zaleca 2 h dla lotu w Schengen, 3 h tylko dla non-Schengen/long-haul). Trasa przez Vallettę ~1 h (13/14/15 ~25 min + 88 ~35 min). Szybsza opcja direct: **nie planuj na tym powrotu** — X2 przeniesiono na linie TD2/TD3 (poza Explore); pewny wariant to 13/14/15 + 88 (karta).
+>
+
