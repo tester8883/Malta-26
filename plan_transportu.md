@@ -91,7 +91,7 @@ Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
 | 3 | ten sam prom | Comino → Ċirkewwa (powrót) | ~45 min | w cenie (return) | ◽ Crystal Lagoon (kąpiel, mniej tłoku) **albo** wieża św. Marii + Santa Maria Bay; wieża ⚠️ zależna od otwarcia (nie rób pełnego obchodu wyspy) |
 | 4 | autobus 222 | Ċirkewwa → Sliema | 75–110 min | karta |  |
 
-> Rejs ze Sliemy to osobna, droższa opcja (ok. 28–40 €) — sprawdź konkretną ofertę, bo ceny/godziny/slot landing passu zależą od rejsu.
+> ⚠️ **Rejs ze Sliemy (GetYourGuide) to opcjonalna, droższa alternatywa** (ok. 28–40 €) i jedyny wariant, który **łącznie obejmuje z pokładu: Blue Lagoon + Crystal Lagoon + jaskinie morskie/Caves**. Domyślny **prom Comino Ferries z Ċirkewwy (~15 € return)** to tylko transport do Blue Lagoon — Crystal Lagoon i jaskiń z łodzi nie obejmuje (do Crystal Lagoon z lądu dochodzi się głównie do punktów widokowych). Sprawdź konkretną ofertę, bo ceny/godziny/slot landing passu zależą od rejsu.
 >
 
 > ⚠️ **Landing pass na Blue Lagoon (bezpłatny, osobny od biletu na łódź):** aby **wejść na brzeg**, trzeba zarezerwować **darmowy kod QR** (limit 4000 os.). Okna: **08:00–13:00 · 13:30–17:30 · 18:00–22:00** — wybierz slot **08:00–13:00** i zarezerwuj na **bluelagooncomino.mt / blcomino.com**. Pływasz z pokładu (bez schodzenia na brzeg) → pass niepotrzebny.

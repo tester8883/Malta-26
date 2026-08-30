@@ -278,9 +278,11 @@ Legenda: ⭐ = warta (polecam) · ✅ = warta · ⚠️ = średnio/opcjonalnie �
 
 | Atrakcja | Cena | Ocena |
 | --- | --- | --- |
-| **Blue Lagoon + prom z Ċirkewwy** | ~15 € return | ⭐ WARTE przy wczesnym starcie (październik OK); rejs ze Sliemy to droższa alternatywa (28–40 €) |
-| **Crystal Lagoon** (kąpiel, mniej tłoku) | w cenie rejsu | ✅ warte, spokojniejsza |
-| **Jaskinie morskie / Caves** | w cenie rejsu | ✅ warte |
+| **Blue Lagoon + prom z Ċirkewwy** | ~15 € return | ⭐ WARTE przy wczesnym starcie (październik OK); rejs ze Sliemy (GetYourGuide) to **droższa, opcjonalna** alternatywa (28–40 €) |
+| **Crystal Lagoon** (kąpiel, mniej tłoku) | w cenie rejsu GetYourGuide (opcjonalnego) | ✅ warte, spokojniejsza |
+| **Jaskinie morskie / Caves** | w cenie rejsu GetYourGuide (opcjonalnego) | ✅ warte |
+
+> ⚠️ **Rejs GetYourGuide = opcjonalny i jedyny wariant, który łącznie obejmuje te 3 atrakcje z pokładu** (Blue Lagoon + Crystal Lagoon + jaskinie morskie/Caves; ~28–40 € ze Sliemy). Domyślny **prom Comino Ferries z Ċirkewwy (~15 € return)** to tylko transport do Blue Lagoon — Crystal Lagoon i jaskiń z łodzi nie obejmuje (do Crystal Lagoon z lądu dochodzi się głównie do punktów widokowych).
 
 ### Marsaxlokk + Blue Grotto (D6)
 
