@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🗺️ Malta — mapa wszystkich miejsc z planu (GPS, Google Maps)</title>
+<style>
+  *{box-sizing:border-box}
+  body{font-family:system-ui,Segoe UI,Roboto,sans-serif;background:#f3f6fb;color:#1f2937;margin:0;padding:22px;line-height:1.45}
+  h1{font-size:24px;margin:0 0 4px}
+  h2{font-size:19px;margin:32px 0 8px;padding-top:14px;border-top:3px solid #cbd5e1}
+  h2:first-of-type{border-top:none;margin-top:18px;padding-top:0}
+  .sub{color:#6b7280;font-size:13px;margin:0 0 16px}
+  .card{background:#fff;border-radius:14px;padding:16px;margin:0 0 18px;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+  table{border-collapse:collapse;width:100%;min-width:520px;font-size:13px}
+  th,td{border:1px solid #e5e7eb;padding:7px 9px;text-align:left;vertical-align:top}
+  th{background:#f1f5f9;font-size:12px;color:#374151;text-transform:uppercase;letter-spacing:.02em}
+  tr:nth-child(even) td{background:#fafbfc}
+  .gps{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;color:#6b7280;white-space:nowrap}
+  a.gm{color:#1f6fb2;font-weight:700;text-decoration:none;white-space:nowrap}
+  a.gm:hover{text-decoration:underline}
+  .tag{font-size:11px;font-weight:600;padding:3px 9px;border-radius:20px;white-space:nowrap}
+  .bus{background:#e3f0fb;color:#1f6fb2}.ferry{background:#e0f6ef;color:#0e8a6d}.mix{background:#fdeeda;color:#c05a1a}
+  .note{font-size:12px;color:#6b7280;margin:10px 0 2px}
+  @media print{body{background:#fff;padding:10px}.card{box-shadow:none;border:1px solid #ddd}}
+</style>
+</head>
+<body>
+<nav style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:10px 14px;margin:0 0 18px;display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-family:system-ui,Segoe UI,Roboto,sans-serif;font-size:13px"><span style="font-weight:700;color:#6b7280;margin-right:6px">Plan:</span><a href="Plan_kompletny.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">🇲🇹 Kompletny</a><a href="Plan_zrownowazony.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">⚖️ Zrównoważony</a><a href="Plan_lajtowy.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">🏖️ Lajtowy</a><a href="Plan_transportu.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">🚌 Transport</a><a href="plan_mapka.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#1f6fb2;color:#fff;font-weight:700">🗺️ Mapa</a></nav>
+<h1>🗺️ Malta — mapa wszystkich miejsc z planu</h1>
+<p class="sub">Każde miejsce z planów (atrakcje, restauracje, przystanki) z linkiem do <b>Google Maps otwierającym dokładną współrzędną GPS</b>. Osobna sekcja z <b>trasami spacerów</b> oraz <b>przystankami autobusowymi</b>. Współrzędne zweryfikowane w źródłach; miejsca oznaczone „≈" to przybliżenie obszaru (obiekt nie ma ustalonego oficjalnego adresu).</p>
+
+<div class="card">
+<h2>D1 · Przylot + St Julian's <span class="tag bus">88 + 13/14/15</span></h2>
+<table>
+<tr><th>Miejsce</th><th>Co / dlaczego</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Lotnisko Malta (Luqa, MLA)</b></td><td>Przylot, karta Explore (Welcomer's Hall), autobus 88</td><td class="gps">35.8575, 14.4775</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8575,14.4775">🧭 Google Maps</a></td></tr><tr><td><b>Hotel Argento (St Julian's, Spinola Bay)</b></td><td>Baza całego wyjazdu (Triq il-Qaliet)</td><td class="gps">35.92058, 14.48975</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.92058,14.48975">🧭 Google Maps</a></td></tr><tr><td><b>Spinola Bay</b></td><td>Spacer, restauracje, widoki</td><td class="gps">35.9209, 14.4908</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.9209,14.4908">🧭 Google Maps</a></td></tr><tr><td><b>Portomaso Marina</b></td><td>Spacer po marinie, restauracje</td><td class="gps">35.92107, 14.49495</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.92107,14.49495">🧭 Google Maps</a></td></tr><tr><td><b>St George's Bay</b></td><td>Kąpiel / zachód słońca (10 min pieszo)</td><td class="gps">35.92582, 14.48784</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.92582,14.48784">🧭 Google Maps</a></td></tr>
+</table>
+<div class="note">Restauracje D1 — patrz sekcja „Restauracje” poniżej.</div>
+</div>
+
+<div class="card">
+<h2>D2 · Valletta (kultura) <span class="tag bus">13/14/15</span></h2>
+<table>
+<tr><th>Miejsce</th><th>Co / dlaczego</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>St John's Co-Cathedral</b></td><td>⭐ Wnętrze + Caravaggio (15 €)</td><td class="gps">35.89758, 14.51252</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89758,14.51252">🧭 Google Maps</a></td></tr><tr><td><b>Republic Street</b></td><td>Główna ulica Valletty</td><td class="gps">35.89968, 14.5148</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89968,14.5148">🧭 Google Maps</a></td></tr><tr><td><b>Grandmaster's Palace</b></td><td>⚠️ Sala Tronowa zamknięta → pomiń (12 €)</td><td class="gps">35.89861, 14.51417</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89861,14.51417">🧭 Google Maps</a></td></tr><tr><td><b>Upper Barrakka Gardens</b></td><td>⭐ Salut armatni 12:00, widok na Grand Harbour</td><td class="gps">35.89472, 14.51222</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89472,14.51222">🧭 Google Maps</a></td></tr><tr><td><b>Lower Barrakka Gardens</b></td><td>⭐ Widok na Grand Harbour, za darmo</td><td class="gps">35.89747, 14.51742</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89747,14.51742">🧭 Google Maps</a></td></tr><tr><td><b>MUŻA (National Museum of Art)</b></td><td>⚠️ opcjonalnie, sztuka (8 €)</td><td class="gps">35.89639, 14.51139</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89639,14.51139">🧭 Google Maps</a></td></tr><tr><td><b>Casa Rocca Piccola</b></td><td>⚠️ pałac + schrony bombowe (10 €)</td><td class="gps">35.89986, 14.51542</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89986,14.51542">🧭 Google Maps</a></td></tr><tr><td><b>Malta Experience</b></td><td>🚫 drogi show (16 €), przy Fort St Elmo</td><td class="gps">35.902, 14.51874</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.902,14.51874">🧭 Google Maps</a></td></tr>
+</table>
+</div>
+
+<div class="card">
+<h2>D3 · Gozo <span class="tag mix">szybki prom · karta</span></h2>
+<table>
+<tr><th>Miejsce</th><th>Co / dlaczego</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Terminal Lascaris Wharf (Valletta)</b></td><td>Szybki prom Gozo Highspeed (winda Barrakka 1 €)</td><td class="gps">35.8942, 14.5133</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8942,14.5133">🧭 Google Maps</a></td></tr><tr><td><b>Mġarr Harbour (Gozo)</b></td><td>Port promowy na Gozo, autobus 301</td><td class="gps">36.02359, 14.29815</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.02359,14.29815">🧭 Google Maps</a></td></tr><tr><td><b>Victoria / Citadella</b></td><td>⭐ Panorama, mury, pamiątki</td><td class="gps">36.04639, 14.23944</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.04639,14.23944">🧭 Google Maps</a></td></tr><tr><td><b>Świątynie Ġgantija (Xagħra)</b></td><td>⭐ UNESCO, starsze niż piramidy (10 € combo)</td><td class="gps">36.04728, 14.26914</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.04728,14.26914">🧭 Google Maps</a></td></tr><tr><td><b>Bazylika Ta' Pinu</b></td><td>✅ darmowe, klimatyczne (308)</td><td class="gps">36.06154, 14.21597</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.06154,14.21597">🧭 Google Maps</a></td></tr><tr><td><b>Tal-Mixta Cave (widok na Ramla)</b></td><td>⚠️ widok na pomarańczową plażę Ramla</td><td class="gps">36.06322, 14.28946</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.06322,14.28946">🧭 Google Maps</a></td></tr><tr><td><b>Ramla Bay</b></td><td>⚠️ piaszczysta, pomarańczowy piasek</td><td class="gps">36.06146, 14.28411</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.06146,14.28411">🧭 Google Maps</a></td></tr><tr><td><b>Xlendi Bay</b></td><td>⚠️ spacer, klify</td><td class="gps">36.03083, 14.21806</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.03083,14.21806">🧭 Google Maps</a></td></tr>
+</table>
+</div>
+
+<div class="card">
+<h2>D4 · Three Cities <span class="tag mix">autobus + prom</span></h2>
+<table>
+<tr><th>Miejsce</th><th>Co / dlaczego</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Birgu / Vittoriosa</b></td><td>Miasto, restauracje, lunch</td><td class="gps">35.8881, 14.5221</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8881,14.5221">🧭 Google Maps</a></td></tr><tr><td><b>Fort St Angelo</b></td><td>⚠️ historia + widoki (10 €)</td><td class="gps">35.89195, 14.51798</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89195,14.51798">🧭 Google Maps</a></td></tr><tr><td><b>Pałac Inkwizytora (Birgu)</b></td><td>⚠️ opcjonalnie, historia (8 €)</td><td class="gps">35.88719, 14.52246</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88719,14.52246">🧭 Google Maps</a></td></tr><tr><td><b>Gardjola Gardens (Senglea)</b></td><td>⭐ najlepszy widok na Vallettę, za darmo</td><td class="gps">35.89063, 14.51411</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89063,14.51411">🧭 Google Maps</a></td></tr><tr><td><b>Senglea (Isla)</b></td><td>Spacer, widoki</td><td class="gps">35.8884, 14.5156</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8884,14.5156">🧭 Google Maps</a></td></tr><tr><td><b>Golden Bay (Plan B, plaża)</b></td><td>🌊 piaszczysta plaża, autobus 223</td><td class="gps">35.93401, 14.34441</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.93401,14.34441">🧭 Google Maps</a></td></tr><tr><td><b>Għajn Tuffieha (Plan B, plaża)</b></td><td>🌊 mniej tłoczna plaża, obok Golden Bay</td><td class="gps">35.92898, 14.34487</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.92898,14.34487">🧭 Google Maps</a></td></tr>
+</table>
+</div>
+
+<div class="card">
+<h2>D5 · Comino <span class="tag ferry">prom Ċirkewwa</span></h2>
+<table>
+<tr><th>Miejsce</th><th>Co / dlaczego</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Ċirkewwa Ferry Terminal</b></td><td>222 → prom Comino Ferries</td><td class="gps">35.98843, 14.32897</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.98843,14.32897">🧭 Google Maps</a></td></tr><tr><td><b>Blue Lagoon (Comino)</b></td><td>⭐ kąpiel, słynna turkusowa zatoka</td><td class="gps">36.01361, 14.32278</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.01361,14.32278">🧭 Google Maps</a></td></tr><tr><td><b>Crystal Lagoon (Comino)</b></td><td>✅ spokojniejsza, mniej tłoku</td><td class="gps">36.0107, 14.32825</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.0107,14.32825">🧭 Google Maps</a></td></tr><tr><td><b>Wieża św. Marii (Comino)</b></td><td>⚠️ zależna od otwarcia, widoki z góry</td><td class="gps">36.00689, 14.32978</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.00689,14.32978">🧭 Google Maps</a></td></tr><tr><td><b>Jaskinie morskie / Caves (Comino)</b></td><td>✅ z pokładu rejsu GetYourGuide (opcjonalny; ≈ okolice jaskiń Santa Maria)</td><td class="gps">36.01805, 14.34017</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.01805,14.34017">🧭 Google Maps</a></td></tr>
+</table>
+</div>
+
+<div class="card">
+<h2>D6 · Blue Grotto + Marsaxlokk <span class="tag bus">201/202 + 81/85/119</span></h2>
+<table>
+<tr><th>Miejsce</th><th>Co / dlaczego</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Blue Grotto Boat Service (przystań Wied iż-Żurrieq)</b></td><td>⭐ miejsce wypłynięcia łodzi na jaskinie (rejs ~25 min, ~8–10 €, najlepiej przed 10:00)</td><td class="gps">35.81976, 14.45179</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.81976,14.45179">🧭 Google Maps</a></td></tr><tr><td><b>Punkt widokowy Blue Grotto (Blue Wall Viewpoint)</b></td><td>⭐ widok na łuk i Filflę, za darmo</td><td class="gps">35.82198, 14.4575</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.82198,14.4575">🧭 Google Maps</a></td></tr><tr><td><b>Ħaġar Qim</b></td><td>⭐ UNESCO, świątynie nad klifem (10 €, ~15–20 min pieszo)</td><td class="gps">35.82778, 14.44222</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.82778,14.44222">🧭 Google Maps</a></td></tr><tr><td><b>Mnajdra Temples</b></td><td>⭐ UNESCO, obok Ħaġar Qim</td><td class="gps">35.82667, 14.43639</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.82667,14.43639">🧭 Google Maps</a></td></tr><tr><td><b>Marsaxlokk</b></td><td>⭐ port, łodzie luzzu, targ rybny, obiad</td><td class="gps">35.8421, 14.543</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8421,14.543">🧭 Google Maps</a></td></tr><tr><td><b>St Peter's Pool (Delimara)</b></td><td>✅ opcjonalne kąpielisko (~20–30 min pieszo)</td><td class="gps">35.8329, 14.5625</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8329,14.5625">🧭 Google Maps</a></td></tr>
+</table>
+</div>
+
+<div class="card">
+<h2>D7 · Mdina + Rabat + Dingli <span class="tag bus">202 + 201</span></h2>
+<table>
+<tr><th>Miejsce</th><th>Co / dlaczego</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Mdina (Ciche Miasto)</b></td><td>⭐ spacer + bastiony; Katedra (combo 15 €)</td><td class="gps">35.88583, 14.40306</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88583,14.40306">🧭 Google Maps</a></td></tr><tr><td><b>Brama Główna Mdiny</b></td><td>Wejście do miasta</td><td class="gps">35.88464, 14.4034</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88464,14.4034">🧭 Google Maps</a></td></tr><tr><td><b>Rabat</b></td><td>Spokojniejszy klimat, katakumby, Domus Romana</td><td class="gps">35.8814, 14.3986</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8814,14.3986">🧭 Google Maps</a></td></tr><tr><td><b>Katakumby św. Pawła (Rabat)</b></td><td>⚠️ jeśli lubisz katakumby (10 €)</td><td class="gps">35.88069, 14.39761</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88069,14.39761">🧭 Google Maps</a></td></tr><tr><td><b>Domus Romana (Rabat)</b></td><td>⚠️ rzymskie mozaiki (6 €)</td><td class="gps">35.88515, 14.40029</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88515,14.40029">🧭 Google Maps</a></td></tr><tr><td><b>Klify Dingli</b></td><td>🌅 zachód słońca nad morzem</td><td class="gps">35.85106, 14.38467</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.85106,14.38467">🧭 Google Maps</a></td></tr><tr><td><b>Miġra l-Ferħa</b></td><td>🌅 punkty widokowe na klifach obok Dingli</td><td class="gps">35.8518, 14.3854</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8518,14.3854">🧭 Google Maps</a></td></tr><tr><td><b>Rotunda w Moście (Mosta Dome)</b></td><td>⚠️ darmowa kopuła (jeśli jedziesz 51/52/53)</td><td class="gps">35.91008, 14.4259</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.91008,14.4259">🧭 Google Maps</a></td></tr>
+</table>
+</div>
+
+<div class="card">
+<h2>D8 · Wylot + infrastruktura <span class="tag bus">13/14/15 + 88</span></h2>
+<table>
+<tr><th>Miejsce</th><th>Co / dlaczego</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Lotnisko Malta (Luqa, MLA)</b></td><td>Wylot (na lotnisku ~10:15, lot 12:30)</td><td class="gps">35.8575, 14.4775</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8575,14.4775">🧭 Google Maps</a></td></tr><tr><td><b>St Julian's / Paceville</b></td><td>Baza, restauracje, nocne życie (uwaga na Defected Malta 1–4.10)</td><td class="gps">35.925, 14.492</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.925,14.492">🧭 Google Maps</a></td></tr>
+</table>
+</div>
+
+<div class='card'><h2>🥾 Trasy spacerów (pieszo)</h2><p class='sub'>Kliknięcie otwiera Google Maps z trasą (w razie potrzeby przełącz tryb na „pieszo”). Poniżej kluczowe punkty każdego spaceru.</p>
+<table>
+<tr><th>Spacer</th><th>Przebieg / punkty</th><th>Mapa trasy</th></tr>
+<tr><td><b>D1 · Spinola → Portomaso → St George's Bay</b></td><td>Spacer brzegiem: Spinola Bay → Portomaso Marina → St George's Bay (kąpiel/zachód słońca).</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/35.9209,14.4908/35.92107,14.49495/35.92582,14.48784/">🧭 Trasa (Google Maps)</a></td></tr>
+<tr><td><b>D2 · Valletta: St John's → Republic St → Barrakka</b></td><td>St John's Co-Cathedral → Republic Street → Grandmaster's Palace → Upper Barrakka (salut 12:00) → Lower Barrakka.</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/35.89758,14.51252/35.89968,14.5148/35.89861,14.51417/35.89472,14.51222/35.89747,14.51742/">🧭 Trasa (Google Maps)</a></td></tr>
+<tr><td><b>D3 · Gozo: Victoria / Citadella</b></td><td>Spacer po Cytadeli i mieście Victoria (panorama, mury, kawa).</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/36.04639,14.23944/36.0458,14.2388/">🧭 Trasa (Google Maps)</a></td></tr>
+<tr><td><b>D4 · Three Cities: Birgu → Fort St Angelo → Gardjola</b></td><td>Birgu waterfront → Fort St Angelo → spacer do Gardjola Gardens / Senglea (najlepszy widok na Vallettę).</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/35.8881,14.5221/35.89195,14.51798/35.89063,14.51411/">🧭 Trasa (Google Maps)</a></td></tr>
+<tr><td><b>D5 · Comino: Blue Lagoon → Crystal Lagoon / Wieża św. Marii</b></td><td>Blue Lagoon → Crystal Lagoon (spokojniejsza zatoka) albo spacer na Wieżę św. Marii (~30 min, widoki z góry).</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/36.01361,14.32278/36.0107,14.32825/36.00689,14.32978/">🧭 Trasa (Google Maps)</a></td></tr>
+<tr><td><b>D6 · Blue Grotto: klify → Ħaġar Qim</b></td><td>Punkt widokowy Blue Grotto → pieszo do Ħaġar Qim i Mnajdra (~15–20 min).</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/35.82198,14.4575/35.82778,14.44222/35.82667,14.43639/">🧭 Trasa (Google Maps)</a></td></tr>
+<tr><td><b>D7 · Mdina → Rabat → Klify Dingli</b></td><td>Mdina (bastiony) → Rabat (katakumby, Domus Romana) → klify Dingli na zachód słońca (~18:40).</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/35.88583,14.40306/35.8814,14.3986/35.85106,14.38467/">🧭 Trasa (Google Maps)</a></td></tr>
+</table>
+<div class='note'>Trasy piesze wg planu. Odcinki autobusowe (13/14/15, 74, 81, 202, 201, 88 itd.) — patrz plan transportu. Na mapie przełącz tryb na „pieszo” dla dokładnych wskazówek.</div>
+</div>
+<div class='card'><h2>🍴 Restauracje i jedzenie (wg dnia)</h2><p class='sub'>Opcje z sekcji „Gdzie zjeść”. „≈” = przybliżenie obszaru (brak oficjalnego adresu).</p>
+<table>
+<tr><th>Restauracja</th><th>Gdzie / dzień · co</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Sticky Fingers BBQ</b></td><td>D1 · St Julian's — pewna opcja wieczorna (ok. €9–21/os.)</td><td class="gps">35.91835, 14.4893</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.91835,14.4893">🧭 Google Maps</a></td></tr>
+<tr><td><b>Tony's Bar</b></td><td>D1 · Spinola Bay — lokalny bar + szybkie jedzenie (ok. €5–10/os.)</td><td class="gps">35.91866, 14.48998</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.91866,14.48998">🧭 Google Maps</a></td></tr>
+<tr><td><b>Two Buoys</b></td><td>D1 · Spinola — brunch/lunch (do ~16:00), nie kolacja</td><td class="gps">35.9195, 14.49217</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.9195,14.49217">🧭 Google Maps</a></td></tr>
+<tr><td><b>Ta' Kris</b></td><td>D1 · Sliema (Fawwara Lane) — kuchnia maltańska, wyższa półka</td><td class="gps">35.90922, 14.50654</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.90922,14.50654">🧭 Google Maps</a></td></tr>
+<tr><td><b>Wigi's</b></td><td>D1 · Balluta Bay — wyższa półka (ok. €20–50/os.)</td><td class="gps">35.91508, 14.49326</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.91508,14.49326">🧭 Google Maps</a></td></tr>
+<tr><td><b>Zeri's</b></td><td>D1 · Portomaso Marina — ryby/premium (ok. €20–35/danie)</td><td class="gps">35.92105, 14.49203</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.92105,14.49203">🧭 Google Maps</a></td></tr>
+<tr><td><b>Singapore Noodle House</b></td><td>D1 · St Julian's — ⚠️ pomiń (zamknięte we wtorki)</td><td class="gps">35.92156, 14.490794</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.92156,14.490794">🧭 Google Maps</a></td></tr>
+<tr><td><b>Ta' Nenu</b></td><td>D2 · Valletta — ftira/królik (lunch, ok. €10–20)</td><td class="gps">35.89907, 14.51651</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89907,14.51651">🧭 Google Maps</a></td></tr>
+<tr><td><b>Café Jubilee</b></td><td>D2 · Valletta — casual lunch (ok. €10–30/os.)</td><td class="gps">35.89886, 14.51211</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89886,14.51211">🧭 Google Maps</a></td></tr>
+<tr><td><b>Aaron's Kitchen</b></td><td>D2 · Valletta — lokalne bistro, rezerwacja</td><td class="gps">35.89975, 14.51369</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89975,14.51369">🧭 Google Maps</a></td></tr>
+<tr><td><b>Rubino</b></td><td>D2 · Valletta — premium (Bib Gourmand), nie tania opcja</td><td class="gps">35.89927, 14.51204</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89927,14.51204">🧭 Google Maps</a></td></tr>
+<tr><td><b>Submarine</b></td><td>D2 · Valletta — sprawdź tego samego dnia (czasowo zamknięty)</td><td class="gps">35.89763, 14.51438</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.89763,14.51438">🧭 Google Maps</a></td></tr>
+<tr><td><b>Ta' Rikardu</b></td><td>D3 · Victoria (przy Cytadeli) — lunch, sery, ftira Ghawdxija</td><td class="gps">36.04634, 14.23974</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.04634,14.23974">🧭 Google Maps</a></td></tr>
+<tr><td><b>Coffee Break Café &amp; Bistro</b></td><td>D3 · Victoria — najbezpieczniejszy wybór (ok. €3–15/os.)</td><td class="gps">36.0437, 14.2409</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.0437,14.2409">🧭 Google Maps</a></td></tr>
+<tr><td><b>McSims</b></td><td>D3 · Victoria — pastizzi, tania przekąska</td><td class="gps">36.044525, 14.241079</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.044525,14.241079">🧭 Google Maps</a></td></tr>
+<tr><td><b>Ta' Ċetta</b></td><td>D3 · Victoria (Pjazza San Frangisk) — średnia półka</td><td class="gps">36.04236, 14.24077</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.04236,14.24077">🧭 Google Maps</a></td></tr>
+<tr><td><b>BeBirgu</b></td><td>D4 · Birgu — praktyczna pełna opcja (pizza ~€13–17)</td><td class="gps">35.88798, 14.52221</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88798,14.52221">🧭 Google Maps</a></td></tr>
+<tr><td><b>Il-Girbi</b></td><td>D4 · Birgu — ftira €7,50 / pasta / królik</td><td class="gps">35.88838, 14.52206</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88838,14.52206">🧭 Google Maps</a></td></tr>
+<tr><td><b>Tal-Petut</b></td><td>D4 · Birgu — wariant premium (€45–50/os., rezerwacja)</td><td class="gps">35.8876, 14.5229</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8876,14.5229">🧭 Google Maps</a></td></tr>
+<tr><td><b>Liska</b></td><td>D6 · Marsaxlokk — praktyczny lunch (nd ~11:30–16:00)</td><td class="gps">35.84131, 14.54601</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.84131,14.54601">🧭 Google Maps</a></td></tr>
+<tr><td><b>Ir-Rizzu</b></td><td>D6 · Marsaxlokk — plan B (godziny niespójne)</td><td class="gps">35.84089, 14.54489</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.84089,14.54489">🧭 Google Maps</a></td></tr>
+<tr><td><b>Tartarun</b></td><td>D6 · Marsaxlokk — premium (nd ~12:00–15:00, rezerwacja)</td><td class="gps">35.84143, 14.54536</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.84143,14.54536">🧭 Google Maps</a></td></tr>
+<tr><td><b>Ta' Doni</b></td><td>D7 · Rabat (Triq San Pawl) — lunch, kanapki, platters (ok. €5–25)</td><td class="gps">35.88404, 14.40015</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88404,14.40015">🧭 Google Maps</a></td></tr>
+<tr><td><b>Crystal Palace / Is-Serkin</b></td><td>D7 · Rabat — pastizzi €0,50–0,60 (przekąska)</td><td class="gps">35.88466, 14.40056</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88466,14.40056">🧭 Google Maps</a></td></tr>
+<tr><td><b>Fontanella Tea Garden</b></td><td>D7 · Mdina — widok, ciasta (deser/lunch)</td><td class="gps">35.88718, 14.4037</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88718,14.4037">🧭 Google Maps</a></td></tr>
+<tr><td><b>Don Mesquita</b></td><td>D7 · Mdina (Pjazza Mesquita) — lunch, nie po zachodzie (zamyka ~18:00)</td><td class="gps">35.88582, 14.40244</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88582,14.40244">🧭 Google Maps</a></td></tr>
+<tr><td><b>Trattoria AD 1530</b></td><td>D7 · Mdina (The Xara Palace) — średnia półka, nie pewna późna kolacja</td><td class="gps">35.88511, 14.40411</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88511,14.40411">🧭 Google Maps</a></td></tr>
+<tr><td><b>Coogi's</b></td><td>D7 · Mdina (Palazzo Costanzo) — średnia półka</td><td class="gps">35.88625, 14.40319</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88625,14.40319">🧭 Google Maps</a></td></tr>
+<tr><td><b>Il-Baxa</b></td><td>D7 · Rabat (41 Triq Il-Kbira) — lunch, otwarte do 17:00</td><td class="gps">35.882385, 14.399315</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.882385,14.399315">🧭 Google Maps</a></td></tr>
+<tr><td><b>Il-Mahzen</b></td><td>D7 · Rabat — dzienne przekąski/napoje (≈ obszar centrum Rabatu)</td><td class="gps">35.882, 14.399</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.882,14.399">🧭 Google Maps</a></td></tr>
+<tr><td><b>La Piazza</b></td><td>D7 · Rabat (Pjazza San Pawl) — lunch, otwarte dłużej</td><td class="gps">35.8826, 14.3993</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8826,14.3993">🧭 Google Maps</a></td></tr>
+</table>
+<div class='note'>D5 · Comino — brak restauracji: prowiant zabrany przed przeprawą (patrz plan).</div>
+</div>
+<div class='card'><h2>🚏 Przystanki autobusowe (wg dnia)</h2><p class='sub'>Kluczowe przystanki z liniami używanymi w planie. Kliknięcie otwiera pozycję przystanku na mapie.</p>
+<table>
+<tr><th>Przystanek</th><th>Dzień / linie · co</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Valletta Bus Terminus (Triton Fountain)</b></td><td>D2, D6, D7, D8 — centralny dworzec Malty (13/14/15, 81, 74, 202 itd.)</td><td class="gps">35.895639, 14.508278</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.895639,14.508278">🧭 Google Maps</a></td></tr>
+<tr><td><b>Sliema Bus Terminus</b></td><td>D1, D4, D5 — węzeł (13/14/15, 222, 223)</td><td class="gps">35.90885, 14.50421</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.90885,14.50421">🧭 Google Maps</a></td></tr>
+<tr><td><b>St Julian's · Paceville (Qaliet)</b></td><td>D1, D8 — koło hotelu Argento / Spinola (13/14/15, 222)</td><td class="gps">35.92373, 14.49211</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.92373,14.49211">🧭 Google Maps</a></td></tr>
+<tr><td><b>Wied iż-Żurrieq (Grotto)</b></td><td>D6 — przystanek przy Blue Grotto Boat Service (201/202)</td><td class="gps">35.81951, 14.45389</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.81951,14.45389">🧭 Google Maps</a></td></tr>
+<tr><td><b>Ħaġar Qim</b></td><td>D6 — dojazd do świątyń (201/73)</td><td class="gps">35.828, 14.45</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.828,14.45">🧭 Google Maps</a></td></tr>
+<tr><td><b>Marsaxlokk</b></td><td>D6 — węzeł przy porcie (81, 85, 119, 210)</td><td class="gps">35.8421, 14.543</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8421,14.543">🧭 Google Maps</a></td></tr>
+<tr><td><b>Mdina / Rabat (interchange)</b></td><td>D7 — węzeł pod Brama Główną Mdiny (202, 51/52/53, 56)</td><td class="gps">35.88595, 14.40257</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88595,14.40257">🧭 Google Maps</a></td></tr>
+<tr><td><b>Rabat · Inguanez</b></td><td>D7 — przystanek w centrum Rabatu</td><td class="gps">35.88189, 14.39882</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.88189,14.39882">🧭 Google Maps</a></td></tr>
+<tr><td><b>Klify Dingli · Maddalena</b></td><td>D7 — najbliższy przystanek przy kaplicy św. Marii (201, 56)</td><td class="gps">35.85106, 14.38467</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.85106,14.38467">🧭 Google Maps</a></td></tr>
+<tr><td><b>Victoria (Gozo) Bus Terminal</b></td><td>D3 — główny dworzec Gozo (301, 308 itd.)</td><td class="gps">36.04317, 14.2412</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.04317,14.2412">🧭 Google Maps</a></td></tr>
+<tr><td><b>Mġarr (Gozo) Ferry Terminal</b></td><td>D3 — przystanek przy porcie promowym</td><td class="gps">36.02359, 14.29815</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.02359,14.29815">🧭 Google Maps</a></td></tr>
+<tr><td><b>Ċirkewwa Ferry Terminal</b></td><td>D5 — przystanek przy terminalu Comino (222, 41, 42, X1)</td><td class="gps">35.98843, 14.32897</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.98843,14.32897">🧭 Google Maps</a></td></tr>
+<tr><td><b>Airport (Luqa)</b></td><td>D1, D8 — dojazd na lotnisko (88, X1)</td><td class="gps">35.8575, 14.4775</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8575,14.4775">🧭 Google Maps</a></td></tr>
+</table>
+<div class='note'>Przystanki wg planu transportu. Sprawdź numer peronu i rozkład tego samego dnia (karta Explore ważna we wszystkich liniach Malta Public Transport).</div>
+</div>
+<div class='card'><h2>🚌 Transport i infrastruktura</h2>
+<table>
+<tr><th>Miejsce</th><th>Co / dlaczego</th><th>GPS</th><th>Mapa</th></tr>
+<tr><td><b>Lotnisko Malta (Luqa, MLA)</b></td><td>Przylot/wylot, karta Explore</td><td class="gps">35.8575, 14.4775</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8575,14.4775">🧭 Google Maps</a></td></tr>
+<tr><td><b>Valletta Bus Terminus (Triton Fountain)</b></td><td>Centralny dworzec autobusowy Malty</td><td class="gps">35.895639, 14.508278</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.895639,14.508278">🧭 Google Maps</a></td></tr>
+<tr><td><b>Sliema Bus Terminus</b></td><td>Węzeł autobusowy Sliema (13/14/15, 222, 223)</td><td class="gps">35.90885, 14.50421</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.90885,14.50421">🧭 Google Maps</a></td></tr>
+<tr><td><b>Barrakka Lift (Valletta)</b></td><td>Winda z/na Lascaris Wharf (1 €; w D4 gratis z return promu)</td><td class="gps">35.8938, 14.5157</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8938,14.5157">🧭 Google Maps</a></td></tr>
+<tr><td><b>Terminal Lascaris Wharf</b></td><td>Szybki prom Gozo Highspeed (D3)</td><td class="gps">35.8942, 14.5133</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.8942,14.5133">🧭 Google Maps</a></td></tr>
+<tr><td><b>Mġarr Ferry Terminal (Gozo)</b></td><td>Port promowy na Gozo (D3)</td><td class="gps">36.02359, 14.29815</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=36.02359,14.29815">🧭 Google Maps</a></td></tr>
+<tr><td><b>Ċirkewwa Ferry Terminal</b></td><td>Prom Comino (D5) + Gozo Channel</td><td class="gps">35.98843, 14.32897</td><td><a class="gm" target="_blank" rel="noopener" href="https://www.google.com/maps?q=35.98843,14.32897">🧭 Google Maps</a></td></tr>
+</table>
+</div>
+
+<p class="note" style="margin-top:22px">Mapa miejsc · plany Malta 29.09–06.10 · linki otwierają współrzędne GPS / trasy w Google Maps · miejsca oznaczone „≈” to przybliżenia obszaru.</p>
+</body>
+</html>
