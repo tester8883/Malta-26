@@ -117,13 +117,14 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 | Godz. | Co |
 | --- | --- |
-| 07:15 | **🕐 Autobus 222** (przystanek **San Giljan – Ross**) → **Ċirkewwa** (~75–110 min) — karta |
-| 09:00 | ⭐ **Prom Comino Ferries** Ċirkewwa → **Blue Lagoon** (~15 € return/os; online ~14 €) — 🕐 pierwszy kurs = mniej tłoku |
+| 07:30 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min) |
+| 07:39 | **🕐 Autobus 222** → **Ċirkewwa** (~45–70 min; przyjazd ~08:25–08:50) — karta. ⚠️ **Sobota: co ~60 min** (06:39 · 07:39 · 08:40 …) — **brak kursu 07:15** |
+| 09:00–09:30 | ⭐ **Prom Comino Ferries** Ċirkewwa → **Blue Lagoon** (~15 € return/os; online ~14 €) — 🕐 pierwszy kurs = mniej tłoku. ⚠️ **Potwierdź rozkład na 3.10** (granica sezonu — operator potwierdza rejsy codzienne także w październiku) |
 | 09:45–13:00 | 🌊 **Blue Lagoon** — kąpiel, pływanie (woda ~22–23 °C) |
 | w tym | ◽ **Crystal Lagoon** — spokojniejsza zatoka do kąpieli, mniej tłoku |
 | 13:00–14:00 | ◽ **Wieża św. Marii** — spacer ~30 min w jedną stronę, widoki na wyspę z góry |
 | 14:00–15:00 | Prom powrotny → Ċirkewwa |
-| 15:00–16:30 | **222 → St Julian's (Ross)** (~75–110 min) |
+| 15:00–16:30 | **222 → St Julian's (Ross)** (~45–70 min; w sobotę co ~15–20 min) |
 | 16:30+ | **Popołudnie wolne** — odpoczynek w hotelu / spacer |
 
 > ✅ **Opcje (nie obowiązkowe):** Crystal Lagoon (kąpiel w spokojniejszej zatoce) i wieża św. Marii (widoki z góry) — wybierasz wg nastroju. Chcesz totalnego leniuchowania? Po prostu zostań cały czas w Blue Lagoon. Cel dnia: **dużo wody**.
@@ -141,13 +142,13 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 | --- | --- |
 | 07:45 | **Autobus 13/14/15** Sliema → Valletta — karta |
 | 08:35 | **Autobus 74 → Blue Grotto** (wysiądź Panorama, ~42 min; niedziela co 60 min) — karta |
-| 09:15 | ⭐ **Rejs po Blue Grotto** (~10 €/os, ok. 20–25 min; kupno na miejscu) — najwcześniej, najlepsze światło. ⚠️ Zależny od pogody/morza |
-| 09:45–10:15 | ⭐ **Punkt widokowy z klifu** — za darmo |
+| 09:30 | ⭐ **Rejs po Blue Grotto** (~10 €/os, ok. 20–25 min; kupno na miejscu; na miejscu ~09:20) — najwcześniej, najlepsze światło. ⚠️ Zależny od pogody/morza |
+| 10:00–10:30 | ⭐ **Punkt widokowy z klifu** — za darmo |
 | 11:00 | **Autobus → Marsaxlokk** (201→119 lub 74→81/85) — karta |
 | 12:30–16:00 | ⭐ **Marsaxlokk + obiad z owoców morza** (promenada, luzzu, stoiska). ⚠️ Uczciwie: dojście ~12:30 = **rybna część targu zwykle już zniknęła** (lokalne stragany kończą ok. południa) — zostają pamiątki, produkty i klimat portu. Świadomy kompromis przy priorytecie "Blue Grotto najpierw" |
 | 16:30–17:30 | **81/85 → Valletta → 13/14/15 → Sliema** — karta |
 
-> **Lajt wersja:** Ħaġar Qim/Mnajdra (15 €) pomijamy — zostaje tylko Blue Grotto + targ. Konflikt rano rozstrzygnięty jak zawsze: Blue Grotto najpierw (~09:15), Marsaxlokk na obiad.
+> **Lajt wersja:** Ħaġar Qim/Mnajdra (15 €) pomijamy — zostaje tylko Blue Grotto + targ. Konflikt rano rozstrzygnięty jak zawsze: Blue Grotto najpierw (~09:30), Marsaxlokk na obiad.
 >
 > ◽ **Opcjonalnie St Peter's Pool** (darmowe kąpielisko na półwyspie Delimara): ładna skalista zatoka, dojście ~20–30 min pieszo od przystanku (autobus z Marsaxlokk). Tylko jeśli pogoda/energia dopiszą — na spokojne popołudnie zamiast wcześniejszego powrotu. Jeśli nie masz siły — pomiń bez żalu.
 >
@@ -156,8 +157,8 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 | Godz. | Co |
 | --- | --- |
-| 08:15 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min) → **13/14/15 → Sliema** (przystanek Ferries, ~10 min) |
-| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (z przystanku Ferries w Sliemi; co ~60 min, ~53 min) — karta |
+| 08:40–08:55 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min) |
+| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; pon. kurs 09:00 potwierdzony, ~50–55 min; alternatywnie z Ferries w Sliemi: 08:50 / 09:20) — karta |
 | 10:00–12:30 | ⭐ **Mdina** — spacer po Cichym Mieście: **Brama Główna**, uliczki, **bastiony** (za darmo, przed wycieczkami ~10:00). ◽ **Katedra św. Pawła + muzeum** — combo **15 €** (ulg. 10 €) ⚠️ (można pominąć) |
 | 12:30–13:30 | Lunch **Fontanella Tea Garden** (widok, ciasta) |
 | 13:45–15:00 | ⭐ **Rabat** (tuż obok, pieszo ~10 min) — spokojniejszy, mieszkalny klimat. ◽ **Katakumby św. Pawła** (10 €) / **Domus Romana** (6 €, mozaiki) — tylko jeśli lubisz |
@@ -227,7 +228,7 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 ### Praktyczne (najważniejsze)
 
 - **Karta:** 7-dniowy Explore (25 €) na lotnisku, przyłóż pierwszy raz na **88**. Na lotnisko: 88 (w karcie) lub TD2 (+3 €, poza kartą).
-- **Kluczowe godziny unikania tłumów (zachowane):** St John's 09:00 · Comino przed 09:00 · Blue Grotto ~09:15 · Mdina ~10:00.
+- **Kluczowe godziny unikania tłumów (zachowane):** St John's 09:00 · Comino przed 09:00 · Blue Grotto ~09:30 · Mdina ~10:00.
 - **Autobusy na Gozo / Blue Grotto / Mdina co ~60 min** — sprawdzaj w aplikacji Tallinja.
 - **Autobusy bywają pełne** — na powrót z Mdiny wsiadaj na pierwszym przystanku.
 - **Gniazdka typu G** — zabierz przejściówkę.

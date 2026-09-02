@@ -86,10 +86,11 @@ Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | autobus 222 | San Giljan – Ross → Ċirkewwa | 75–110 min | karta | 🕐 wyjazd ~07:15 (do przystanku ~5 min pieszo) |
+| 0 | pieszo | Hotel → San Giljan – Ross | ~5 min | 0 € | wyjście ~07:30 |
+| 1 | autobus 222 | San Giljan – Ross → Ċirkewwa | 45–70 min | karta | 🕐 kurs **07:39** (sobota: co ~60 min — 06:39 · 07:39 · 08:40; **nie ma 07:15**) |
 | 2 | prom Comino Ferries | Ċirkewwa → Blue Lagoon (Comino) | ~45 min | ~15 € return | 🕐 pierwszy kurs = mniej tłoku; bilet elastyczny (bez godziny) — kup online i przyjedź rano |
 | 3 | ten sam prom | Comino → Ċirkewwa (powrót) | ~45 min | w cenie (return) | ◽ Crystal Lagoon (kąpiel, mniej tłoku) **albo** wieża św. Marii + Santa Maria Bay; wieża ⚠️ zależna od otwarcia (nie rób pełnego obchodu wyspy) |
-| 4 | autobus 222 | Ċirkewwa → San Giljan – Ross | 75–110 min | karta | ~5 min pieszo do hotelu |
+| 4 | autobus 222 | Ċirkewwa → San Giljan – Ross | 45–70 min | karta | sobota: w dzień co ~15–20 min; ~5 min pieszo do hotelu |
 
 > ⚠️ **Rejs ze Sliemy (GetYourGuide) to opcjonalna, droższa alternatywa** (ok. 28–40 €) i jedyny wariant, który **łącznie obejmuje z pokładu: Blue Lagoon + Crystal Lagoon + jaskinie morskie/Caves**. Domyślny **prom Comino Ferries z Ċirkewwy (~15 € return)** to tylko transport do Blue Lagoon — Crystal Lagoon i jaskiń z łodzi nie obejmuje (do Crystal Lagoon z lądu dochodzi się głównie do punktów widokowych). Sprawdź konkretną ofertę, bo ceny/godziny/slot landing passu zależą od rejsu.
 >
@@ -106,7 +107,7 @@ Kolejność: Blue Grotto NAJPIERW (najlepsze światło do ~13:00, najmniej ludzi
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | autobus 13/14/15 | Sliema → Valletta | ~20 min | karta | 🕐 wyjazd z hotelu ~07:45 (do Ross ~5 min pieszo), by zdążyć na 74 o 08:35 |
+| 1 | autobus 13/14/15 | Sliema → Valletta | ~20 min | karta | 🕐 wyjazd z hotelu ~07:45 (do Ross ~5 min pieszo), by zdążyć na **74 o 08:35** (niedziela: jedyny sensowny kurs — następny 09:35) |
 | 2 | autobus 74 | Valletta (stanowisko A5) → Blue Grotto (przystanek Panorama) | ~42 min | karta | 🕐 w niedzielę co 60 min — złap kurs 08:35 (przyjazd ~09:17); bądź przed 08:30 |
 | 3 | rejs łódką | Blue Grotto (Wied iż-Żurrieq) | 20–25 min | ~10 € | ⭐ warte; przed grupami wycieczkowymi; kupno na miejscu, ⚠️ zależny od pogody |
 | 3b | pieszo | Klifowy punkt widokowy + ◽ Ħaġar Qim/Mnajdra (10 €, UNESCO, ~15–20 min pieszo) | 1–2 h | 10 € (◽) | ⭐ Ħaġar Qim warte dla lubiących prehistorię; klify |
@@ -114,7 +115,7 @@ Kolejność: Blue Grotto NAJPIERW (najlepsze światło do ~13:00, najmniej ludzi
 | 5 | w porcie | Marsaxlokk + obiad z owoców morza | ~2 h | obiad | ⚠️ Uczciwie: po ~12:30 rybna część targu zwykle już zniknęła (lokalne stragany kończą ok. południa) — zostają pamiątki, produkty i klimat portu; łodzie luzzu cały dzień |
 | 6 | autobus 81/85 → 13/14/15 | Marsaxlokk → Valletta → Sliema | ~1 h | karta |  |
 
-> **Konflikt "co rano":** i Blue Grotto (najlepsze światło do ~13:00), i targ (najlepsze stragany rano) chcą Twojego poranka. Rozstrzygnięcie: **Blue Grotto rano (~09:15)**, Marsaxlokk na obiad/popołudnie. ⚠️ Uczciwie: dojście ~12:30–13:00 = **rybna część targu zwykle już zniknęła** (najbardziej lokalne stragany kończą ok. południa) — zostają pamiątki, produkty i klimat portu (łódki luzzu). To świadomy kompromis przy priorytecie "Blue Grotto najpierw". Nie dzielimy tego na 2 dni: oba są na południu i każda przesiadka to ~1–1,5 h bez bezpośredniego połączenia. **Alternatywa (odwrócona kolejność):** Marsaxlokk najpierw (bus 81 z Valletty co ~20 min, ~35 min; targ 07:00–10:00), potem 81/85 → Valletta → 74 na Blue Grotto ok. 12:00–13:00 (dobre światło do ~13:00; minus: więcej osób w południe).
+> **Konflikt "co rano":** i Blue Grotto (najlepsze światło do ~13:00), i targ (najlepsze stragany rano) chcą Twojego poranka. Rozstrzygnięcie: **Blue Grotto rano (~09:30)**, Marsaxlokk na obiad/popołudnie. ⚠️ Uczciwie: dojście ~12:30–13:00 = **rybna część targu zwykle już zniknęła** (najbardziej lokalne stragany kończą ok. południa) — zostają pamiątki, produkty i klimat portu (łódki luzzu). To świadomy kompromis przy priorytecie "Blue Grotto najpierw". Nie dzielimy tego na 2 dni: oba są na południu i każda przesiadka to ~1–1,5 h bez bezpośredniego połączenia. **Alternatywa (odwrócona kolejność):** Marsaxlokk najpierw (bus 81 z Valletty co ~20 min, ~35 min; targ 07:00–10:00), potem 81/85 → Valletta → 74 na Blue Grotto ok. 12:00–13:00 (dobre światło do ~13:00; minus: więcej osób w południe).
 >
 
 ## Dzień 7 · pon 05.10 — Mdina + Rabat autobus 202 + 201 · karta 7 dni
@@ -123,7 +124,7 @@ Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | autobus 202 | Sliema (przystanek Ferries) → Mdina | ~53 min | karta | co ~60 min; 🕐 wyjazd ~09:00 — dojazd z hotelu: 13/14/15 z Ross do Sliemy (~10 min, wyjdź do 08:15) |
+| 1 | autobus 202 | San Giljan – Ross → Mdina | ~50–55 min | karta | 🕐 kurs **09:00** (pon) — wsiadasz na Ross, bez przesiadki; alternatywnie z Ferries w Sliemi: 08:50 / 09:20 |
 | 2 | pieszo | ⭐ Mdina — spacer + bastiony | 2–3 h | 0 € | 🕐 przed wycieczkami (~10:00); ◽ Katedra+Muzeum combo 15 € (ulg. 10 €) ⚠️ pominąć |
 | 2b | przejście | Mdina → Rabat (katakumby) | ~15 min | 0 € | miasta obok siebie |
 | 2c | pieszo (◽) | ◽ Katakumby św. Pawła (10 €) / Domus Romana (6 €) | 1–1,5 h | 10 € | ⚠️ tylko jeśli lubisz katakumby / mozaiki |

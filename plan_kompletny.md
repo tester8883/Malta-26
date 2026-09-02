@@ -164,12 +164,13 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 07:15 | **Autobus 222** (przystanek **San Giljan – Ross**) → **Ċirkewwa** (~75–110 min) — karta |
-| ~09:00 | ⭐ **Prom Comino Ferries** Ċirkewwa → Blue Lagoon (15 € return/os; online bywa ~14 €). 🕐 pierwszy kurs = mniej tłoku. *Bilet elastyczny (bez godziny) — kup online i przyjedź rano na wybrany kurs.* |
+| 07:30 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min) |
+| 07:39 | **Autobus 222** → **Ċirkewwa** (~45–70 min wg rozkładu; przyjazd ~08:25–08:50) — karta. ⚠️ **Sobota: 222 z Rossu co ~60 min** (06:39 · 07:39 · 08:40 · 09:40 …) — **nie ma kursu o 07:15** |
+| ~09:00–09:30 | ⭐ **Prom Comino Ferries** Ċirkewwa → Blue Lagoon (15 € return/os; online bywa ~14 €). 🕐 pierwszy kurs = mniej tłoku; wg rozkładu październikowego rejsy z Ċirkewwy co ~30 min od ~08:40/09:10. *Bilet elastyczny (bez godziny) — kup online i przyjedź rano na wybrany kurs.* ⚠️ **Przed wyjazdem potwierdź rozkład na 3.10** (granica sezonu: część przewodników podaje „do września", ale operator i Direct Ferries pokazują rejsy codzienne także w październiku 2026) |
 | 09:45–13:00 | ⭐ **Blue Lagoon** — kąpiel (woda ~22–23 °C); ◽ **Crystal Lagoon** / jaskinie |
 | 13:00–14:00 | ◽ Spacer na **Wieżę św. Marii** (~30 min w jedną stronę) — widoki na wyspę z góry. ⚠️ **Nie gwarantowana**: dostępność zależy od otwarcia przez Din l-Art Ħelwa, pogody i obecności obsługi — jeśli zamknięta, zostań w Santa Maria Bay |
 | 14:00–15:00 | **Prom powrotny** → Ċirkewwa |
-| 15:00–16:30 | **Autobus 222** → St Julian's (wysiądź **San Giljan – Ross**, ~75–110 min) — karta |
+| 15:00–16:30 | **Autobus 222** → St Julian's (wysiądź **San Giljan – Ross**, ~45–70 min). W sobotę 222 z Ċirkewwy w dzień co ~15–20 min — karta |
 
 > **⚠️ Landing pass na Blue Lagoon (bezpłatny, osobny od biletu na łódź):** jeśli planujesz **zejść na ląd** przy Blue Lagoon, najpierw zarezerwuj **darmowy poranny slot AMS** (08:00–13:00; okna: 08:00–13:00 · 13:30–17:30 · 18:00–22:00) na **bluelagooncomino.mt / blcomino.com**, a przy zakupie Comino Ferries sprawdź, czy potwierdzenie zawiera dostęp/QR. Jeśli nie — pobierz bezpłatny pass z AMS. Jeśli pływasz **z pokładu** (bez schodzenia do kontrolowanego obszaru) — pass niepotrzebny.
 >
@@ -188,10 +189,10 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | Godz. | Co |
 | --- | --- |
 | 07:45 | **Autobus 13/14/15** Sliema → Valletta (~20 min) — karta |
-| 08:35 | **Autobus 74** Valletta (stanowisko A5) → **Blue Grotto / Wied iż-Żurrieq** (wysiądź **Panorama**, ~42 min; niedziela co 60 min, bądź przed 08:30) — karta |
-| 09:15 | ⭐ **Rejs łódką po Blue Grotto** (~10 €/os, ok. 20–25 min; kupno na miejscu, warto mieć gotówkę) — **🕐 najwcześniej, przed grupami; najlepsze światło**. ⚠️ Zależy od pogody/stanu morza — przy wzburzeniu rejsy mogą być wstrzymane |
-| 09:45–10:15 | ⭐ **Klifowy punkt widokowy** — gratis, widok na łuk i Filflę |
-| 10:15–11:30 | ◽ **Ħaġar Qim + Mnajdra** (10 €, UNESCO) — ~15–20 min pieszo — ⭐ warte (klify) |
+| 08:35 | **Autobus 74** Valletta (stanowisko A5) → **Blue Grotto / Wied iż-Żurrieq** (wysiądź **Panorama**, ~42 min) — karta. ✅ **Niedziela: odjazd 08:35 potwierdzony** (następny dopiero 09:35 — nie spóźnij się na ten pierwszy) |
+| 09:30 | ⭐ **Rejs łódką po Blue Grotto** (~10 €/os, ok. 20–25 min; kupno na miejscu, warto mieć gotówkę) — na miejscu jesteś ~09:20, pierwsze łódki od ~09:00–09:30; **🕐 najwcześniej, przed grupami; najlepsze światło**. ⚠️ Zależy od pogody/stanu morza — przy wzburzeniu rejsy mogą być wstrzymane |
+| 10:00–10:30 | ⭐ **Klifowy punkt widokowy** — gratis, widok na łuk i Filflę |
+| 10:30–11:30 | ◽ **Ħaġar Qim + Mnajdra** (10 €, UNESCO) — ~15–20 min pieszo — ⭐ warte (klify) |
 | 11:45 | **Autobus → Marsaxlokk**: 201 → lotnisko → 119 **lub** 74 → Valletta → 81/85 — karta |
 | 12:45 | ⭐ **Marsaxlokk + obiad z owoców morza** (promenada, łodzie luzzu, stoiska). ⚠️ Uczciwie: dojście ~12:45 oznacza, że **rybna część targu zwykle już zniknęła** (najbardziej lokalne stragany kończą ok. południa) — zostają pamiątki, produkty i klimat portu. To świadomy kompromis przy priorytecie "Blue Grotto najpierw". |
 | 15:30–16:30 | **81/85 → Valletta → 13/14/15 → Sliema** — karta |
@@ -203,8 +204,8 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 08:15 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min) → **13/14/15 → Sliema** (przystanek Ferries, ~10 min) |
-| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (z przystanku Ferries w Sliemi; co ~60 min, ~53 min) — karta |
+| 08:40–08:55 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min) |
+| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; poniedziałek: kurs **09:00 potwierdzony**, jazda ~50–55 min; z przystanku Ferries w Sliemi odjazdy 08:50 / 09:20 — gdybyś wolał wsiąść tam: 13/14/15 do Sliemy i wyjście do 08:35) — karta |
 | 10:00–12:30 | ⭐ **Mdina** — spacer po Cichym Mieście + **bastiony** (bezpłatnie). 🕐 przed wycieczkami (~10:00). ◽ Katedra+Muzeum — combo **15 €** (ulg. 10 €) ⚠️ pominąć |
 | 12:30–13:30 | Lunch **Fontanella Tea Garden** (widok, ciasta) |
 | 13:45–15:00 | ⭐ **Rabat** (pieszo ~10 min) — spokojniejszy, mieszkalny klimat. ◽ **Katakumby św. Pawła** 10 € ⚠️ · **Domus Romana** 6 € ⚠️ |
@@ -346,7 +347,7 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 - Karta zaczyna liczyć **od pierwszego użycia** → kup na lotnisku, przyłóż pierwszy raz na **88** w D1. Na lotnisko: 88 (w karcie) lub TD2 (+3 €).
 - **Osobno płacisz:** szybki prom Gozo (D3, ~15 € w obie przez Valletta; przez Sliema ~17 €), prom Valletta→Three Cities (D4, ~5 € return), prom Comino z Ċirkewwy (D5, ~15 €), rejs Blue Grotto (D6, ~10 €), wstępy.
 - **Autobusy na Gozo (301/307/308), Blue Grotto (74/201), 119 i Mdina (202) jeżdżą co ~60 min** — trzymaj się rozkładu w aplikacji **Tallinja**.
-- **🕐 kluczowe godziny unikania tłumów:** St John's 09:00 · Barrakka przed 12:00 · Comino przed 09:00 · Mdina ~10:00 · **Blue Grotto ~09:15** · Marsaxlokk na obiad.
+- **🕐 kluczowe godziny unikania tłumów:** St John's 09:00 · Barrakka przed 12:00 · Comino przed 09:00 · Mdina ~10:00 · **Blue Grotto ~09:30** · Marsaxlokk na obiad.
 - **Październik:** lekka kurtka wieczorem, kapcie do wody, sprawdzaj prognozę przed rejsami.
 - **St John's:** czynne 09:00–16:45, ostatnie wejście ~16:00.
 
@@ -363,7 +364,7 @@ Zebrane z blogów (m.in. zLukaszem, podrozepoeuropie, proste-podroze, podrozebez
 - **Blue Lagoon (Comino)** — „przypłyń pierwszym promem przed 09:00"; „w środku dnia w sezonie robi się naprawdę ciasno".
 - **Niedzielny targ w Marsaxlokk** — „najlepiej przed 9:00, zanim zjadą autokary". ⚠️ Konflikt z Blue Grotto rozstrzygnięty na korzyść Blue Grotto rano — patrz D6.
 - **Mdina** — „wróć po zachodzie słońca, kiedy wycieczkowicze wyjechali — podświetlone mury i prawie puste uliczki".
-- **Blue Grotto** — „rejsy to jedne z najpopularniejszych atrakcji, w sezonie długie kolejki" → potwierdza poranny dojazd ~09:15.
+- **Blue Grotto** — „rejsy to jedne z najpopularniejszych atrakcji, w sezonie długie kolejki" → potwierdza poranny dojazd (~09:30).
 
 ### Co polecają DOŁOŻYĆ
 
@@ -448,7 +449,7 @@ Gozo Highspeed to pasażerski prom (tylko pieszo, bez auta). **Domyślnie w D3 s
 
 - Tradycyjna łódź z **Wied iż-Żurrieq**, **kupno biletu na miejscu** — nie znaleziono oficjalnego systemu rezerwacji online.
 - **Budżet orientacyjny:** przyjmij **10 € za osobę**, ale miej **bufor 10–12 €**; rejs ~**20–25 min**. Bilet kupuje się na miejscu w **Wied iż-Żurrieq** — brak potwierdzonego systemu rezerwacji online. Forma płatności bywa różna — miej gotówkę, kartę traktuj jako awaryjną.
-- ⚠️ **Rejs zależy od pogody i stanu morza** — przy wzburzeniu może być wstrzymany. Bądź rano (~09:15), by uniknąć kolejki i mieć najlepsze światło.
+- ⚠️ **Rejs zależy od pogody i stanu morza** — przy wzburzeniu może być wstrzymany. Bądź rano (~09:30), by uniknąć kolejki i mieć najlepsze światło.
 - ✅ **Wariant awaryjny:** punkt widokowy Blue Grotto jest **bezpłatny** — jeśli łodzie nie kursują, zobacz widok z klifu i kontynuuj D6 zgodnie z planem (nie dziel go na 2 dni).
 
 ### 🟢 Kupujesz na miejscu / bez rezerwacji
