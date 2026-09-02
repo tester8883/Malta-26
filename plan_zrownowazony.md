@@ -1,6 +1,6 @@
 # ⚖️ Malta — plan ŚREDNI 29.09–06.10 (7 nocy)
 
-Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's (Argento)**. Transport: **autobusy Tallinja (7-dniowy Explore 25 €) + promy**, bez taksówek.
+Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's – Paceville (Vegas Resort)**. Transport: **autobusy Tallinja (7-dniowy Explore 25 €) + promy**, bez taksówek.
 
 **Złoty środek**: wszystkie atrakcje ⭐ **plus** wybrane ◽, które naprawdę warto (płatne "pewniaki" i mocne opcje), bez przeładowania. Umiarkowane tempo — kultura rano, popołudnia z miejscem na odpoczynek. Sztywne zasady zachowane: **D3 Gozo · D5 Comino · D6 Blue Grotto rano + Marsaxlokk · D7 Mdina**.
 
@@ -12,7 +12,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 ## Hotel i bilety
 
-**Hotel:** 🏆 **Argento (St Julian's, Spinola Bay)** — 3 918 zł, cicha dzielnica, blisko plaży i przystanku. ⚠️ ddream jest ~300 m dalej (lokalizacja niemal ta sama) i tańszy o 273 zł, ale to środek Paceville (hałas nocny) + gorsze opinie → Argento. (Alternatywa budżetowa: Orbis 2 758 zł.)
+**Hotel:** 🏆 **Vegas Resort (St Julian's – Paceville, Dragonara Road)** — ⭐3, otwarty 2025, ocena **8.4/10** (ok. 1360 opinii), śniadanie bufetowe, basen, recepcja 24 h. ~5 min pieszo do przystanku **San Giljan – Ross** (13/14/15 → Valletta · 222 → Ċirkewwa · X2 → lotnisko), ~5–7 min do plaży St George's Bay, ~8–10 min do Spinola Bay. ⚠️ **Środek Paceville = głośno nocą** — poproś o pokój od cichej strony / wyżej. Cena orientacyjna: od ~150 €/noc → 7 nocy ≈ **~4 400 zł**.
 
 **Bilet:** **7-dniowy Explore (25 €)** pokrywa wszystkie autobusy D1–D8. Osobno: szybki prom Gozo ~7,50 € w jedną (~15 € w obie); alternatywa przez Sliema ~17 €; budżetowo Gozo Channel 4,65 €), prom Valletta→Three Cities ~5 € return, prom Comino z Ċirkewwy ~15 € return, rejs Blue Grotto ~10 €, wejścia.
 
@@ -22,9 +22,9 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 | --- | --- |
 | 12:05 | Lądowanie Luqa |
 | 12:45 | **Kup 7-dniowy Explore (25 €)** na lotnisku |
-| 13:15 | **Autobus 88 → Valletta** (karta) → przesiadka **13/14/15 → St Julian's** (karta). **Pierwsze przyłożenie karty = na 88.** *(Wygodniej: TD2 prosto, ale +3 € i bez karty.)* |
-| 14:30–15:00 | Hotel Argento (Spinola Bay), rozpakuj się |
-| 15:30–17:00 | Spacer **Spinola Bay + Portomaso** |
+| 13:15 | **Autobus 88 → Valletta** (karta) → przesiadka **13/14/15 → St Julian's** (karta). **Pierwsze przyłożenie karty = na 88.** *(Wysiądź na **San Giljan – Ross** — ~5 min do hotelu. Wygodniej: TD2 prosto, ale +3 € i bez karty.)* |
+| 14:30–15:00 | Hotel **Vegas Resort** (Paceville), rozpakuj się |
+| 15:30–17:00 | Spacer **Spinola Bay + Portomaso** (~8–10 min pieszo od hotelu) |
 | 17:00–18:30 | ⭐ **St George's Bay** — kąpiel / zachód słońca |
 | 19:30 | Kolacja St Julian's |
 
@@ -51,7 +51,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 | Godz. | Co |
 | --- | --- |
-| 07:25 | Wyjście z hotelu → przystanek **Ferries (Sliema)** (~10 min pieszo) |
+| 07:25 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min pieszo) |
 | 07:45 | **Autobus 13/14/15** → **Valletta** (~25 min, karta) |
 | 08:10 | Dworzec Valletta → **zejście na terminal Lascaris Wharf**: **winda Barrakka 1 €** / darmowy **X133** (stanowisko A1) / ~10 min pieszo → terminal ~08:25 |
 | 08:45 | **🚤 Szybki prom Valletta → Mġarr** (Gozo Highspeed, **~45 min bezpośrednio**; **~7,50 € w jedną (~15 € w obie)**) |
@@ -97,13 +97,13 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 | Godz. | Co |
 | --- | --- |
-| 07:15 | **🕐 Autobus 222** Sliema → **Ċirkewwa** (~75–110 min) — karta |
+| 07:15 | **🕐 Autobus 222** (przystanek **San Giljan – Ross**) → **Ċirkewwa** (~75–110 min) — karta |
 | 09:00 | ⭐ **Prom Comino Ferries** Ċirkewwa → **Blue Lagoon** (~15 € return/os; online ~14 €) — 🕐 pierwszy kurs = mniej tłoku |
 | 09:45–12:30 | ⭐ **Blue Lagoon** — kąpiel (woda ~22–23 °C) |
 | 12:30–13:30 | ◽ **Crystal Lagoon** — spokojniejsza kąpiel |
 | 13:00–14:00 | ◽ **Wieża św. Marii** — spacer ~30 min w jedną stronę, widoki z góry |
 | 14:00–15:00 | Prom powrotny → Ċirkewwa |
-| 15:00–16:30 | **222 → Sliema** (~75–110 min) |
+| 15:00–16:30 | **222 → St Julian's (Ross)** (~75–110 min) |
 | 16:30+ | **Popołudnie wolne** |
 
 > ✅ Medium: wszystkie 3 elementy Comino w planie (Blue Lagoon + Crystal Lagoon + wieża) — to wciąż dzień "na wodzie", więc nie męczy.
@@ -136,7 +136,8 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 | Godz. | Co |
 | --- | --- |
-| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (co ~60 min, ~53 min) — karta |
+| 08:15 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min) → **13/14/15 → Sliema** (przystanek Ferries, ~10 min) |
+| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (z przystanku Ferries w Sliemi; co ~60 min, ~53 min) — karta |
 | 10:00–12:30 | ⭐ **Mdina** — Brama Główna, uliczki, **bastiony** (za darmo, przed wycieczkami ~10:00). ◽ **Katedra św. Pawła + muzeum** — combo **15 €** (ulg. 10 €) ⚠️ |
 | 12:30–13:30 | Lunch **Fontanella Tea Garden** (widok, ciasta) |
 | 13:45–15:00 | ⭐ **Rabat** (pieszo ~10 min) — spokojniejszy klimat. ◽ **Domus Romana** (6 €, mozaiki) — polecane · *albo Katakumby św. Pawła (10 €)* |
@@ -156,7 +157,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 | Godz. | Co |
 | --- | --- |
-| 08:30–08:45 | Wyjazd z hotelu: **13/14/15 → Valletta** (karta) → **88 → lotnisko** (karta). Trasa przez Vallettę ~1 h; 88 co ~15–30 min — spokojny poranek, bez startu o 07:30 |
+| 08:30–08:45 | Wyjazd z hotelu: **13/14/15 → Valletta** (karta) → **88 → lotnisko** (karta). Trasa przez Vallettę ~1 h; 88 co ~15–30 min — spokojny poranek, bez startu o 07:30; **check-out do 10:00** |
 | 10:00–10:15 | Na lotnisku (~2 h 15 min przed odlotem 12:30 — Malta Airport zaleca 2 h dla Schengen; 3 h to tylko non-Schengen). **Karta nadal ważna** (wygasa ~13:00); awaryjnie ~2,50 €. Opcja direct: **nie planuj na tym powrotu** — X2 przeniesiono na linie TD2/TD3 (poza Explore); pewny wariant to **13/14/15 + 88** (karta) |
 
 ## 🍴 Gdzie zjeść — smacznie i w rozsądnych cenach (wg dnia)
@@ -212,7 +213,7 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 - **Autobusy bywają pełne** — na powrót z Mdiny wsiadaj na pierwszym przystanku.
 - **Gniazdka typu G** — przejściówka.
 - **Październik:** lekka kurtka wieczorem, kapcie do wody, sprawdzaj pogodę przed rejsami.
-- **🎉 Wydarzenia:** **Notte Bianca** (sob 3.10, D5 wieczór) — darmowy festiwal sztuki w Valletcie, ~19:00–4:00 (opcjonalnie, maks. do ~21:30, bo D6 zaczyna się wcześnie) · **Defected Malta** 1–4.10 → w okolicy St Julian's może być głośno — proś o cichszy pokój w Argento.
+- **🎉 Wydarzenia:** **Notte Bianca** (sob 3.10, D5 wieczór) — darmowy festiwal sztuki w Valletcie, ~19:00–4:00 (opcjonalnie, maks. do ~21:30, bo D6 zaczyna się wcześnie) · **Defected Malta** 1–4.10 → w okolicy St Julian's może być głośno — proś o cichszy pokój w Vegas Resort (Paceville — głośno nocą).
 
-Plan ŚREDNI · Argento (St Julian's) · 7-dniowy Explore 25 € · Gozo D3, Comino D5, Mdina D7 · baza ~124–130 €, z opcjami ~140–150 €.
+Plan ŚREDNI · Vegas Resort (St Julian's – Paceville) · 7-dniowy Explore 25 € · Gozo D3, Comino D5, Mdina D7 · baza ~124–130 €, z opcjami ~140–150 €.
 

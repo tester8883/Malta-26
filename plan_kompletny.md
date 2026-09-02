@@ -1,6 +1,6 @@
 # 🇲🇹 Malta — kompletny plan 29.09–06.10 (7 nocy)
 
-Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku do **10:15**). Baza: **St Julian's (Argento)**. Transport: **autobusy Tallinja + promy** — bez taksówek. **7-dniowy Explore (25 €)** pokrywa wszystkie autobusy D1–D8. Plik zawiera: hotel, bilety, plan godzinowy, transport, oceny atrakcji, budżet, praktyczne, rady blogów i **rezerwacje online z linkami**.
+Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku do **10:15**). Baza: **St Julian's – Paceville (Vegas Resort)**. Transport: **autobusy Tallinja + promy** — bez taksówek. **7-dniowy Explore (25 €)** pokrywa wszystkie autobusy D1–D8. Plik zawiera: hotel, bilety, plan godzinowy, transport, oceny atrakcji, budżet, praktyczne, rady blogów i **rezerwacje online z linkami**.
 
 > **Spis treści:**
 > [1. Hotel](#hotel) ·
@@ -14,20 +14,15 @@ Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku do **1
 > [9. Rezerwacje online](#rezerwacje)
 >
 
-## 1. Gdzie nocować — przegląd 4 opcji i rekomendacja
+## 1. Hotel — Vegas Resort (St Julian's, Paceville)
 
 | Hotel | Cena | Lokalizacja | Śniadanie | Ocena / najważniejsze |
 | --- | --- | --- | --- | --- |
-| **Argento Hotel** ⭐4 | 3 918 zł | **St Julian's, Spinola Bay** — cicha dzielnica, ~2 min do przystanku, 10 min do plaży St George's | Tak | 🏆 **Rekomendacja.** Cicha dzielnica Spinola, blisko plaży i przystanku — dobra baza na D3 (bus 13/14/15 → Valletta, skąd szybki prom na Gozo) i D5 (222 → Ċirkewwa na Comino). 4.3/5 |
-| **Orbis Boutique Studios by Holi** ⭐4 | 2 758 zł | **Qormi** — centralna, lądowa dzielnica, 3 km od lotniska, 2 min od przystanku (61/62 do Valletty) | Nie (aneks) | 💡 **Najlepszy budżetowy.** 8.7/10, self-catering (kuchnia + pralka), możesz gotować. Minusy: brak morza/plaży, bez gwarantowanego śniadania, dalszy dojazd na D3 (Valletta) i D5 (Ċirkewwa) |
-| **ddream Hotel** ⭐3 | 3 645 zł | St Julian's, **środek Paceville** (nocne życie) | Tak | ✖️ **Słaba wartość** — ~300 m od Argento (lokalizacja praktycznie ta sama), a gorszy (środek Paceville = hałas nocny, skargi o remont/łazienki) |
-| **THE OSiRiS** (Marsaxlokk) | 2 621 zł | **Marsaxlokk** — wioska rybacka, płd.-wsch. | Nie | ✖️ Zła baza na objazdówkę: do Valletty/Mdiny/Gozo 1–1,5 h autobusem dziennie |
+| **Vegas Resort** ⭐3 | ~4 400 zł (orient.) | **St Julian's, Paceville (Dragonara Road)** — środek życia nocnego; ~5 min pieszo do przystanku **San Giljan – Ross** (13/14/15 → Valletta · 222 → Ċirkewwa · X2 → lotnisko); ~5–7 min do plaży St George's Bay; ~8–10 min do Spinola Bay | Tak (bufet) | 🏆 **Hotel wyjazdu.** Nowy obiekt (2025), ocena **8.4/10** (ok. 1360 opinii): duże, czyste pokoje z balkonem, basen z leżakami, recepcja 24 h. Najlepsza baza dla tego planu: przystanek Ross obsługuje wszystkie kluczowe linie (13/14/15, 222, X2). Uwaga: **Paceville = głośno nocą** — proś o pokój od cichej strony / wyżej |
 
-> 🏆 **Argento (3 918 zł)** — najlepszy wybór w St Julian's: cicha dzielnica Spinola, dobra ocena, blisko plaży i przystanku. ⚠️ **Ważne:** Argento i ddream są **~300 m od siebie** (lokalizacja niemal identyczna), a na Gozo w D3 jedzie się autobusem 13/14/15 (~25 min) do Valletty, skąd odchodzi szybki prom (Gozo Highspeed, Grand Harbour) — więc żaden z tych hoteli nie jest znacząco bliżej i argument „przystań promów" ich **nie różnicuje**. Wybór to jakość/cisza vs cena: Argento (cichy, +273 zł) vs ddream (głośny Paceville, gorsze opinie, −273 zł) → rekomendacja **Argento**. Dodatkowo Argento = dobra baza na D3 (bus do Valletty na Gozo) i D5 (Comino przez Ċirkewwę) oraz śniadania i restauracje w zasięgu pieszym.
+> 🏆 **Dlaczego Vegas Resort:** lokalizacja w Paceville to największe zagęszczenie restauracji, barów i życia wieczornego na Malcie (ale i hałas nocny — wybierz pokój od cichej strony). Kluczowa dla planu jest logistyka: przystanek **San Giljan – Ross ~5 min pieszo** obsługuje **13/14/15** (do Valletty — D2/D3/D4/D8), **222** (prosto na Ċirkewwę — D5, Comino) oraz **X2/TD2** (lotnisko — D1/D8). Wszystkie trasy planu działają więc bez zmian — z krótszym dojściem do autobusu niż wcześniej.
 >
-> 🏆 💡 **Orbis (2 758 zł)** — jeśli chcesz **zaoszczędzić ~1160 zł**: świetna cena i ocena, ale to **aparthotel/self-catering** (kuchnia + pralka, **bez gwarantowanego śniadania hotelowego**), brak morza, mniej restauracji/życia wieczornego, a D3 (bus do Valletty na Gozo) i D5 (Comino przez Ċirkewwę) wymagają dodatkowego dojazdu. Sens ma, gdy oszczędność na noclegu jest kluczowa i realnie skorzystacie z kuchni.
->
-> 🏆 ✖️ **ddream i Osiris** — odradzam (słaba wartość / zła lokalizacja).
+> ⚠️ **Praktycznie:** check-in od **15:00**, check-out do **10:00**, recepcja 24 h (w D1 zostaw bagaż przed meldunkiem). Cena **~4 400 zł / 7 nocy** jest **orientacyjna** (od ~150 €/noc wg portali rezerwacyjnych — sprawdź aktualną ofertę dla terminu 29.09–06.10). Uwaga: **Defected Malta 1–4.10** odbywa się w St Julian's (UNO, Fort St Elmo, Café del Mar) — w Paceville bywa wtedy wyjątkowo głośno.
 >
 
 ## 2. Bilety — 7-dniowy Explore (25 €)
@@ -87,10 +82,10 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | --- | --- |
 | 12:05 | Lądowanie Luqa |
 | 12:45–13:00 | Bagaż + **kup 7-dniowy Explore (25 €)** w kiosku Tallinja (hala przylotów). Na lotnisko/ze lotniska jeżdżą: **88** (zwykła, w cenie karty) i **TD2** ("Direct", **+3 €, poza kartą**) |
-| 13:15 | **Autobus 88 → Valletta** (karta) → przesiadka **13/14/15 → St Julian's** (karta). **Pierwsze przyłożenie karty = na 88.** *(Wygodniej: TD2 prosto do St Julian's, ale +3 € i bez karty.)* |
-| 14:30–15:00 | Hotel Argento (Spinola Bay), zostaw bagaż |
-| 15:30–17:00 | ⭐ Spacer **Spinola Bay** + **Portomaso Marina** (bezpłatnie) |
-| 17:00–18:30 | ⭐ **St George's Bay** na zachód słońca (10 min pieszo) |
+| 13:15 | **Autobus 88 → Valletta** (karta) → przesiadka **13/14/15 → St Julian's** (karta). **Pierwsze przyłożenie karty = na 88.** *(Wysiądź na przystanku **San Giljan – Ross** — ~5 min pieszo do Vegas Resort. Wygodniej: TD2 prosto do St Julian's, ale +3 € i bez karty.)* |
+| 14:30–15:00 | Hotel **Vegas Resort** (Paceville), zostaw bagaż (check-in od 15:00) |
+| 15:30–17:00 | ⭐ Spacer **Spinola Bay** + **Portomaso Marina** (bezpłatnie; ~8–10 min pieszo od hotelu) |
+| 17:00–18:30 | ⭐ **St George's Bay** na zachód słońca (~5–7 min pieszo od hotelu) |
 | 19:00 | Kolacja St Julian's |
 
 > Wartość: darmowe — ⭐ warte. Brak tłumów tego dnia.
@@ -100,7 +95,7 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 08:35 | Do przystanku **Ferries (Sliema)** (~10 min pieszo) |
+| 08:35 | Do przystanku **San Giljan – Ross** (~5 min pieszo od hotelu) |
 | 08:45 | **Autobus 13/14/15 → Valletta** (~20–25 min) — **karta** *(opcjonalnie prom ~10 min za ~2 €)* |
 | 09:00 | ⭐ **St John's Co-Cathedral** (15 €) — **🕐 bądź na otwarciu 09:00, przed grupami** |
 | 09:00–10:45 | Wnętrze + Caravaggio + audio-guide (w cenie) |
@@ -122,14 +117,14 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 >
 > **(domyślne) Valletta → Gozo:** Gozo Highspeed **~45 min bezpośrednio** do Mġarr, **~7,50 € w jedną (~15 € w obie)**; wybierz opcję „Return", promocja zmienna do ~12 €); całoroczny; kup bilet online. https://gozohighspeed.com
 >
-> **(alternatywa) Sliema → Gozo (przez Buġibba):** Gozo Highspeed ~1 h 15 min (krótka przesiadka — nie jeden bezpośredni rejs), **~8,50 € w jedną (~17 € w obie)**, sezon marzec–październik — wygodniej, bo powrót kończy się w St Julian's, a ostatni kurs Mġarr→Sliema jest później (21:15→22:30). ⚠️ Terminal ze Sliemy jest na The Strand (~25–35 min pieszo od Argento / krótki bus), nie przy samym hotelu.
+> **(alternatywa) Sliema → Gozo (przez Buġibba):** Gozo Highspeed ~1 h 15 min (krótka przesiadka — nie jeden bezpośredni rejs), **~8,50 € w jedną (~17 € w obie)**, sezon marzec–październik — wygodniej, bo powrót kończy się w St Julian's, a ostatni kurs Mġarr→Sliema jest później (21:15→22:30). ⚠️ Terminal ze Sliemy jest na The Strand (~25–30 min pieszo od Vegas Resort / krótki bus 13/14/15), nie przy samym hotelu.
 >
 > **(budżetowo) autobus 222 + prom Gozo Channel:** ~1 h 45–2 h 15 min, **4,65 € w obie** (bus na karcie) — taniej, ale dłużej i jedziesz do Ċirkewwy.
 >
 
 | Godz. | Co |
 | --- | --- |
-| 07:25 | Wyjście z hotelu → przystanek **Ferries (Sliema)** (~10 min pieszo) |
+| 07:25 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min pieszo) |
 | 07:45 | **Autobus 13/14/15** → **Valletta** (~25 min, karta) |
 | 08:10 | Dworzec Valletta (na górze) → **zejście na terminal Lascaris Wharf**: **winda Barrakka 1 €** (z Upper Barrakka) **lub darmowy X133** (stanowisko A1, zsynchronizowany z promami) **lub ~10 min pieszo w dół** → terminal ~08:25 |
 | 08:45 | 🚤 **Szybki prom Valletta → Mġarr** (Gozo Highspeed, **~45 min bezpośrednio**; **~7,50 € w jedną (~15 € w obie)**, kup wcześniej). Terminal Lascaris Wharf — pod murami, nie przy dworcu |
@@ -169,12 +164,12 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 07:15 | **Autobus 222** Sliema → **Ċirkewwa** (~75–110 min) — karta |
+| 07:15 | **Autobus 222** (przystanek **San Giljan – Ross**) → **Ċirkewwa** (~75–110 min) — karta |
 | ~09:00 | ⭐ **Prom Comino Ferries** Ċirkewwa → Blue Lagoon (15 € return/os; online bywa ~14 €). 🕐 pierwszy kurs = mniej tłoku. *Bilet elastyczny (bez godziny) — kup online i przyjedź rano na wybrany kurs.* |
 | 09:45–13:00 | ⭐ **Blue Lagoon** — kąpiel (woda ~22–23 °C); ◽ **Crystal Lagoon** / jaskinie |
 | 13:00–14:00 | ◽ Spacer na **Wieżę św. Marii** (~30 min w jedną stronę) — widoki na wyspę z góry. ⚠️ **Nie gwarantowana**: dostępność zależy od otwarcia przez Din l-Art Ħelwa, pogody i obecności obsługi — jeśli zamknięta, zostań w Santa Maria Bay |
 | 14:00–15:00 | **Prom powrotny** → Ċirkewwa |
-| 15:00–16:30 | **Autobus 222** → Sliema (~75–110 min) — karta |
+| 15:00–16:30 | **Autobus 222** → St Julian's (wysiądź **San Giljan – Ross**, ~75–110 min) — karta |
 
 > **⚠️ Landing pass na Blue Lagoon (bezpłatny, osobny od biletu na łódź):** jeśli planujesz **zejść na ląd** przy Blue Lagoon, najpierw zarezerwuj **darmowy poranny slot AMS** (08:00–13:00; okna: 08:00–13:00 · 13:30–17:30 · 18:00–22:00) na **bluelagooncomino.mt / blcomino.com**, a przy zakupie Comino Ferries sprawdź, czy potwierdzenie zawiera dostęp/QR. Jeśli nie — pobierz bezpłatny pass z AMS. Jeśli pływasz **z pokładu** (bez schodzenia do kontrolowanego obszaru) — pass niepotrzebny.
 >
@@ -208,8 +203,8 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 08:45 | Pieszo na przystanek **Ferries (Sliema)** |
-| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (co ~60 min, ~53 min) — karta |
+| 08:15 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min) → **13/14/15 → Sliema** (przystanek Ferries, ~10 min) |
+| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (z przystanku Ferries w Sliemi; co ~60 min, ~53 min) — karta |
 | 10:00–12:30 | ⭐ **Mdina** — spacer po Cichym Mieście + **bastiony** (bezpłatnie). 🕐 przed wycieczkami (~10:00). ◽ Katedra+Muzeum — combo **15 €** (ulg. 10 €) ⚠️ pominąć |
 | 12:30–13:30 | Lunch **Fontanella Tea Garden** (widok, ciasta) |
 | 13:45–15:00 | ⭐ **Rabat** (pieszo ~10 min) — spokojniejszy, mieszkalny klimat. ◽ **Katakumby św. Pawła** 10 € ⚠️ · **Domus Romana** 6 € ⚠️ |
@@ -229,7 +224,7 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 08:30–08:45 | Wyjazd z hotelu: **13/14/15 → Valletta** (karta) → **88 → lotnisko** (karta). Trasa przez Vallettę ~1 h; 88 z Valletty co ~15–30 min — **nie trzeba startować o 07:30**, jest spokojny poranek (śniadanie, spakowanie) |
+| 08:30–08:45 | Wyjazd z hotelu: **13/14/15 → Valletta** (karta) → **88 → lotnisko** (karta). Trasa przez Vallettę ~1 h; 88 z Valletty co ~15–30 min — **nie trzeba startować o 07:30**, jest spokojny poranek (śniadanie, spakowanie; **check-out do 10:00**) |
 | 10:00–10:15 | Na lotnisku (**~2 h 15 min przed odlotem 12:30** — tyle zaleca Malta Airport dla lotu w **Schengen**; 3 h to tylko non-Schengen/long-haul). **Karta nadal ważna** (wygasa ~06.10 ok. 13:00); awaryjnie miej ~2,50 € na bilety. Opcja szybsza/direct: **nie planuj na tym powrotu** — część źródeł wskazuje, że X2 przeniesiono na linie **TD2/TD3 (poza Explore)**; pewny wariant to **13/14/15 + 88** (karta) |
 
 ## 5. Oceny atrakcji — co warte, co opcjonalne
@@ -355,7 +350,7 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 - **Październik:** lekka kurtka wieczorem, kapcie do wody, sprawdzaj prognozę przed rejsami.
 - **St John's:** czynne 09:00–16:45, ostatnie wejście ~16:00.
 
-> **🎉 Wydarzenia w terminach wyjazdu (uwaga na tłok/hałas):** **Notte Bianca w Valletcie** — **sob 3.10** (wieczór D5), cała Valletta otwarta za darmo do późna (opcjonalny wieczorny bonus, wróć ~21:30, bo D6 zaczyna się wcześnie). **Defected Malta 1–4.10** (UNO, Fort St Elmo, Café del Mar) — jeśli nie lubisz dużych imprez, licz się ze wzmożonym ruchem w St Julian's; w Argento poproś o pokój od cichej strony.
+> **🎉 Wydarzenia w terminach wyjazdu (uwaga na tłok/hałas):** **Notte Bianca w Valletcie** — **sob 3.10** (wieczór D5), cała Valletta otwarta za darmo do późna (opcjonalny wieczorny bonus, wróć ~21:30, bo D6 zaczyna się wcześnie). **Defected Malta 1–4.10** (UNO, Fort St Elmo, Café del Mar) — jeśli nie lubisz dużych imprez, licz się ze wzmożonym ruchem w St Julian's; w Vegas Resort (środek Paceville) poproś o **pokój od cichej strony / wyżej** — nocą w Paceville gra muzyka.
 >
 
 ## 8. Rekomendacje i ostrzeżenia z polskich blogów
@@ -474,5 +469,5 @@ Gozo Highspeed to pasażerski prom (tylko pieszo, bez auta). **Domyślnie w D3 s
 | Przejściówka do gniazdek (typ G) — nie zapomnij! | ⬜ |
 | Tallinja Explore 7 dni (25 €) — kup na lotnisku (Welcomer's Hall, ~08:00–19:30) przy przylocie | ⬜ |
 
-Plan: 29.09–06.10 · Argento (St Julian's) · 7-dniowy Explore 25 € · Gozo D3 (szybki prom z Valletty), Comino D5 (prom z Ċirkewwy), Mdina D7. Budżet ~130 €/os. przy szybkim Gozo albo ~119 €/os. przy wariancie Gozo Channel — **orientacyjnie transport + bilety wstępu (dorosły), bez jedzenia, noclegu, lotów i zakupów**. Do wariantu online dolicz możliwą booking fee St John's oraz bufor na Airport Direct (3–3,50 €).
+Plan: 29.09–06.10 · Vegas Resort (St Julian's – Paceville) · 7-dniowy Explore 25 € · Gozo D3 (szybki prom z Valletty), Comino D5 (prom z Ċirkewwy), Mdina D7. Budżet ~130 €/os. przy szybkim Gozo albo ~119 €/os. przy wariancie Gozo Channel — **orientacyjnie transport + bilety wstępu (dorosły), bez jedzenia, noclegu, lotów i zakupów**. Do wariantu online dolicz możliwą booking fee St John's oraz bufor na Airport Direct (3–3,50 €).
 
