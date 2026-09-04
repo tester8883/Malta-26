@@ -1,6 +1,6 @@
 # 🇲🇹 Malta — kompletny plan 29.09–06.10 (7 nocy)
 
-Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku ~**10:02**; TD2 z przystanku przy Rossie). Baza: **St Julian's – Paceville (Vegas Resort)**. Transport: **autobusy Tallinja + promy** — bez taksówek. **7-dniowy Explore (25 €)** pokrywa autobusy **D1–D7** (start 29.09 — 7 dni kalendarzowych → do 05.10); w D8 na lotnisko **TD2** (3 €, poza kartą, bez przesiadki). Plik zawiera: hotel, bilety, plan godzinowy, transport, oceny atrakcji, budżet, praktyczne, rady blogów i **rezerwacje online z linkami**.
+Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku ~**10:02**; TD2 z przystanku Dragonara ~100 m od hotelu). Baza: **St Julian's – Paceville (Vegas Resort)**. Transport: **autobusy Tallinja + promy** — bez taksówek. **7-dniowy Explore (25 €)** pokrywa autobusy **D1–D7** (start 29.09 — 7 dni kalendarzowych → do 05.10); w D8 na lotnisko **TD2** (3 €, poza kartą, bez przesiadki). Plik zawiera: hotel, bilety, plan godzinowy, transport, oceny atrakcji, budżet, praktyczne, rady blogów i **rezerwacje online z linkami**.
 
 > **Spis treści:**
 > [1. Hotel](#hotel) ·
@@ -18,9 +18,9 @@ Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku ~**10:
 
 | Hotel | Cena | Lokalizacja | Śniadanie | Ocena / najważniejsze |
 | --- | --- | --- | --- | --- |
-| **Vegas Resort** ⭐3 | ~4 400 zł (orient.) | **St Julian's, Paceville (Dragonara Road)** — środek życia nocnego; ~5 min pieszo do przystanku **San Giljan – Ross** (13/14/15 → Valletta · 222 → Ċirkewwa · TD2/TD3 → lotnisko); ~5–7 min do plaży St George's Bay; ~8–10 min do Spinola Bay | Tak (bufet) | 🏆 **Hotel wyjazdu.** Nowy obiekt (2025), ocena **8.4/10** (ok. 1360 opinii): duże, czyste pokoje z balkonem, basen z leżakami, recepcja 24 h. Najlepsza baza dla tego planu: przystanek Ross obsługuje wszystkie kluczowe linie (13/14/15, 222, TD2/TD3). Uwaga: **Paceville = głośno nocą** — proś o pokój od cichej strony / wyżej |
+| **Vegas Resort** ⭐3 | ~4 400 zł (orient.) | **St Julian's, Paceville (Dragonara Road)** — środek życia nocnego; ~5 min pieszo do przystanku **San Giljan – Ross** (13/14/15 → Valletta · 222 → Ċirkewwa · 202 → Mdina) i ~100 m do przystanku **Paceville – Dragonara** (TD2 → lotnisko w D8); ~5–7 min do plaży St George's Bay; ~8–10 min do Spinola Bay | Tak (bufet) | 🏆 **Hotel wyjazdu.** Nowy obiekt (2025), ocena **8.4/10** (ok. 1360 opinii): duże, czyste pokoje z balkonem, basen z leżakami, recepcja 24 h. Najlepsza baza dla tego planu: przystanek Ross obsługuje kluczowe linie (13/14/15, 222, 202), a TD2 na lotnisko odjeżdża z Dragonary tuż przy hotelu. Uwaga: **Paceville = głośno nocą** — proś o pokój od cichej strony / wyżej |
 
-> 🏆 **Dlaczego Vegas Resort:** lokalizacja w Paceville to największe zagęszczenie restauracji, barów i życia wieczornego na Malcie (ale i hałas nocny — wybierz pokój od cichej strony). Kluczowa dla planu jest logistyka: przystanek **San Giljan – Ross ~5 min pieszo** obsługuje **13/14/15** (do Valletty — D2/D3/D4/D8), **222** (prosto na Ċirkewwę — D5, Comino) oraz **TD2/TD3** (lotnisko — D1/D8; poza kartą, 3 €). Wszystkie trasy planu działają więc bez zmian — z krótszym dojściem do autobusu.
+> 🏆 **Dlaczego Vegas Resort:** lokalizacja w Paceville to największe zagęszczenie restauracji, barów i życia wieczornego na Malcie (ale i hałas nocny — wybierz pokój od cichej strony). Kluczowa dla planu jest logistyka: przystanek **San Giljan – Ross ~5 min pieszo** obsługuje **13/14/15** (do Valletty — D2/D3/D4/D6), **222** (prosto na Ċirkewwę — D5, Comino) oraz **202** (Mdina — D7). Na lotnisko w D8: **TD2** z przystanku **Paceville – Dragonara** (~100 m od hotelu, przy Dragonara Road; poza kartą, 3 €) — ⚠️ TD2 **nie zatrzymuje się na Rossie**; awaryjnie **TD3** z przystanku San Giljan (~5 min). Wszystkie trasy planu działają więc bez zmian — z krótszym dojściem do autobusu.
 >
 > ⚠️ **Praktycznie:** check-in od **15:00**, check-out do **10:00**, recepcja 24 h (w D1 zostaw bagaż przed meldunkiem). Cena **~4 400 zł / 7 nocy** jest **orientacyjna** (od ~150 €/noc wg portali rezerwacyjnych — sprawdź aktualną ofertę dla terminu 29.09–06.10). Uwaga: **Defected Malta 1–4.10** — główne venue **poza Paceville** (UNO w Ta' Qali · Fort St Elmo w Valletcie · Café del Mar w St Paul's Bay; możliwe klubowe after-party) — ale Paceville i tak bywa głośne nocą (kluby), więc poproś o pokój od cichej strony.
 >
@@ -29,7 +29,7 @@ Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku ~**10:
 
 **✅ Zalecenie: 7-dniowy bilet Explore (25 €).** Jeśli w D2 i D4 (Valletta, Three Cities) jedziesz **autobusem 13/14/15 zamiast promu Sliema→Valletta**, te przejazdy też pokrywa karta — wtedy 7-dniówka wychodzi taniej i prościej. ⚠️ **Explore nie obejmuje linii „Tallinja Direct" (TD)** — one kosztują 3 €/przejazd dodatkowo. Wszystkie trasy w tym planie (poza TD2 na lotnisko w D8) używają zwykłych linii objętych kartą.
 
-> ✅ **Decyzja: aktywacja w D1 (29.09)** — Ważność = **7 kolejnych dni kalendarzowych** od pierwszego przyłożenia: start 29.09 → karta **do końca 05.10 (D7 ✓)**; poranek D8 (06.10) już poza kartą — celowo: **na lotnisko jedziemy TD2 (3 €, poza kartą)**, który staje przy Rossie i jedzie **bez przesiadki** (TD2 z San Giljan 09:24 → lotnisko ~10:02; zapas 09:54 → ~10:32). **Koszt identyczny jak wariant „start D2"** (~3 € za TD2 gdziekolwiek), a zysk: **~50 min dłuższego snu i zero przesiadki w D8** (wariant „D2" miał TD2 3 € w D1 i przesiadkę 13/14/15+88 w D8 przy wyjściu ~08:20). W D1 spokojnie — check-in od 15:00.
+> ✅ **Decyzja: aktywacja w D1 (29.09)** — Ważność = **7 kolejnych dni kalendarzowych** od pierwszego przyłożenia: start 29.09 → karta **do końca 05.10 (D7 ✓)**; poranek D8 (06.10) już poza kartą — celowo: **na lotnisko jedziemy TD2 (3 €, poza kartą)** z przystanku Dragonara (~100 m od hotelu) **bez przesiadki** (09:34 → lotnisko ~10:02; zapas 10:04 → ~10:32). **Koszt identyczny jak wariant „start D2"** (~3 € za TD2 gdziekolwiek), a zysk: **~50 min dłuższego snu i zero przesiadki w D8** (wariant „D2" miał TD2 3 € w D1 i przesiadkę 13/14/15+88 w D8 przy wyjściu ~08:20). W D1 spokojnie — check-in od 15:00.
 >
 
 **Osobno płacisz (nie wchodzi w kartę):**
@@ -95,8 +95,8 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 08:25–08:30 | Do przystanku **San Giljan – Ross** (~5 min pieszo od hotelu) |
-| 08:40 | **Autobus 13/14/15 → Valletta** (~20–25 min) — **karta**; realne odjazdy z Rossu: 13 o **08:20/08:40**, 14 o **08:29/08:49** — celuj w **14 o 08:29** (Valletta ~08:50, przed 09:00) *(opcjonalnie prom ~10 min za ~2 €)*. *(Karta Explore aktywna od D1 — przyłożona wczoraj na 88; ważna do 05.10.)* |
+| 08:15–08:20 | Do przystanku **San Giljan – Ross** (~5 min pieszo od hotelu; na miejscu przed 08:29) |
+| 08:29 | **Autobus 13/14/15 → Valletta** (~20–25 min) — **karta**; realne odjazdy z Rossu: 13 o **08:20/08:40**, 14 o **08:29/08:49** — celuj w **14 o 08:29** (Valletta ~08:50, przed 09:00) *(opcjonalnie prom ~10 min za ~2 €)*. *(Karta Explore aktywna od D1 — przyłożona wczoraj na 88; ważna do 05.10.)* |
 | 09:00 | ⭐ **St John's Co-Cathedral** (15 €) — **🕐 bądź na otwarciu 09:00, przed grupami** ⚠️ **muzeum katedralne w remoncie — zamknięte** (katedra + Caravaggio dostępne; godziny pon–sob 09:00–16:45) |
 | 09:00–10:45 | Wnętrze + Caravaggio + audio-guide (w cenie) |
 | 11:00–11:45 | Spacer **Republic Street**; ◽ **Grandmaster's Palace** 12 € — ✅ **można wejść 30.09** (State Rooms + Armoury; otwarte codziennie ~10:00–18:00, śr do ~17:00 — potwierdź na heritagemalta.mt; ⚠️ **Sala Tronowa nadal zamknięta do odwołania** — stan oficjalny; State Rooms zamknięte do 13:30 TYLKO 25.09 / 28.10 / 18.11 / 2.12.2026 — nie w nasz termin) |
@@ -106,7 +106,7 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 14:00–15:00 | ⭐ **Lower Barrakka** + mury — bezpłatnie |
 | 15:00–16:00 | ◽ **MUŻA** 8 € ⚠️ · **Archeologia** 10 € ⚠️ · **Malta Experience** 16 € 🚫; **max 1** |
 | 16:00 | (opcjonalnie 2. salut armatni) |
-| 17:00–17:30 | **Autobus 13/14/15 Valletta → Sliema** — karta *(opcjonalnie prom)* |
+| 17:00–17:30 | **Autobus 13/14/15 Valletta → St Julian's (Ross)** — karta *(opcjonalnie prom do Sliemy)* |
 
 > ⚠️ **Alternatywa, jeśli pominiesz Grandmaster's Palace / muzea:** kawa w kawiarni przy Upper Barrakka + spacer po bastionach i Lower Barrakka — najlepszy „darmowy" zamiennik; ewentualnie **Casa Rocca Piccola** (10 €, pałac + schrony bombowe).
 >
@@ -128,19 +128,19 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 07:45 | **Autobus 13/14/15** → **Valletta** (~25 min, karta) |
 | 08:10 | Dworzec Valletta (na górze) → **zejście na terminal Lascaris Wharf**: **winda Barrakka 1 € (bilet powrotny)** (z Upper Barrakka) **lub darmowy X133** (stanowisko A1, zsynchronizowany z promami) **lub ~10 min pieszo w dół** → terminal ~08:25 |
 | 08:45 | 🚤 **Szybki prom Valletta → Mġarr** (Gozo Highspeed, **~45 min bezpośrednio**; **~7,50 € w jedną (~15 € w obie)**, kup wcześniej). Terminal Lascaris Wharf — pod murami, nie przy dworcu |
-| 09:30 | Z Mġarr: **301 → Victoria** (~12 min, co ~30 min) — karta |
+| 09:30 | Z Mġarr: **301 → Victoria** (~15 min, co ~15 min) — karta |
 | 10:00–11:30 | ⭐ **Victoria / Citadella** — bezpłatnie; panorama |
 | 11:30–12:30 | Lunch Victoria |
-| 12:05 | **307 → Xaghra** (~12 min) — karta. ⚠️ **307 z Victorii co 60 min** (11:05 · 12:05 · 13:05 · 14:05) — jeśli nie zdążysz na 12:05, jedź 13:05 (wtedy Ġgantija 13:20–14:50) |
+| 12:05 | **307 → Xagħra** (~12 min) — karta. ⚠️ **307 z Victorii co 60 min** (11:05 · 12:05 · 13:05 · 14:05) — jeśli nie zdążysz na 12:05, jedź 13:05 (wtedy Ġgantija 13:20–14:50) |
 | 13:00–14:30 | ⭐ **Świątynie Ġgantija** (10 €, UNESCO — starsze niż piramidy; **bilet obejmuje też wiatrak Ta' Kola**, 5 min pieszo). 🕐 po południu spokojniej. **Otwarte 10:00–18:00** (1.03–31.10; ostatnie wejście 17:30) |
 | 14:30–14:50 | ◽ **Wiatrak Ta' Kola** (w cenie biletu; 5 min od świątyń) — wariant PEWNY. *(Opcjonalnie zejście w stronę Ramla Bay na widoki: ~25–30 min w dół, ale powrót pod górę — odpuść, by nie ryzykować 307!)* |
-| 14:33 lub 15:33 | **307 Xaghra → Victoria** (~12 min; odjazdy z Xaghry co ~60 min: **13:32 · 14:33 · 15:33** · 16:31) — karta. **15:33 = wariant PEWNY** (po Ta' Kola → Victoria 15:45 → powrót promem 16:45). **14:33 = wariant, który otwiera OPCJĘ Ta' Pinu** (wtedy odpuszczasz Ta' Kola lub skracasz zwiedzanie — patrz niżej) |
-| ⚠️ **OPCJA: TA' PINU** (dodatek) | Chcesz **naprawdę zobaczyć bazylikę Ta' Pinu**, nie tylko z autobusu? Da się — ale ⚠️ **musisz przesunąć prom na PÓŹNIEJSZY.** Autobus **308** to **pętla jednokierunkowa** Victoria → Ta' Pinu → Għammar → Għasri → Victoria: kurs z Victorii **14:55** dojeżdża do Ta' Pinu **15:05**, po czym **zawraca do Victorii (15:19), a NIE wraca pod bazylikę**. Żeby wysiąść i zwiedzić (~30–45 min), czekasz na **następny kurs 308** przez Ta' Pinu (**16:05**) → Victoria **16:18** → **301 → Mġarr ~16:48**. Tym samym **prom 16:45 już przepadł** (boarding do 16:43). Przy Ta' Pinu bierzesz **późniejszy prom**: **Mġarr→Sliema 17:15 → Sliema ~18:30** (osobny bilet ~8,50 €) albo **Mġarr→Valletta 17:45 → Valletta 18:30 → 13/14/15 → Sliema ~19:00**. Powrót **~18:30–19:00 zamiast ~18:00** — kolacja i wieczór mocno w tyle |
-| 16:00 | **301 Victoria → Mġarr** (co 15 min; **~18 min**) — karta (wariant PEWNY: 307 15:33 → Victoria 15:45 → 301 16:00) → Mġarr **16:18** → **prom 16:45** (boarding zamykany 2 min przed — 16:43) → Sliema ~18:00. *(Jeśli bierzesz OPCJĘ Ta' Pinu — patrz wyżej: późniejszy prom 17:15/17:45.)* |
-| 16:45 | 🚤 **Szybki prom Mġarr → Valletta** (~45 min, ~7,50 €) → Valletta ~17:30 → **13/14/15 → Sliema** (~25 min, karta) → ~18:00 (z korkami do ~18:30). Alternatywa: powrót przez **Sliema** (Mġarr→Sliema **17:15 → ~18:30**, osobny bilet ~8,50 €). Odejścia Mġarr→Valletta co ~godzinę; ost. w sezonie 19.06–31.10: **21:45 → 22:30**, **22:45 → 23:30**, **23:45 → 00:30** (codziennie; 00:45 → 01:30 tylko pt–nd) |
+| 14:33 lub 15:33 | **307 Xagħra → Victoria** (~12 min; odjazdy z Xagħry co ~60 min: **13:32 · 14:33 · 15:33** · 16:31) — karta. **15:33 = wariant PEWNY** (po Ta' Kola → Victoria 15:45 → powrót promem 16:45). **14:33 = wariant, który otwiera OPCJĘ Ta' Pinu** (wtedy odpuszczasz Ta' Kola lub skracasz zwiedzanie — patrz niżej) |
+| ⚠️ **OPCJA: TA' PINU** (dodatek) | Chcesz **naprawdę zobaczyć bazylikę Ta' Pinu**, nie tylko z autobusu? Da się — ale ⚠️ **musisz przesunąć prom na PÓŹNIEJSZY.** Autobus **308** to **pętla jednokierunkowa** Victoria → Ta' Pinu → Għammar → Għasri → Victoria: kurs z Victorii **14:55** dojeżdża do Ta' Pinu **15:05**, po czym **zawraca do Victorii (15:19), a NIE wraca pod bazylikę**. Żeby wysiąść i zwiedzić (~30–45 min), czekasz na **następny kurs 308** przez Ta' Pinu (**16:05**) → Victoria **16:18** → **301 → Mġarr ~16:48**. Tym samym **prom 16:45 już przepadł** (boarding do 16:43). Przy Ta' Pinu bierzesz **późniejszy prom**: **Mġarr→Sliema 17:15 → Sliema ~18:30** (osobny bilet ~8,50 €) albo **Mġarr→Valletta 17:45 → Valletta 18:30 → 13/14/15 → Ross ~19:00**. Powrót **~18:30–19:00 zamiast ~18:00** — kolacja i wieczór mocno w tyle |
+| 16:00 | **301 Victoria → Mġarr** (co 15 min; **~18 min**) — karta (wariant PEWNY: 307 15:33 → Victoria 15:45 → 301 16:00) → Mġarr **16:18** → **prom 16:45** (boarding zamykany 2 min przed — 16:43) → St Julian's ~18:00. *(Jeśli bierzesz OPCJĘ Ta' Pinu — patrz wyżej: późniejszy prom 17:15/17:45.)* |
+| 16:45 | 🚤 **Szybki prom Mġarr → Valletta** (~45 min, ~7,50 €) → Valletta ~17:30 → **13/14/15 → St Julian's (Ross)** (~25 min, karta) → ~18:00 (z korkami do ~18:30). Alternatywa: powrót przez **Sliema** (Mġarr→Sliema **17:15 → ~18:30**, osobny bilet ~8,50 €). Odejścia Mġarr→Valletta co ~godzinę; ost. w sezonie 19.06–31.10: **21:45 → 22:30**, **22:45 → 23:30**, **23:45 → 00:30** (codziennie; 00:45 → 01:30 tylko pt–nd) |
 | 18:00 | Kolacja St Julian's — wieczór wolny |
 
-> 🕐 Wyjdź z hotelu **07:20–07:30, nie później** (bus ~07:45 → prom 08:45), by mieć cały dzień na Gozo — boarding zamyka się **2 min przed odjazdem**, a Lascaris Wharf szuka się pierwszy raz dłużej. **Winda Barrakka: 1 € za bilet powrotny (góra i dół, ten sam dzień; gotówka) — płatna w każdą stronę** (zjazd w dół już nie jest darmowy); z return-promem w D4 winda gratis w obie strony; alternatywa: darmowy **X133** zsynchronizowany z promami lub ~10 min pieszo. Realny czas hotel → pokład to ~60–70 min (bus + zejście windą/X133). Liczba przejazdów: ~5 (bez długiej 222). **Lżejszy logistycznie niż wersja przez Ċirkewwę** i szybszy niż Sliema (bez przesiadki w Buġibbie).
+> 🕐 Wyjdź z hotelu **07:20–07:30, nie później** (bus ~07:45 → prom 08:45), by mieć cały dzień na Gozo — boarding zamyka się **2 min przed odjazdem**, a Lascaris Wharf szuka się pierwszy raz dłużej. **Winda Barrakka: 1 € za bilet powrotny (góra i dół, ten sam dzień; gotówka) — płatna w każdą stronę** (zjazd w dół już nie jest darmowy); z return-promem w D4 winda gratis w obie strony; alternatywa: darmowy **X133** zsynchronizowany z promami lub ~10 min pieszo. Realny czas hotel → pokład to ~80 min (07:25 → 08:45: dojście, bus, zejście windą/X133 i bufor przed boardingiem). Liczba przejazdów: ~5 (bez długiej 222). **Lżejszy logistycznie niż wersja przez Ċirkewwę** i szybszy niż Sliema (bez przesiadki w Buġibbie).
 >
 
 ### Dzień 4 · pt 02.10 — Three Cities autobus + prom do Birgu osobno
@@ -154,9 +154,9 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 12:30–13:30 | Lunch Birgu |
 | 14:00–15:00 | ⭐ **Senglea – Gardjola Gardens** — **bezpłatnie**, jeden z najlepszych widoków na Vallettę. 🕐 spokojne popołudnie |
 | 15:30–17:00 | ✅ **Darmowy widok z Barrakki** albo tania **dgħajsa (łódka)** przez port (~3–5 €) — klimat i widoki z wody · *(pełniejsza alternatywa: **Rejs po Grand Harbour** 1,5 h, 15–25 €)* |
-| 17:30 | **Autobus 13/14/15 → Sliema** — karta |
+| 17:30 | **Autobus 13/14/15 → St Julian's (Ross)** — karta |
 
-> ⚠️ **Alternatywy:** zamiast Fort St Angelo (12 €) — darmowy spacer nabrzeżem Birgu + widoki z Gardjola; zamiast drogiego rejsu (15–25 €) — tania **dgħajsa (łódka)** przez port ~3–5 € albo darmowy widok z Barrakka; tani „widok z wody" — prom Grand Harbour w obie strony (4,50–5 € return). Jeśli wybierzesz **dgħajsę**, rozważ też pełniejszą opcję — dłuższy **Rejs po Grand Harbour** (1,5 h, 15–25 €). **Uwaga:** dgħajsa to atrakcja, nie pewny środek transportu — jako plan awaryjny na powrót przez port używaj zwykłego promu Valletta–Three Cities (~3 € one way, pewny rozkład).
+> ⚠️ **Alternatywy:** zamiast Fort St Angelo (10 €) — darmowy spacer nabrzeżem Birgu + widoki z Gardjola; zamiast drogiego rejsu (15–25 €) — tania **dgħajsa (łódka)** przez port ~3–5 € albo darmowy widok z Barrakka; tani „widok z wody" — prom Grand Harbour w obie strony (4,50–5 € return). Jeśli wybierzesz **dgħajsę**, rozważ też pełniejszą opcję — dłuższy **Rejs po Grand Harbour** (1,5 h, 15–25 €). **Uwaga:** dgħajsa to atrakcja, nie pewny środek transportu — jako plan awaryjny na powrót przez port używaj zwykłego promu Valletta–Three Cities (~3 € one way, pewny rozkład).
 >
 
 ### Dzień 5 · sob 03.10 — Comino + Blue Lagoon 222 + prom Ċirkewwa→Comino 🟢
@@ -166,7 +166,7 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 07:30 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min; z bagażem ~8–10 min) |
+| 07:15 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min pieszo; na miejscu ~07:20) |
 | 07:28 | **Autobus 222** → **Ċirkewwa** (~55–60 min wg rozkładu; przyjazd ~08:25) — karta. ✅ **Sobota: 222 z Rossu co ~30 min rano** (06:27 · 06:57 · **07:28** · 07:58 · 08:30 · 09:00 · 09:31; od ~09:45 co ~15 min) — zapas: 07:58 (→ Ċirkewwa ~08:55) |
 | ~09:00–09:30 | ⭐ **Prom Comino Ferries** Ċirkewwa → Blue Lagoon (15 € return/os; online bywa ~14 €). 🕐 pierwszy kurs = mniej tłoku; wg rozkładu październikowego rejsy z Ċirkewwy co ~30 min od ~08:40/09:10. *Bilet elastyczny (bez godziny) — kup online i przyjedź rano na wybrany kurs.* ⚠️ **Przed wyjazdem potwierdź rozkład na 3.10** (granica sezonu: część przewodników podaje „do września", ale operator i Direct Ferries pokazują rejsy codzienne także w październiku 2026) |
 | 09:45–13:00 | ⭐ **Blue Lagoon** — kąpiel (woda ~22–23 °C); ◽ **Crystal Lagoon** / jaskinie |
@@ -197,16 +197,16 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 10:30–11:30 | ◽ **Ħaġar Qim + Mnajdra** (10 €, UNESCO) — ~15–20 min pieszo — ⭐ warte (klify) |
 | 11:45 | **Autobus → Marsaxlokk**: 201 z Wied iż-Żurrieq **12:15** → lotnisko **12:28** → **119** (nd **co 60 min**: z lotniska 13:00 → Marsaxlokk ~13:27) **lub** 74 → Valletta → 81/85; opcja direct **TD10** (nd, Valletta A6 → Marsaxlokk co ~10 min 09:15–16:35, **+3 € poza kartą**) — karta. ⚠️ Na przystanku Panorama/Wied wsiadaj w kurs 201 w stronę **Luqa/lotniska** (w stronę Rabatu jedzie w przeciwnym kierunku) |
 | 12:45 | ⭐ **Marsaxlokk + obiad z owoców morza** (promenada, łodzie luzzu, stoiska). ⚠️ Uczciwie: dojście ~12:45 oznacza, że **rybna część targu zwykle już zniknęła** (najbardziej lokalne stragany kończą ok. południa) — zostają pamiątki, produkty i klimat portu. To świadomy kompromis przy priorytecie "Blue Grotto najpierw". |
-| 15:30–16:30 | **81/85 → Valletta → 13/14/15 → Sliema** — karta |
+| 15:30–16:30 | **81/85 → Valletta → 13/14/15 → St Julian's (Ross)** — karta |
 
 > ⚠️ **Dlaczego Blue Grotto najpierw:** jaskinie mają najlepsze światło i najmniej ludzi rano (do ~13:00). Marsaxlokk zostaje na obiad/popołudnie — klimat portu i luzzu są cały dzień, a targ rybny (jeśli trafisz w niedzielę) i tak zwykle kończy się przed południem. **Świadomie rezygnujemy z porannego wyboru straganów** na rzecz światła w jaskiniach. Nie dzielimy tego na 2 dni: oba są na południu, każda przesiadka to ~1–1,5 h bez bezpośredniego połączenia.
 >
 
-### Dzień 7 · pon 05.10 — Mdina + Rabat → zachód słońca NAD MORZEM na klifach Dingli 202 + 201 · karta 🕐
+### Dzień 7 · pon 05.10 — Mdina + Rabat + klify Dingli (po południu) → zachód słońca z bastionów Mdiny 202 + 201 · karta 🕐
 
 | Godz. | Co |
 | --- | --- |
-| 08:40–08:55 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min; z bagażem ~8–10 min) |
+| 08:40–08:55 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min pieszo) |
 | 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; poniedziałek: kurs **09:00**, jazda ~50–55 min wg rozkładu (z korkami 60–70 — licz zapas); z przystanku Ferries w Sliemi odjazdy 08:50 / 09:20 — gdybyś wolał wsiąść tam: 13/14/15 do Sliemy i wyjście do 08:35) — karta |
 | 10:00–12:30 | ⭐ **Mdina** — spacer po Cichym Mieście + **bastiony** (bezpłatnie). 🕐 przed wycieczkami (~10:00). ◽ Katedra+Muzeum — combo **15 €** (ulg. 10 €) ⚠️ pominąć |
 | 12:30–13:30 | Lunch **Fontanella Tea Garden** (widok, ciasta) |
@@ -229,9 +229,9 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 09:00–09:05 | Wyjście z hotelu (karta Explore **wygasła 05.10** — D8 celowo poza kartą; **check-out do 10:00**, spokojne śniadanie) → przystanek **Ross/San Giljan** ~09:05 |
-| 09:24 | **TD2 (Airport Direct) → lotnisko** (**3 €**, poza kartą; staje tuż przy Rossie; **~35–40 min** → **lotnisko ~10:02** = 2 h 28 min przed odlotem). ✅ **~50 min dłuższego snu + zero przesiadki.** TD2 co 30 min: 09:24 · 09:54 · 10:24. **Awaryjnie:** TD2 09:54 → ~10:32 (2 h — ciasno) · **TD3** 09:45 → ~10:30 · single 13/14/15+88 (~4 €, wyjście 08:20 → lotnisko ~09:47) |
-| ~10:02–10:15 | Na lotnisku (**2 h 15 min–2 h 30 min przed odlotem 12:30** — tyle zaleca Malta Airport dla lotu w **Schengen**; 3 h to tylko non-Schengen/long-haul). Karta Explore wygasła 05.10 — niepotrzebna (koniec podróży); awaryjnie miej 3–4 € na bilety. Zapas na wypadek spóźnienia: TD2 09:54 → ~10:32 · TD3 09:45 → ~10:30 |
+| 09:15–09:20 | Wyjście z hotelu (karta Explore **wygasła 05.10** — D8 celowo poza kartą; **check-out do 10:00**, spokojne śniadanie) → przystanek **Paceville – Dragonara** (2035; ~100 m, przy Dragonara Road — **nie Ross**) na ~09:25 |
+| 09:34 | **TD2 (Airport Direct) → lotnisko** (**3 €**, poza kartą) z przystanku **Paceville – Dragonara** — ⚠️ **TD2 nie zatrzymuje się na Rossie** (najbliższe przystanki TD2: Dragonara ~100 m od hotelu, San Giljan ~5 min); **~28 min** → **lotnisko ~10:02** = 2 h 28 min przed odlotem. ✅ **~50 min dłuższego snu + zero przesiadki.** TD2 co 30 min (pn–pt z Dragonary: 09:04 · **09:34** · 10:04; ten sam kurs z San Giljan 09:24). **Awaryjnie:** TD2 10:04 → ~10:32 (2 h — ciasno) · **TD3** z przystanku San Giljan (1037, ~5 min od hotelu) 09:15 → ~10:00 / 09:45 → ~10:30 · single 13/14/15+88 (~4 €, wyjście 08:20 → lotnisko ~09:47) |
+| ~10:02–10:15 | Na lotnisku (**2 h 15 min–2 h 30 min przed odlotem 12:30** — tyle zaleca Malta Airport dla lotu w **Schengen**; 3 h to tylko non-Schengen/long-haul). Karta Explore wygasła 05.10 — niepotrzebna (koniec podróży); awaryjnie miej 3–4 € na bilety. Zapas na wypadek spóźnienia: TD2 10:04 → ~10:32 · TD3 (San Giljan) 09:45 → ~10:30 |
 
 ## 5. Oceny atrakcji — co warte, co opcjonalne
 
@@ -289,7 +289,7 @@ Legenda: ⭐ = warta (polecam) · ✅ = warta · ⚠️ = średnio/opcjonalnie �
 
 | Atrakcja | Cena | Ocena |
 | --- | --- | --- |
-| **Niedzielny targ rybny** | bezpłatnie | ⭐ WARTE — najbardziej „malteski" widok |
+| **Niedzielny targ rybny** | bezpłatnie | ⭐ WARTE — najbardziej „malteski" widok; ⚠️ w naszym planie (przyjazd ~12:45 po Blue Grotto) rybna część zwykle już zwinięta — zostają stragany, luzzu i port |
 | **Łodzie luzzu + port** | bezpłatnie | ⭐ WARTE |
 | **Blue Grotto — rejs łódką** | ~10 € | ⭐ WARTE, ale **tylko rano** (przed ~13:00); po południu światło i tłumy gorsze. ⚠️ Zależny od pogody/morza |
 | **Blue Grotto — punkt widokowy z klifu** | bezpłatnie | ✅ warte, nawet bez rejsu |
@@ -306,7 +306,7 @@ Legenda: ⭐ = warta (polecam) · ✅ = warta · ⚠️ = średnio/opcjonalnie �
 | **Muzeum Historii Naturalnej** | 7 € | ⚠️ opcjonalnie |
 | **Katakumby św. Pawła (Rabat)** | 6 € | ⚠️ tylko jeśli lubisz katakumby |
 | **Domus Romana (Rabat)** | 6 € | ⚠️ opcjonalnie, rzymskie mozaiki |
-| **Klify Dingli (zachód słońca)** | bezpłatnie | ✅ warte widoku, ale uwaga na rzadkie autobusy wieczorem |
+| **Klify Dingli (popołudniowy spacer; zachód oglądamy z bastionów Mdiny)** | bezpłatnie | ✅ warte widoku; zachód „nad morzem" tylko w wariancie opcjonalnym (201 z Dingli co 60 min — ostatni rozsądny 19:37) |
 
 > 🏆 **Wniosek:** płatne „pewniaki" to **St John's 15 + Ġgantija 10 + Ħaġar Qim 10 + Blue Grotto ~10 + Fort St Angelo 10 = ~55 €** (Fort i Ħaġar Qim ⚠️ opcjonalne). Cała reszta płatna to opcjonalne, a większość najpiękniejszych rzeczy jest darmowa. **Nie kupuj biletów z góry — wybieraj wg tabeli na miejscu.**
 >
@@ -349,9 +349,9 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 ## 7. Praktyczne
 
 - **7-dniowy Explore (25 €)** pokrywa **autobusy D1–D7** (start 29.09) — także dojazd do Valletty w D2/D3 (13/14/15 zamiast promu); **D8 na lotnisko: TD2 (3 €, poza kartą)**.
-- Karta zaczyna liczyć **od pierwszego użycia** → kup na lotnisku, **przyłóż pierwszy raz na 88 w D1 (29.09)**; ważna 7 dni kalendarzowych → **do 05.10**. **Na lotnisko w D8: TD2 (3 €, poza kartą)** — staje przy Rossie, bez przesiadki (opcjonalnie single 13/14/15 + 88 ~4 €).
+- Karta zaczyna liczyć **od pierwszego użycia** → kup na lotnisku, **przyłóż pierwszy raz na 88 w D1 (29.09)**; ważna 7 dni kalendarzowych → **do 05.10**. **Na lotnisko w D8: TD2 (3 €, poza kartą)** — z przystanku Dragonara (~100 m od hotelu; TD2 nie staje na Rossie), bez przesiadki (opcjonalnie single 13/14/15 + 88 ~4 €).
 - **Osobno płacisz:** szybki prom Gozo (D3, ~15 € w obie przez Valletta; przez Sliema ~17 €), prom Valletta→Three Cities (D4, 4,50–5 € return), prom Comino z Ċirkewwy (D5, ~15 €), rejs Blue Grotto (D6, ~10 €), wstępy.
-- **Autobusy na Gozo (301/307/308), Blue Grotto (74/201), 119 i Mdina (202) jeżdżą co ~60 min** — trzymaj się rozkładu w aplikacji **Tallinja**.
+- **Autobusy na Gozo 307/308, Blue Grotto (74/201), 119 i Mdina (202) jeżdżą co ~60 min** (wyjątek: 301 Mġarr↔Victoria co ~15 min) — trzymaj się rozkładu w aplikacji **Tallinja**.
 - **🕐 kluczowe godziny unikania tłumów:** St John's 09:00 · Barrakka przed 12:00 · Comino przed 09:00 · Mdina ~10:00 · **Blue Grotto ~09:30** · Marsaxlokk na obiad.
 - **Październik:** lekka kurtka wieczorem, kapcie do wody, sprawdzaj prognozę przed rejsami.
 - **St John's:** czynne pon–sob 09:00–16:45, ostatnie wejście ~16:00 (niedziele zamknięte), **muzeum katedralne zamknięte — remont/rozbudowa** (oficjalna strona).
@@ -386,7 +386,7 @@ Zebrane z blogów (m.in. zLukaszem, podrozepoeuropie, proste-podroze, podrozebez
 - **Autobusy potrafią się spóźniać i bywają pełne** — „nie polegaj na rozkładzie"; „wracając z Mdiny stój na pierwszym przystanku, bo pełny autobus nie zatrzyma się na kolejnym".
 - **W miastach straszne korki** — uwzględnij opóźnienia; autobus z lotniska potrafił przyjechać ±30 min.
 - **Kierowca nie zawsze ma resztę** — płać kartą zbliżeniową lub miej odliczone.
-- **Explore Card nie działa na linie TD** (jest ich niewiele; do wszystkiego w planie dojedziesz bez nich).
+- **Explore Card nie działa na linie TD** (jest ich niewiele; w planie używamy tylko TD2 na lotnisko w D8 — 3 € — reszta tras bez nich).
 - **Woda z kranu** — „zdatna, ale słony smak"; lepiej butelkowana.
 - **Gniazdka typu G (brytyjskie)** — zabierz przejściówkę (to kluczowe!).
 - **Plaże piaszczyste są nieliczne** — na Malcie Golden Bay, na Gozo Ramla Bay; reszta to klify/skaliste kąpieliska.
@@ -409,9 +409,9 @@ Sprawdzone na 2026. Niektóre rzeczy **trzeba** zarezerwować, inne **warto** (k
 
 ### 2. Szybki prom na Gozo — D3, domyślnie z Valletty (decyzja)
 
-Gozo Highspeed to pasażerski prom (tylko pieszo, bez auta). **Domyślnie w D3 startujemy z Valletty** — z Sliemy jedziemy autobusem 13/14/15 na karcie (~25 min) na dworzec, a z terminala **Lascaris Wharf** (pod murami — zejście windą Barrakka 1 € (bilet powrotny) / darmowym X133 / ~10 min pieszo) mamy **bezpośredni rejs ~45 min** — szybszy oraz tańszy niż trasa przez Buġibba (Comino w D5 zostaje przez Ċirkewwę).
+Gozo Highspeed to pasażerski prom (tylko pieszo, bez auta). **Domyślnie w D3 startujemy z Valletty** — z St Julian's (Ross) jedziemy autobusem 13/14/15 na karcie (~25 min) na dworzec, a z terminala **Lascaris Wharf** (pod murami — zejście windą Barrakka 1 € (bilet powrotny) / darmowym X133 / ~10 min pieszo) mamy **bezpośredni rejs ~45 min** — szybszy oraz tańszy niż trasa przez Buġibba (Comino w D5 zostaje przez Ċirkewwę).
 
-- **Domyślne — Valletta → Gozo:** **~45 min bezpośrednio** do Mġarr, **~7,50 € w jedną (~15 € w obie)**, całoroczne. Dojazd z Sliemy na karcie (13/14/15, ~25 min). Kup bilet online.
+- **Domyślne — Valletta → Gozo:** **~45 min bezpośrednio** do Mġarr, **~7,50 € w jedną (~15 € w obie)**, całoroczne. Dojazd z St Julian's na karcie (13/14/15, ~25 min). Kup bilet online.
 - **Alternatywa — Sliema → Gozo (przez Buġibba):** ~1 h 15 min (krótka przesiadka), od **~8,50 €** one way (~17 € w obie), sezon marzec–październik — wygodniejsza, gdy chcesz wrócić prosto do St Julian's (ostatni kurs Mġarr→Sliema jest później: 21:15 → 22:30).
 
 **Rozkłady na D3 (czw 1.10):**
@@ -459,7 +459,7 @@ Gozo Highspeed to pasażerski prom (tylko pieszo, bez auta). **Domyślnie w D3 s
 
 ### 🟢 Kupujesz na miejscu / bez rezerwacji
 
-- **Bilet autobusowy Explore 7 dni (25 €)** — Malta Public Transport Sales Office w Welcomer's Hall na lotnisku (oficjalne godziny ok. 08:00–19:30) albo automat biletowy / autoryzowane punkty (Agenda, 8TillLate, WH Smith). Link do sprzedaży: https://www.publictransport.com.mt/office-and-ticket-machine/ · https://www.publictransport.com.mt/fares-and-tickets/. ⚠️ Oficjalne strony MPT są niespójne co do Airport Direct/TD — dla bezpieczeństwa **nie zakładaj darmowego TD2/TD3/Airport Direct** Awaryjnie przyjmij **3 € za TD2/TD3** albo **3,50 € za TD1** i potwierdź zasady przy zakupie karty.
+- **Bilet autobusowy Explore 7 dni (25 €)** — Malta Public Transport Sales Office w Welcomer's Hall na lotnisku (oficjalne godziny ok. 08:00–19:30) albo automat biletowy / autoryzowane punkty (Agenda, 8TillLate, WH Smith). Link do sprzedaży: https://www.publictransport.com.mt/office-and-ticket-machine/ · https://www.publictransport.com.mt/fares-and-tickets/. ⚠️ Oficjalne strony MPT są niespójne co do Airport Direct/TD — dla bezpieczeństwa **nie zakładaj darmowego TD2/TD3/Airport Direct**. Awaryjnie przyjmij **3 € za TD2/TD3** albo **3,50 € za TD1** i potwierdź zasady przy zakupie karty.
 - **Szybki prom Gozo Highspeed** (Valletta→Mġarr, ~7,50 € w jedną (~15 € w obie); alternatywa przez Sliema ~8,50 €) — kup bilet online (patrz §2). Budżetowo zamiast tego: prom Gozo Channel (Ċirkewwa→Mġarr, 4,65 €, bilet pasażera powrotny, bez rezerwacji, first-come-first-served).
 - **Prom Valletta→Three Cities** — ~3 € one way / 4,50–5 € return (poza zwykłym Explore), na miejscu.
 - **Mdina, Rabat, Fort St Angelo, Pałac Inkwizytora** — standardowe wejścia zwykle kupisz na miejscu, ale część obiektów ma też oficjalną sprzedaż online; przed wizytą sprawdź godziny otwarcia, ostatnie wejście i ewentualne zamknięcia. Nie zakładaj wyłącznie gotówki.
@@ -472,10 +472,10 @@ Gozo Highspeed to pasażerski prom (tylko pieszo, bez auta). **Domyślnie w D3 s
 | Gozo — domyślnie szybki prom z Valletty (Gozo Highspeed, ~7,50 € w jedną (~15 € w obie); alternatywa przez Sliema ~8,50 €) — dojazd busem 13/14/15, kup bilet online na kurs 08:45 (finalną kwotę potwierdź w checkoutcie). Budżetowo zamiast tego: 222 + Gozo Channel (~4,65 € w obie) | ⬜ |
 | St John's Co-Cathedral — kup bilet przez oficjalny link fundacji (showsHappening) https://www.stjohnscocathedral.com/buy-tickets/ · na stjohnscocathedral.com/visit potwierdź godziny otwarcia (wg oficjalnej strony 09:00; muzeum katedralne w remoncie) | ⬜ |
 | Heritage Malta Multisite Pass (30–60 €) — tylko jeśli suma konkretnych biletów wynosi co najmniej 60 €; przy obecnym zestawie ≈42 € dla dorosłego (z Ħaġar Qim) kupuj pojedynczo/Rabat Combo (nie ma automatu „od 4 obiektów" — liczy się realna suma; aktualne ceny per obiekt sprawdź na heritagemalta.mt) | ⬜ |
-| Autobusy D3/D7 — w Tallinja (dzień wcześniej) zweryfikuj: **307** Xaghra 13:32/14:33/15:33, **202** Saqqajja 19:01/20:01/21:01 → Ross, awaryjna **51** 19:44/20:14 | ⬜ |
+| Autobusy D3/D7 — w Tallinja (dzień wcześniej) zweryfikuj: **307** Xagħra 13:32/14:33/15:33, **202** Saqqajja 19:01/20:01/21:01 → Ross, awaryjna **51** 19:44/20:14 | ⬜ |
 | Restauracje (Fontanella / Ta' Rikardu / Liska) — godziny bywają zmienne; potwierdź dzień wcześniej telefonem | ⬜ |
 | Przejściówka do gniazdek (typ G) — nie zapomnij! | ⬜ |
-| Tallinja Explore 7 dni (25 €) — kup i **aktywuj od razu w D1 (29.09, pierwsze przyłożenie na 88)**; ważność = 7 dni kalendarzowych → **do 05.10**. **D8 (06.10): TD2 09:24 → lotnisko ~10:02 (3 €, poza kartą, bez przesiadki)**. Przy zakupie potwierdź, że TD/Airport Direct są poza kartą | ⬜ |
+| Tallinja Explore 7 dni (25 €) — kup i **aktywuj od razu w D1 (29.09, pierwsze przyłożenie na 88)**; ważność = 7 dni kalendarzowych → **do 05.10**. **D8 (06.10): TD2 z przystanku Dragonara (~100 m od hotelu) 09:34 → lotnisko ~10:02 (3 €, poza kartą, bez przesiadki)**. Przy zakupie potwierdź, że TD/Airport Direct są poza kartą | ⬜ |
 
 Plan: 29.09–06.10 · Vegas Resort (St Julian's – Paceville) · 7-dniowy Explore 25 € · Gozo D3 (szybki prom z Valletty), Comino D5 (prom z Ċirkewwy), Mdina D7. Budżet ~128 €/os. przy szybkim Gozo albo ~117 €/os. przy wariancie Gozo Channel — **orientacyjnie transport + bilety wstępu (dorosły), bez jedzenia, noclegu, lotów i zakupów**. Do wariantu online dolicz możliwą booking fee St John's oraz bufor na Airport Direct (3–3,50 €).
 
