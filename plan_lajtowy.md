@@ -180,9 +180,9 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 | Godz. | Co |
 | --- | --- |
-| 09:00–09:05 | Wyjście z hotelu (karta Explore **wygasła 05.10**; **check-out do 10:00**), przystanek Ross/San Giljan ~09:05; **spokojne śniadanie** |
-| 09:24 | **TD2 → lotnisko** (**3 €**, poza kartą; staje przy Rossie; ~35–40 min) → **~10:02** (2 h 28 min przed odlotem; zapas 09:54 → ~10:32 · TD3 09:45 → ~10:30). ✅ **~50 min dłuższego snu, zero przesiadki** |
-| ~10:02–10:15 | Na lotnisku (~2 h 15 min przed odlotem 12:30 — Malta Airport zaleca 2 h dla Schengen). Karta wygasła 05.10 (koniec podróży); awaryjnie 3–4 €. Zapas: TD2 09:54 → ~10:32 · TD3 09:45 → ~10:30 |
+| 09:15–09:20 | Wyjście z hotelu (karta Explore **wygasła 05.10**; **check-out do 10:00**), przystanek **Paceville – Dragonara** (~100 m, przy Dragonara Road — **nie Ross**) na ~09:25; **spokojne śniadanie** |
+| 09:34 | **TD2 → lotnisko** (**3 €**, poza kartą; z przystanku Dragonara ~100 m od hotelu — ⚠️ **TD2 nie staje na Rossie**; ~28 min) → **~10:02** (2 h 28 min przed odlotem; zapas TD2 10:04 → ~10:32 · TD3 z San Giljan 09:45 → ~10:30). ✅ **~50 min dłuższego snu, zero przesiadki** |
+| ~10:02–10:15 | Na lotnisku (~2 h 15 min przed odlotem 12:30 — Malta Airport zaleca 2 h dla Schengen). Karta wygasła 05.10 (koniec podróży); awaryjnie 3–4 €. Zapas: TD2 10:04 → ~10:32 · TD3 (San Giljan) 09:45 → ~10:30 |
 
 ## 🍴 Gdzie zjeść — smacznie i w rozsądnych cenach (wg dnia)
 
@@ -230,7 +230,7 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 
 ### Praktyczne (najważniejsze)
 
-- **Karta:** 7-dniowy Explore (25 €) na lotnisku, **przyłóż pierwszy raz na 88 w D1 (29.09)** — ważna do 05.10. **Na lotnisko w D8: TD2 (3 €, poza kartą)** — staje przy Rossie, bez przesiadki.
+- **Karta:** 7-dniowy Explore (25 €) na lotnisku, **przyłóż pierwszy raz na 88 w D1 (29.09)** — ważna do 05.10. **Na lotnisko w D8: TD2 (3 €, poza kartą)** — z przystanku Dragonara (~100 m od hotelu; TD2 nie staje na Rossie), bez przesiadki.
 - **Kluczowe godziny unikania tłumów (zachowane):** St John's 09:00 · Comino przed 09:00 · Blue Grotto ~09:30 · Mdina ~10:00.
 - **Autobusy na Gozo / Blue Grotto / Mdina co ~60 min** — sprawdzaj w aplikacji Tallinja.
 - **Autobusy bywają pełne** — na powrót z Mdiny wsiadaj na pierwszym przystanku.

@@ -409,3 +409,75 @@ z zapasami (09:54 / TD3 09:45 / single) i adnotacją „karta wygasła 05.10 —
 („Wylot TD2 · karta do 05.10"); sekcje biletów i budżety („D1–D7; D8: TD2 +3 €", 25 € bez zmiany
 — TD2 z istniejącego bufora Airport Direct); notka §2 z tabelą decyzyjną; checklista §9.
 Stare wzorce wariantu B („nie aktywuj", „start 30.09", „D2–D8") w planach: **grep = 0**.
+
+---
+
+# Audyt #6 — historia zmian `Plan_kompletny.html` + weryfikacja u źródła (MPT 04.09.2026)
+
+**Zakres:** prześledzenie 9 commitów pliku (d9ffb44 → 95dc35b), pełna lektura, weryfikacja rozkładów
+TD2/TD3/301 (publictransport.com.mt), współrzędnych (OSM) i godzin otwarcia restauracji z planu.
+Werdykt użytkownika: 12/13 zarzutów trafnych, 1 odrzucony (budżet ~128 € — poprawne zaokrąglenie
+127,50–129 €), Barrakka (1 € bilet powrotny, płatna w obie strony) — potwierdzona, bez zmian.
+
+## Uzupełnienie dziennika: commit `95dc35b` (04.09, „zmiany v6”)
+
+Nie miał wpisu w ZMIANY.md. Zawartość: **Ta' Pinu wraca jako OPCJA** (nie „porzucone” jak w audycie #5):
+wariant z późniejszym promem (308 14:55 → Ta' Pinu 15:05, następny 308 16:05 → Victoria 16:18 →
+301 → Mġarr ~16:48 → prom 17:15 do Sliemy lub 17:45 do Valletty); **15:33 = wariant PEWNY**
+(307 15:33 → Victoria 15:45 → 301 16:00 → Mġarr 16:18 → prom 16:45); wiersz D8 przepisany na TD2;
+tabela „Układ dni” D8: „13/14/15 → 88” → „TD2 → lotnisko (3 €, poza kartą)”.
+
+## Błąd istotny: TD2 NIE zatrzymuje się na przystanku San Giljan – Ross (1038)
+
+Rozkład TD2 (Airport – St Julian's – Airport, co 30 min): … Miller 6403 → **San Giljan 923** →
+Pembroke P&R 3547 → Ganado 2033 → **Paceville 2034 → Dragonara 2035 → Spinola 1039** → Miller 6402 →
+Avjazzjoni 283 → **Airport 3 (2552)**. Rossa (1038/926) na trasie **nie ma**. „09:24” z planu to odjazd
+z San Giljan 923 (Balluta/Spinola Rd, ~350 m od hotelu).
+
+Najbliższy przystanek TD2 dla Vegas Resort (Dragonara Road): **Paceville – Dragonara 2035**
+(35.92521, 14.49132; OSM) — **~100 m od hotelu**. Odjazdy pn–pt: 09:04 · **09:34** · 10:04
+(Airport 3: 09:32 · **10:02** · 10:32; jazda ~28 min). Sobota/niedziela niemal identyczne.
+**TD3** (co 30 min) staje na **San Giljan 1037** (sąsiad Rossa, 35.92233, 14.48770): 09:15 → ~10:00,
+09:45 → ~10:30 — zostaje jako zapas „sprzed Rossa”.
+
+**Zmiana we wszystkich planach (4 MD + 4 HTML + plan_mapka):** D8 = wyjście 09:15–09:20 → Dragonara
+→ **TD2 09:34 → lotnisko ~10:02** (2 h 28 min przed odlotem); zapas TD2 10:04 → ~10:32 lub TD3 z San
+Giljan 09:45 → ~10:30; single 13/14/15+88 bez zmian. Sekcje hotelu/biletów/checklisty: „TD2 staje przy
+Rossie” → „TD2 z Dragonary ~100 m od hotelu (nie staje na Rossie)”. plan_mapka: nowy wiersz przystanku
+Dragonara (2035) i korekta wiersza Ross (bez TD2/TD3).
+
+## Pozostałe poprawki (Plan_kompletny.html + plan_kompletny.md)
+
+| # | Było | Jest | Uwaga |
+| --- | --- | --- | --- |
+| 1 | nagłówek: „Explore pokrywa wszystkie autobusy D1–D8” | „D1–D7 (do 05.10); D8: TD2 3 €” | md miał już poprawnie |
+| 2 | hotel: 13/14/15 „D2/D3/D4/D8”, TD2/TD3 „D1/D8” | 13/14/15 D2/D3/D4/D6 · 222 D5 · 202 D7 · TD2 D8 z Dragonary | D1 = 88, D8 = TD2 |
+| 3 | D2: „08:35 do przystanku” + „celuj w 14 o 08:29” | wyjście **08:15–08:20**, wiersz busa **08:29** | logika godzin |
+| 4 | D5: „07:30 wyjście” przed „07:28 autobus 222” | wyjście **07:15** (na przystanku ~07:20) | j.w. |
+| 5 | D5/D7: „z bagażem ~8–10 min” | usunięte | dni bez bagażu |
+| 6 | D3: „301 → Victoria (~12 min, co ~30 min)”; §7 „301/307/308 co ~60 min” | 301 **co ~15 min, ~15 min jazdy**; §7: 307/308 co 60, 301 co 15 | rozkład 301 (MPT) |
+| 7 | D3 notka: „hotel → pokład ~60–70 min” | ~80 min (07:25 → 08:45) | zgodnie z tabelą |
+| 8 | D3: wiersze „307 14:33/15:33” i „OPCJA Ta' Pinu” bez `</tr>` i komórki Mapa | domknięte; Mapa Ta' Pinu w wierszu opcji | HTML z 95dc35b |
+| 9 | D3: link „Mapa” przy Ta' Kola → współrzędne Ta' Pinu (36.06154, 14.21597) | **Ta' Kola 36.04980, 14.26675** (+ wiersz w plan_mapka) | 5 km różnicy |
+| 10 | D7: link „Mapa” przy Rossie → 35.91, 14.501 | Ross 35.92161, 14.49049 | ~2 km różnicy |
+| 11 | D4 alternatywy: „Fort St Angelo (12 €)” | 10 € | 12 € = Pałac |
+| 12 | §8: „TD… do wszystkiego w planie dojedziesz bez nich” | „w planie tylko TD2 na lotnisko w D8” | nieaktualne po TD2 |
+| 13 | cele powrotów „→ Sliema” (D2/D3/D4/D6), „z Sliemy” (§9 Gozo) | „→ St Julian's (Ross)”, „z St Julian's” | opisy trasy „Sliema → Valletta” zostają |
+| 14 | „Xaghra” ×3/×4 | „Xagħra” | pisownia |
+| 15 | §5: „Klify Dingli (zachód słońca)”, „targ rybny ⭐” bez zastrzeżenia | dopiski zgodne z D6/D7 (zachód z Mdiny; targ po 12:45 zwinięty) | spójność z planem |
+| 16 | D7 tytuł „zachód słońca NAD MORZEM na klifach Dingli” | „klify Dingli (po południu) → zachód z bastionów Mdiny” | tytuł vs treść |
+| 17 | §9: brak kropki przed „Awaryjnie” | kropka | literówka |
+
+**Bez zmian (świadomie):** budżet „~128 €” (127,50–129 €); Barrakka 1 € bilet powrotny w obie strony;
+link „Mapa” w D1 (wiersz 88 → pin na Rossie = konwencja „mapa = cel wiersza”); opisy „13/14/15
+Sliema → Valletta” (linia faktycznie jedzie przez Sliemę).
+
+**Sprawdzone i OK:** dni tygodnia (29.09.2026 = wt; czw Gozo, pt Birgu, sob Comino + Notte Bianca 3.10,
+nd Marsaxlokk, pon Mdina); restauracje z planu otwarte w zaplanowane dni (Café Riche pt 09:00–15:30 i
+19:30–22:30, czw nieczynne; Il-Girbi pt 07:30–21:00, pon nieczynne; Ta' Ċetta czw 08:00–23:00).
+
+**Przy okazji:** Plan_lajtowy.html (2 wiersze) i Plan_zrownowazony.html (3 wiersze) miały ten sam
+brak `</tr>` w tabeli D3 — domknięte. Plan_transportu: wiersz „Hotel → Ross” bez „TD2/TD3 → lotnisko”.
+
+**Zmiany: 9 plików planu + ZMIANY.md. Stare wzorce („przy Rossie”, „09:24 →”, „09:54 → ~10:32”,
+„D2/D3/D4/D8”, „Fort St Angelo (12”, „z bagażem” w kompletnym, „35.91,14.501”): grep = 0.**

@@ -30,7 +30,7 @@ Lądowanie 12:05 → na lotnisku do ~13:00. Kup 7-dniowy Explore (25 €) i **u�
 | 1b | autobus 13/14/15 | Valletta → St Julian's | ~25 min | karta | przesiadka w Valletcie; wysiądź **San Giljan – Ross** (~5 min pieszo do hotelu) |
 | 2 | pieszo | Hotel **Vegas Resort (Paceville)** → Spinola Bay → Portomaso → St George's Bay | ~1,5–2 h | 0 € | Wieczorny spacer + zachód słońca |
 
-> 🕐 **Karta Explore = 7 kolejnych dni kalendarzowych** od pierwszego przyłożenia — aktywuj ją **od razu (D1, 29.09)**; wtedy pokrywa D1–D7 (do 05.10). W D8: **TD2 (3 €, poza kartą)** — bez przesiadki z przystanku przy Rossie (zamiast 2 przejazdów single 13/14/15+88 = 4 € i wcześniejszego wstawania).
+> 🕐 **Karta Explore = 7 kolejnych dni kalendarzowych** od pierwszego przyłożenia — aktywuj ją **od razu (D1, 29.09)**; wtedy pokrywa D1–D7 (do 05.10). W D8: **TD2 (3 €, poza kartą)** — bez przesiadki z przystanku Dragonara ~100 m od hotelu (zamiast 2 przejazdów single 13/14/15+88 = 4 € i wcześniejszego wstawania).
 >
 
 ## Dzień 2 · śr 30.09 — Valletta autobus 13/14/15 · w karcie
@@ -39,7 +39,7 @@ Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | pieszo | Hotel → przystanek **San Giljan – Ross** | ~5 min | 0 € | 13/14/15 → Valletta · 222 → Ċirkewwa · TD2/TD3 → lotnisko |
+| 1 | pieszo | Hotel → przystanek **San Giljan – Ross** | ~5 min | 0 € | 13/14/15 → Valletta · 222 → Ċirkewwa · 202 → Mdina (TD2 na lotnisko: przystanek Dragonara ~100 m od hotelu) |
 | 2 | autobus 13/14/15 | Sliema → Valletta | ~20–25 min | karta | opcjonalnie prom ~10 min za ~2 € (widok/szybciej) |
 | 3 | pieszo | Po Valletcie: St John's → Barrakka → Lower Barrakka | cały dzień | 15 € (St John's) | 🕐 St John's 09:00; salut na Upper Barrakka 12:00 |
 | 3b | pieszo (◽ max 1) | ◽ Grandmaster's Palace (12 €) / MUŻA (8 €) / Archeologia (10 €) / Malta Experience (16 €) | 1–1,5 h | 8–16 € | ✅ Grandmaster's możliwy (otwarte codziennie ~10:00–18:00; 12 €; ⚠️ Sala Tronowa zamknięta do odwołania; State Rooms do 13:30 tylko 25.09/28.10/18.11/2.12.2026) · MUŻA ⚠️ jeśli lubisz sztukę · Malta Experience 🚫 drogi show, nie historia |
@@ -145,9 +145,9 @@ Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | TD2 | San Giljan – Ross → Lotnisko | ~35–40 min | **3 € (poza kartą)** | 🕐 **09:24 → ~10:02** (2 h 28 min przed odlotem); zapas 09:54 → ~10:32 · TD3 09:45 → ~10:30; staje tuż przy Rossie — **zero przesiadki, ~50 min dłuższego snu**. Wyjście z hotelu ~08:50 (check-out do 10:00) |
-| 2 | (awaryjnie) | St Julian's → Valletta → Lotnisko | ~1 h | ~4 € (single) | gdyby TD2 09:24 przepadł: 13/14/15 + 88 (wyjście 08:20 → lotnisko ~09:47); karta wygasła 05.10 |
+| 1 | TD2 | Paceville – Dragonara (2035) → Lotnisko | ~35–40 min | **3 € (poza kartą)** | 🕐 **09:34 → ~10:02** (2 h 28 min przed odlotem); zapas TD2 10:04 → ~10:32 · TD3 z San Giljan (1037) 09:45 → ~10:30; przystanek ~100 m od hotelu (⚠️ TD2 nie staje na Rossie) — **zero przesiadki, ~50 min dłuższego snu**. Wyjście z hotelu ~09:15 (check-out do 10:00) |
+| 2 | (awaryjnie) | St Julian's → Valletta → Lotnisko | ~1 h | ~4 € (single) | gdyby TD2 09:34 przepadł: 13/14/15 + 88 (wyjście 08:20 → lotnisko ~09:47); karta wygasła 05.10 |
 
-> Na lotnisku **~10:02** (2 h 28 min przed odlotem 12:30 — komfortowy zapas; Malta Airport zaleca 2 h dla lotu w Schengen, 3 h tylko dla non-Schengen/long-haul). **TD2 jedzie bez przesiadki** prosto z przystanku przy Rossie (09:24 → ~10:02; co 30 min) — stąd dłuższy sen i zero kombinowania; karta Explore wygasła 05.10 (celowo: D8 = TD2, 3 €).
+> Na lotnisku **~10:02** (2 h 28 min przed odlotem 12:30 — komfortowy zapas; Malta Airport zaleca 2 h dla lotu w Schengen, 3 h tylko dla non-Schengen/long-haul). **TD2 jedzie bez przesiadki** prosto z przystanku Dragonara przy hotelu (09:34 → ~10:02; co 30 min) — stąd dłuższy sen i zero kombinowania; karta Explore wygasła 05.10 (celowo: D8 = TD2, 3 €).
 >
 
