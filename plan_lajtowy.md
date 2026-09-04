@@ -68,7 +68,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 | 09:30 | **301 → Victoria** (~12 min) — karta |
 | 10:00–11:30 | ⭐ **Victoria / Citadella** — panorama, luzem + kawa/pamiątki |
 | 11:30–12:30 | Lunch Victoria |
-| 12:05 | **307 → Xaghra** (~12 min) — karta. ⚠️ **307 co 60 min** (11:05 · 12:05 · 13:05) — kursu 12:45 nie ma; awaryjnie 13:05 |
+| 12:05 | **307 → Xaghra** (~12 min) — karta. ⚠️ **307 co 60 min** (11:05 · 12:05 · 13:05) — awaryjnie 13:05 |
 | 13:00–14:30 | ⭐ **Ġgantija** (10 € combo, UNESCO — jedna z najstarszych świątyń świata; **10 € obejmuje też wiatrak Ta' Kola**). **Otwarte 10:00–18:00** (1.03–31.10; ost. wejście 17:30) |
 | 14:30–14:50 | ◽ **Wiatrak Ta' Kola** (w cenie biletu, 5 min od świątyń) |
 | 14:33 | **307 Xaghra → Victoria** (~12 min; odjazdy co ~60 min: **13:32 · 14:33 · 15:33** · 16:31) — karta |
@@ -120,7 +120,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 | Godz. | Co |
 | --- | --- |
 | 07:30 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min; z bagażem ~8–10 min) |
-| 07:28 | **🕐 Autobus 222** → **Ċirkewwa** (~55–60 min; przyjazd ~08:25) — karta. ✅ **Sobota: 222 z Rossu co ~30 min rano** (06:27 · 06:57 · **07:28** · 07:58 · 08:30 · 09:00 · 09:31; od ~09:45 co ~15 min) — **kurs 07:39 nie istnieje;** zapas: 07:58 (→ Ċirkewwa ~08:55) |
+| 07:28 | **🕐 Autobus 222** → **Ċirkewwa** (~55–60 min; przyjazd ~08:25) — karta. ✅ **Sobota: 222 z Rossu co ~30 min rano** (06:27 · 06:57 · **07:28** · 07:58 · 08:30 · 09:00 · 09:31; od ~09:45 co ~15 min) — zapas: 07:58 (→ Ċirkewwa ~08:55) |
 | 09:00–09:30 | ⭐ **Prom Comino Ferries** Ċirkewwa → **Blue Lagoon** (~15 € return/os; online ~14 €) — 🕐 pierwszy kurs = mniej tłoku. ⚠️ **Potwierdź rozkład na 3.10** (granica sezonu — operator potwierdza rejsy codzienne także w październiku) |
 | 09:45–13:00 | 🌊 **Blue Lagoon** — kąpiel, pływanie (woda ~22–23 °C) |
 | w tym | ◽ **Crystal Lagoon** — spokojniejsza zatoka do kąpieli, mniej tłoku |
@@ -160,13 +160,13 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 | Godz. | Co |
 | --- | --- |
 | 08:40–08:55 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min; z bagażem ~8–10 min) |
-| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; pon. kurs 09:00 potwierdzony, ~50–55 min wg rozkładu (korki 60–70); alternatywnie z Ferries w Sliemi: 08:50 / 09:20) — karta |
+| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; pon. kurs 09:00, ~50–55 min wg rozkładu (korki 60–70); alternatywnie z Ferries w Sliemi: 08:50 / 09:20) — karta |
 | 10:00–12:30 | ⭐ **Mdina** — spacer po Cichym Mieście: **Brama Główna**, uliczki, **bastiony** (za darmo, przed wycieczkami ~10:00). ◽ **Katedra św. Pawła + muzeum** — combo **15 €** (ulg. 10 €) ⚠️ (można pominąć) |
 | 12:30–13:30 | Lunch **Fontanella Tea Garden** (widok, ciasta) |
 | 13:45–15:00 | ⭐ **Rabat** (tuż obok, pieszo ~10 min) — spokojniejszy, mieszkalny klimat. ◽ **Katakumby św. Pawła** (6 €) / **Domus Romana** (6 €, mozaiki) — tylko jeśli lubisz |
 | 15:15–15:45 | **Autobus 201 → Dingli** (~8 min wg rozkładu) — karta |
 | 15:45–17:25 | 🌅 **Klify Dingli + Miġra l-Ferħa** — popołudniowy spacer wzdłuż klifów (widoki + Filfla) |
-| 17:37 | **Autobus 201 Dingli → Rabat** (~8 min, Rabat ~17:45; 201 co 60: 16:37 · **17:37** · 18:37 · 19:37). ⚠️ **W oknie 18:45–19:15 kursu nie ma** |
+| 17:37 | **Autobus 201 Dingli → Rabat** (~8 min, Rabat ~17:45; 201 co 60: 16:37 · **17:37** · 18:37 · 19:37). |
 | 17:55–19:45 | 🌙 **Wieczorna Mdina** — podświetlone mury; **zachód (~18:42) z bastionów Mdiny** (pewny wariant) |
 | 20:01 | **Autobus 202 z Saqqajja (Mdina ~5 min pieszo) → St Julian's** (~60 min, **bez przesiadki**) → **Ross ~20:52**. ✅ 202 z Rabatu kursuje wieczorem (19:01 · **20:01** · 21:01 → Ross ~20:01/20:52/21:52 — 20:01 pasuje po spacerze 17:55–19:45). **Awaryjnie:** 51 19:44 → Valletta 20:15 → 13 o 20:25 → Ross ~20:52 · 51 20:14 → Ross ~21:22 · 202 21:01 → Ross ~21:52 |
 
@@ -193,7 +193,7 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 | **D1 · St Julian's / Spinola** | **Sticky Fingers BBQ** — pewna opcja wieczorna (ok. €9–21/os., pełne zamówienie może wyjść wyżej; ok. 17:00–22:30, można rezerwować) · **Tony's Bar** — lokalny bar + szybkie jedzenie przy Spinola Bay (ok. €5–10/os., przekąska / prosty posiłek; ok. 6:30–23:57, bez rezerwacji). **Two Buoys** tylko jako brunch / lunch (do ok. 16:00), nie kolacja. **Ta' Kris / Wigi's / Zeri's** — płatne alternatywy wyższej półki (Wigi's ~€20–50/os., Zeri's ~€20–35/danie), nie opcje „na tanio". ⚠️ **Singapore Noodle House pomiń** — zamknięte we wtorki |
 | **D2 · Valletta lunch** | **Ta' Nenu** — lokalnie (ftajjar €13,50; królik ~€10,50–20,50; wieczorem potwierdź stolik) · **pastizzeria / pastizzi** jako przekąska · **Café Jubilee** — casual lunch, ale nie „bardzo tanio" (ok. €10–30/os.) · **Aaron's Kitchen** — dobre lokalne bistro, średnia półka, rezerwacja · **Rubino** — premium (Bib Gourmand), nie jako tania opcja · **Submarine** — tylko po sprawdzeniu tego samego dnia (jeden listing = czasowo zamknięty). Unikaj turystycznego deptaka na lunch |
 | **D3 · Gozo (Victoria)** | **Ta' Rikardu** przy Cytadeli — dobry lunch / wczesny posiłek (sery, ftira Ghawdxija; potwierdź godziny, ok. 11:00–17:00/19:00) · **Coffee Break Café & Bistro** — najbezpieczniejszy wybór (ok. €3–15/os., blisko dworca autobusowego) · **McSims** pastizzi — tańsza przekąska · **Ta' Ċetta** — średnia półka (pt ok. 8:00–22:00). ⚠️ **Café San Martino** słabo oceniane (nie główna rekomendacja); **Kafe+** pomiń (brak aktualnych godzin) |
-| **D4 · Birgu (Three Cities)** | **BeBirgu** — najbardziej praktyczna pełna opcja (ok. 7:00–23:00, pizza ~€13–17) · **Il-Girbi** — ftira €7,50 / pasta €12–14 / królik €17 (czw ~7:30–20:00) · **Tal-Petut** — tylko wariant premium (18:30–22:00, ok. €45–50/os., rezerwacja zdecydowanie wskazana). ⚠️ **Harbour Club jest w Vallettcie, nie w Birgu** — usunięty; **Café Riche** zamknięty w czwartek — pomiń. *(Plaża → kioski / pastizzi)* |
+| **D4 · Birgu (Three Cities)** | **BeBirgu** — najbardziej praktyczna pełna opcja (ok. 7:00–23:00, pizza ~€13–17) · **Il-Girbi** — ftira €7,50 / pasta €12–14 / królik €17 (czw ~7:30–20:00) · **Tal-Petut** — tylko wariant premium (18:30–22:00, ok. €45–50/os., rezerwacja zdecydowanie wskazana). ⚠️ **Café Riche** zamknięty w czwartek — pomiń. *(Plaża → kioski / pastizzi)* |
 | **D5 · Comino** | Brak porządnych restauracji — **główny plan to prowiant zabrany przed przeprawą** (ftira, kanapki, owoce, woda w St Julian's / po drodze). Kiosku na wyspie nie traktuj jako pewnego taniego obiadu |
 | **D6 · Marsaxlokk** | **Liska** — praktyczny lunch (nd ok. 11:30–16:00; średnia półka; wybór ze względu na godziny i wykonalność planu, nie „najświeższa ryba") · tańsza opcja: **własna ftira / pastizzi / kanapki** (targ to głównie surowe ryby — nie licz na gotowe tanie danie) · **Tartarun** — tylko wariant premium (nd ~12:00–15:00, rezerwacja) · **Ir-Rizzu** — plan B, ale godziny niespójne. Unikaj głównego nabrzeża w niedzielę (drożej); pytaj „co dziś złowiono" |
 | **D7 · Mdina / Rabat** | **Ta' Doni** (Rabat) — lunch / wczesny posiłek: kanapki, platters, sałatki, ok. €5–25 (ok. 9:00–22:00) · **Is-Serkin / Crystal Palace** — pastizzi €0,50–0,60 (przekąska, nie pełny obiad) · **Fontanella** — jako opcja widokowa / deserowa (ok. €9–22/os., nie „na tanio") · **Don Mesquita** — lunch, nie posiłek po zachodzie (zamyka ~18:00) · **Il-Baxa** — lunch w Rabacie (pon ~11:00–17:00, nie po Dingli) · **Il-Mahzen** — dzienny przystanek na przekąski / napoje (ok. 9:00–17:30), nie pełna kolacja · **La Piazza** — tylko awaryjnie po potwierdzeniu (niespójne adresy) · **Coogi's / Trattoria AD 1530** — średnia półka, nie pewna późna kolacja |

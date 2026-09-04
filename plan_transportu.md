@@ -58,7 +58,7 @@ Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
 | 2 | szybki prom Gozo Highspeed | Valletta → Mġarr | ~45 min (bezpośrednio) | ~7,50 € (bilet online) | 🕐 kurs ~08:45 → 09:30; z Lascaris Wharf (zejście: **winda Barrakka 1 € za bilet powrotny** — płatna w każdą stronę / X133 / ~10 min pieszo) |
 | 3 | autobus 301 | Mġarr → Victoria | ~15 min | karta | co 15 min (13:45 · 14:00 …) |
 | 3b | pieszo | ⭐ Victoria / Citadella | 1,5 h | 0 € | panorama |
-| 4 | autobus 307 | Victoria → Xaghra (Ġgantija) | ~12 min | karta | ⚠️ **co 60 min** (11:05 · 12:05 · 13:05 · 14:05 — kursu 12:45 nie ma!) · ⭐ Ġgantija 10 € (UNESCO — **bilet obejmuje wiatrak Ta' Kola**); **otwarte 10:00–18:00** (ost. wejście 17:30) |
+| 4 | autobus 307 | Victoria → Xaghra (Ġgantija) | ~12 min | karta | ⚠️ **co 60 min** (11:05 · 12:05 · 13:05 · 14:05) · ⭐ Ġgantija 10 € (UNESCO — **bilet obejmuje wiatrak Ta' Kola**); **otwarte 10:00–18:00** (ost. wejście 17:30) |
 | 5 | autobus 307 + 301 | Xagħra → Victoria → Mġarr | ~30–40 min (przesiadka) | karta | ⚠️ **307 z Xaghry co ~60 min** (13:32 · 14:33 · 15:33 · 16:31) — planuj pod nie; **Ta' Pinu tylko w wariancie 307 14:33** (308 Victoria 14:55 → 15:05 → 15:18; zwiedzanie ~10 min) |
 | 6 | szybki prom Gozo Highspeed | Mġarr → Valletta | ~45 min | ~7,50 € (bilet online) | cel kurs ~16:45 → Valletta ~17:30 → 13/14/15 → Sliema ~18:00; w sezonie wieczorem: 20:45 → 21:30, 21:45 → 22:30, 22:45 → 23:30, 23:45 → 00:30 (codziennie 19.06–31.10) |
 
@@ -130,7 +130,7 @@ Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **
 | 2b | przejście | Mdina → Rabat (katakumby) | ~10–15 min | 0 € | miasta obok siebie |
 | 2c | pieszo (◽) | ◽ Katakumby św. Pawła (6 €) / Domus Romana (6 €) | 1–1,5 h | 6 € | ⚠️ tylko jeśli lubisz katakumby / mozaiki |
 | 3 | autobus 201 | Rabat → Dingli | ~8 min | karta | 🕐 201 co 60 (Rabat 13:30 · 14:30 · 15:30 · 16:30); popołudniowy widok — wracaj **17:37** |
-| 3b | autobus 201 | Dingli → Rabat (powrót) | ~8 min | karta | ⚠️ kursy co 60: 15:37 · 16:37 · **17:37** · 18:37 · 19:37 — **okna 18:45–19:15 nie ma**; rozsądny ostatni 19:37 |
+| 3b | autobus 201 | Dingli → Rabat (powrót) | ~8 min | karta | ⚠️ kursy co 60: 15:37 · 16:37 · **17:37** · 18:37 · 19:37; rozsądny ostatni 19:37 |
 | 3c | pieszo | 🌙 Wieczorna Mdina (podświetlone mury) | ~45 min | 0 € | opcja, jeśli wrócisz przed 20:00 |
 | 4 | autobus 51 | Rabat → Valletta | ~25 min | karta | powrót awaryjny (pierwszy wybór: 202): 51 **19:44** → Valletta 20:15 → 13 → Ross ~20:52; później **20:14** → Valletta 20:38 → 13 20:55 → Ross ~21:22; 53 ~19:48 MF |
 | 4b | autobus 13/14/15 | Valletta → Ross | ~25 min | karta | częste do ~23:00; do hotelu ~5 min pieszo |
