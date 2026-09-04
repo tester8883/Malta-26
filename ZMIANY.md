@@ -87,7 +87,7 @@ Datą kontrolną: D3 = czw 1.10, D7 = pon 5.10, D8 = wt 6.10.
    Poprawiono też: „wyjedź z Xagħry najpóźniej 15:23" — bzdura (to nie odjazd), zastąpione realnymi godzinami.
 2. **D7 · 201 w oknie 18:45–19:15 — audyt SŁUSZNY (i odkrył wiadomo, że nie tylko 201!):**
    z Dingli w pon: **15:37 · 16:37 · 17:37 · 18:37 · 19:37 · 20:37** (co 60; okna 18:45–19:15 nie ma ✓),
-   do Rabatu +8 min. **ALE audi nie zauważył: 202 z Rabatu kończy kursy o 18:00** (MF 06:00–18:00) —
+   do Rabatu +8 min. **ALE wtedy przyjęto (bez weryfikacji!), że 202 z Rabatu nie ma kursów wieczornych** (MF 06:00–18:00) — ⚠️ **teza obalona w audycie #5 (patrz niżej) — 202 kursuje wieczorem!**
    cały plan „20:30 → 202 → Sliema" był błędny od początku. Nowy plan: Dingli 15:45–17:25 → 201 **17:37** →
    Rabat 17:45 → wieczorna Mdina + zachód z bastionów (~18:40) → **51 (ostatni ~20:09 z Rabatu)** → Valletta
    20:15 → 13/14/15 → Ross ~20:45. Wariant „zachód nad morzem": 201 19:37 → 51 20:09 (koszt: Mdina odpada).
@@ -165,9 +165,9 @@ metcheck.com dla zachodu słońca (Valletta), dane GPS hotelu→Ross z audytu #2
 - **301 Victoria→Mġarr = ~18 min** (nie ~13): 15:30→**15:48**, 16:00→**16:18** (audyt #2 pomylił
   kolumny; zapas do promu 16:45: 55 / 25 min — oba warianty nadal bezpieczne).
 - **51 z Rabatu**: wygodny **19:44** (Saqqajja) → Valletta 20:15 → **13 o 20:25 → Ross ~20:52**;
-  najpóźniejszy sensowny **20:12/20:14** → Valletta 20:38 → 13 20:55 → Ross ~21:22
+  najpóźniejszy sensowny (stan na #4) **51 ≈20:12–20:14** → Valletta 20:38 → 13 20:55 → Ross ~21:22 ⚠️ patrz aktualizacja audyt #5 (202 wieczorem)
   (plan miał „ostatni ~20:09 → Ross 20:45" — za wcześnie; kolacja odpowiednio 21:15/21:45).
-  Wariant „zachód nad morzem" (201 19:37): 51 20:12/20:14 → Ross ~21:22.
+  Wariant „zachód nad morzem" (201 19:37): 51 ≈20:12–20:14 → Ross ~21:22 (aktualizacja: audyt #5).
 - 301 Mġarr→Victoria: ~15 min (było ~12) w planie transportu.
 
 ---
@@ -279,3 +279,133 @@ drobnicach — na miejscu kupić „return" (1 €).
 Zmiany: 21 podstawień w 8 plikach (MD+HTML; plan_mapka bez windy — bez zmian); budżet
 „0–1 €" → **„1–2 €"** (D3 i D4; w D4 gratis z return-promu). Nie dotyczy: ZMIANY.md (dziennik),
 ta sekcja.
+
+
+# Weryfikacja audytu #5 (11 drobnych + 4 ryzyka) — 03.09.2026
+
+Weryfikacja u źródła: rozkłady MPT stop-by-stop (stan 03.09.2026: r202, r307, r308), gozohighspeed.com
+(schedule + fares), stjohnscocathedral.com/visit, publictransport.com.mt (terms & conditions Explore).
+
+## Werdykt: 7 poprawek trafnych, 4 błędne (odrzucone), 1 częściowo (dopisek)
+
+| # | Zarzut audytu | Werdykt |
+| --- | --- | --- |
+| 1 | „202 z Rabatu nie ma kursów wieczornych — powrót 51" | ⚠️ **BŁĄD (nasz, z audytów #2/#3!)** — 202 MA kursy wieczorne: z Saqqajja **19:01/20:01/21:01** (pn–pt+sb/nd) → Ross ~20:01/20:52/21:52; kier. Sliema→Rabat do 23:25. Przyczyna: parser w #2 łapał tylko klasy `time hidden`, a wieczorne kursy 202 są `time shown`. **Plan przepisany: powrót z D7 = 202 o 20:01 bez przesiadki** (Saqqajja 19:01/20:01/21:01 → Ross ~20:01/20:52/21:52; 19:01 przy wcześniejszym wyjściu, 21:01 zapas); **51 19:44 zachowany jako alternatywa** (wyjście z murów ~19:30). |
+| 2 | „307 Xaghra ~:23" | ❌ **odrzucone** — :23 to przystanek Massar; Xaghra-1967: **13:32/14:33/15:33/16:31** (plan OK) |
+| 3 | „308 — powrót tym samym kursem może nie działać" | ❌ **odrzucone** — 308 to pętla jednokierunkowa: Victoria 14:55 → Ta' Pinu 15:05 → **Victoria 15:18** (ten sam autobus). Wniosek odwrotny: **Ta' Pinu PORZUCONE** (autobus zawraca od razu, zwiedzanie przy promie 16:45 niewykonalne — następny powrót 16:18 = przegapienie promu) |
+| 4 | „katakumby 10 €" | ✅ **trafne** — oficjalnie **6 €** (jak Domus Romana); poprawione we wszystkich wierszach D7 + budżety/plan_mapka |
+| 5 | „Explore: 7 dni — D8 rano nie objęty" | ✅ **trafne** — oficjalnie „7 consecutive days"; licznik = **dni kalendarzowe**. **Rozwiązanie: aktywacja karty dopiero D2 (30.09)** → pokrywa D2–D8 (do 06.10); D1 = TD2 (3 €, poza kartą). Pozostałe warianty opisane w notce |
+| 6 | „Gozo Highspeed — wieczorem 21:45/22:45/23:45 codzienne" | ✅ **trafne** — potwierdzone (19.06–31.10: **Daily**); dodatkowo **00:45 pt–nd**; poprawione w 4 planach + transport + HTML |
+| 7 | „St John's otwarcie 09:00" | ✅ **trafne** (plan już miał 09:00); **nowość: muzeum katedralne zamknięte (remont/rozbudowa)** — dopisane |
+| 8 | „Gozo powrót 9,50–13 €" | ❌ **odrzucone** — oficjalne taryfy: Valletta⇄Gozo **7,50 €/jedna** (studenci 4,50; seniorzy 3,00); Sliema⇄Gozo 8,50 (Tallinja 6,50); Buġibba⇄Gozo 6,50; **brak rabatu powrotnego**. Plan ~15 € w obie zostaje |
+| 9 | „Heritage ~50 € / Fort 12 €" | ❌ **odrzucone** — jak w #4: **60 € / 10 €** |
+| 10 | „restauracje — sprawdź" | ➖ bez zmian (plan traktuje opisowo; brak checklisty „tuż przed wyjazdem" — wnioski w rozdziale „przed wyjazdem") |
+| 11 | „dni tygodnia: pon–Mdina, śr–St John's, pon–katakumby, cichy pokój" | ➖ **bez zmian** — wszystko się zgadza (05.10 = poniedziałek ✓, 30.09 = środa ✓, pokój cichy już w planie) |
+
+## Ryzyka → rozstrzygnięcia
+
+- **Explore 7 dni vs D8** — patrz pkt 5: aktywacja 30.09; D1 = TD2.
+- **D6 201 → lotnisko → 119 „zagmatwane"** — wariant działa (201 z Wied 12:15 → lotnisko 12:28 → 119 13:00 → Marsaxlokk ~13:27; 119 nd co 60 potwierdzony). Dodany tylko dopisek: **na Panoramę/Wied wsiadaj w 201 w stronę Luqa/lotniska** (w stronę Rabatu jedzie w przeciwnym kierunku).
+- **Defected / Notte Bianca** — bez zmian (ustalenia #4: venue = UNO Ta' Qali / Fort St Elmo / Café del Mar).
+- **Zachód 5.10 = 18:42** — bez zmian (metcheck).
+
+## Czego NIE ruszono (potwierdzone wcześniej)
+
+Ceny Gozo Highspeed 7,50 €/jedna (plan „~15 € w obie" ✓), St John's = katedra + Caravaggio dostępne
+(muzeum w remoncie — wpisana uwaga), 51 19:44 zostaje jako awaryjny, D3 wraca promem 16:45
+(wieczorne kursy Gozo bez wpływu na ten plan).
+
+## Zmiany: 10 plików (4 plany MD + ZMIANY.md + 4 HTML + plan_mapka.html), 147/102 linii — pełne greppowanie
+
+Kluczowe: teza o końcu kursów 202 (rzekome 18:00) → realne 19:01/20:01/21:01; wzorce „data wygaśnięcia
+karty (~06.10/~13:00)" → start 30.09 (7 dni kalendarzowych); „10 €" (katakumby) → 6 €; „ostatnie kursy
+wieczorne" → 21:45/22:45/23:45 codziennie 19.06–31.10 (+00:45 pt–nd);
+Ta' Pinu → PORZUĆ (pętla 308); dopiski: muzeum katedralne (remont), kierunek 201 na D6.
+Stare wzorce w planach: **grep = 0**.
+
+
+# Weryfikacja audytu #5b (powtórzenie zarzutów, 04.09.2026)
+
+Audyt #5b pokrywa się w ~90% z audytem #5 — jego zalecenia odnoszą się do stanu planu
+SPRZED commita `b6a22d3` (dotyczy to m.in. „wiersz D7 10 €", „plan wraca 51 o 19:44",
+„ostatni 20:45 i rzadki kurs ok. 22:00 (pt–sb)", „oszczędzasz ~6,5 € przy aktywacji w D1").
+Poniżej status każdej pozycji po weryfikacji u źródła (MPT 03.09.2026 + strony oficjalne).
+
+## Pozycje „DO KOREKTY"
+
+| Pozycja | Werdykt | Uzasadnienie / działanie |
+| --- | --- | --- |
+| „202 nie ma kursów po 18:00", zalecenie „zachowaj powrót 51" | ✅ trafna obserwacja, ⚠️ zalecenie już przestarzałe | 202 MA kursy wieczorne (Saqqajja **19:01/20:01/21:01** → Ross ~20:01/20:52/21:52 — potwierdzone ponownie parserem MPT 03.09.2026). **W `b6a22d3` powrót D7 przepisany na 202 o 20:01 (bez przesiadki); 51 19:44 zostaje jako alternatywa** — czyli dokładnie odwrotnie niż sugeruje audyt, ale lepiej: ta sama godzina przyjazdu (Ross ~20:52) bez przesiadki. Weryfikacja wieczornych kursów 202/51 w Tallinja → dopisana do notki D7 i listy kontrolnej |
+| St John's 09:00 vs 09:30 | ❌ 09:30 niepotwierdzone | Oficjalna strona (stjohnscocathedral.com/visit, 08.2026): **pon–sob 09:00–16:45**, ost. wejście 16:00; muzeum katedralne w remoncie. Plan ma 09:00; wskazówka audytu (sprawdź na stronie) → dopisana do listy kontrolnej |
+| Katakumby „10 € w wierszu D7" | ✅ ale już poprawione | W `b6a22d3`: wszystkie wiersze D7 + plan_mapka = **6 €** (zgodnie z §5/§9 i budżetem) |
+| 307 „odjazdy z Xaghry ~:23" | ❌ odrzucone | Rozkład (potwierdzony ponownie): Xaghra-1967 **13:32/14:33/15:33/16:31**; ~:23 to przystanek Massar-1965. Plan poprawny; weryfikacja w Tallinja → dopisana do listy kontrolnej |
+| 308 „trasa jednokierunkowa, powrót może nie działać" | ⚠️ częściowo — już rozstrzygnięte, wniosek odwrotny niż audyt | 308 to pętla (Victoria **14:55** → Ta' Pinu **15:05** → Victoria **15:18**, ten sam autobus) — powrót działa, ALE autobus zawraca od razu, więc **zwiedzanie Ta' Pinu przy promie 16:45 jest niewykonalne → Ta' Pinu PORZUĆ** (w `b6a22d3`) |
+| Wieczorne Gozo Highspeed | ✅ już poprawione | Potwierdzone: **21:45/22:45/23:45 codziennie 19.06–31.10** (+00:45 pt–nd); usunięte przestarzałe opisy ostatnich kursów wieczornych (w `b6a22d3`) |
+| Heritage „Fort 12 € / Multisite ~50 €" | ❌ odrzucone | Oficjalnie (heritagemalta: 60 € Multisite 7 dni; Fort St Angelo **10 €**) — 12 € dotyczy **Pałacu Wielkiego Mistrza**, którego audyt myli z Fortem. Jak w `0fc2a5d` i `b6a22d3` |
+| Explore a „Airport Direct" | ✅ już uwzględnione | Plan już od dawna: **TD/TD2/TD3 poza kartą (+3 €)**; §9 ostrzega o niespójności stron MPT; lista kontrolna → dopisane „potwierdź przy zakupie" |
+| Restauracje (Fontanella, Ta' Rikardu, Liska) | ➖ orientacyjnie | §5a traktuje je opisowo; lista kontrolna → nowy wiersz „potwierdź godziny dzień wcześniej" |
+| „Powrotne Gozo 9,50–13 €" | ❌ odrzucone | Oficjalne taryfy: **7,50 €/jedna** Valletta⇄Gozo (brak rabatu powrotnego; 8,50 przez Sliema, 6,50 z Tallinja). Kwota 9,50–13 € niepotwierdzona żadnym źródłem. Plan ~15 € w obie jest konserwatywny; lista kontrolna → „potwierdź finalną kwotę w checkoutcie" |
+
+## Ryzyka
+
+1. **Explore vs D8** — audyt zaleca: aktywacja D1 + płatne single na D8 („skreśl oszczędzasz ~6,5 €").
+   **Rozwiązane LEPIEJ niż zalecenie:** aktywacja przesunięta na **30.09 (D2)** → karta pokrywa
+   D2–D8 (do 06.10 włącznie), D1 = **TD2 (3 €, poza kartą)**. Notka „oszczędzasz ~6,5 €"
+   już skreślona (obecnie ~3,5 €), single na D8 zbędne. (Dni: 29.09+7 kalendarzowych = do
+   końca 05.10; start 30.09 → do końca 06.10 ✓.)
+2. **D6 „201 → lotnisko → 119"** — audyt: „pewniejsze 74 → Valletta → 81/85; przez lotnisko tylko
+   awaryjnie". Zweryfikowane w #4: 201 z Wied 12:15 → lotnisko 12:28 → 119 nd 13:00 →
+   Marsaxlokk ~13:27 **działa i jest szybsze** (74 → Valletta → 81/85 to ~14:17+); oba warianty
+   są w planie. W `b6a22d3` dodane ostrzeżenie o kierunku (201 w stronę **Luqa/lotniska** — to
+   pokrywa realne ryzyko, które audyt słusznie zauważył). **Plan bazowy bez zmian.**
+3. **Dni tygodnia** — potwierdzone bez zmian (md 05.10 = pon, St John's 30.09 = śr, katakumby pon;
+   „nie zmieniaj Mdiny na niedzielę" — plan i tak tego nie robi).
+
+## Co dodano w tej rundzie (poza `b6a22d3`)
+
+- Lista kontrolna §9 (plan_kompletny.md + Plan_kompletny.html): wiersz **D3/D7 — weryfikacja
+  307/202/51 w Tallinja**; wiersz **restauracje — potwierdź godziny**; dopiski do wierszy
+  St John's (09:00 na stronie), Heritage (ceny na heritagemalta.mt), Gozo (kwota w checkoutcie),
+  Explore (nie aktywuj w D1; TD poza kartą).
+- Notka D7 (4 plany + 3 HTML): „sprawdź 201" → „sprawdź 201 oraz wieczorne kursy **202**
+  (19:01/20:01/21:01) i awaryjną **51** (19:44/20:14)".
+- Powtórne parsowanie u źródła (MPT 03.09.2026) dla raportu: 202, 307, 308 — wyniki zgodne
+  z `b6a22d3`.
+
+**Zmiany: 16 podstawień (2 MD + 4 HTML). Stare wzorce: grep = 0.**
+
+
+# Decyzja: aktywacja Explore od razu (D1, 29.09) + TD2 na lotnisko w D8 — 04.09.2026
+
+**Pytanie użytkownika:** „aktywować kartę D1 czy D2? w D1 nie ma co się spieszyć (check-in od 15:00) —
+czy lepiej wrócić TD2/TD3 w D8 i dłużej pospać?"
+
+## Werdykt: aktywacja w D1 (sugestia użytkownika przyjęta — słuszna)
+
+| Kryterium | Wariant A: start D1 (29.09) | Wariant B: start D2 (30.09) |
+| --- | --- | --- |
+| Koszt | TD2 w D8: **3 €** | TD2 w D1: **3 €** |
+| D1 | 88 + 13/14/15 na karcie (przesiadka w Valletcie — bez pośpiechu, check-in 15:00) | TD2 prosto (3 €) |
+| D8 | **wyjście 09:00–09:05**, TD2 09:24 → **lotnisko ~10:02** (2 h 28 min przed), **zero przesiadki** | wyjście 08:20–08:30, 13/14/15 + 88 → lotnisko ~09:47 (przesiadka w Valletcie) |
+| Sen w D8 | **~50 min dłużej** (śniadanie spokojnie, check-out do 10:00) | krócej |
+
+**Koszt identyczny** (~3 € za TD2 i tak gdzieś płacisz), więc decyduje komfort: D8 = ostatni dzień,
+liczy się sen i pewność — **TD2 jedzie bez przesiadki prosto z przystanku przy Rossie**.
+
+## Potwierdzenie u źródła (MPT 03.09.2026, świeże pobranie stron TD2/TD3)
+
+- **TD2 i TD3 to obie linie „San Giljan"** (Airport Direct z okolicy hotelu — pętla lotnisko→St Julian's→lotnisko).
+- **TD2** — przystanek San Giljan: pn–pt **08:24 · 08:54 · 09:24 · 09:54 · 10:24** (co 30 min);
+  lotnisko (Airport 3) **+38 min**: 09:24 → **~10:02**, 09:54 → ~10:32. (TD2 z lotniska do St Julian's
+  działa analogicznie — w D1 niepotrzebny przy starcie karty.)
+- **TD3** — San Giljan: 09:15 · 09:45 → lotnisko ~10:00 / ~10:30 (+45 min; wolniejsza, ale to zapas).
+- W D8 awaryjnie: TD2 09:54 (→10:32, 2 h przed) lub single 13/14/15 + 88 (~4 €, wyjście 08:20).
+
+## Zmiany
+
+59 podstawień w 8 plikach (4 MD + 4 HTML): wiersze D1 (12:45/13:15) wracają na „kup + pierwsze
+przyłożenie na 88 = start 29.09"; D8 przepisany na **TD2 09:24 → lotnisko ~10:02** (3 €, poza kartą)
+z zapasami (09:54 / TD3 09:45 / single) i adnotacją „karta wygasła 05.10 — celowo"; tytuły D8
+(„Wylot TD2 · karta do 05.10"); sekcje biletów i budżety („D1–D7; D8: TD2 +3 €", 25 € bez zmiany
+— TD2 z istniejącego bufora Airport Direct); notka §2 z tabelą decyzyjną; checklista §9.
+Stare wzorce wariantu B („nie aktywuj", „start 30.09", „D2–D8") w planach: **grep = 0**.

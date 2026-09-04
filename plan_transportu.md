@@ -2,7 +2,7 @@
 
 Zamiast mapek — dokładna rozpiska każdego odcinka podróży. Linie: autobus · prom/rejs · pieszo. Czasy orientacyjne — sprawdzaj na żywo w aplikacji Tallinja.
 
-**🎟️ Bilet: 7-dniowy Explore (25 €)** pokrywa wszystkie autobusy D1–D8 (w tym do Valletty w D2/D3/D4 — 13/14/15 zamiast promu oraz 88 z/na lotnisko). ⚠️ **Explore NIE obejmuje linii „Tallinja Direct"/TD** (3 €/przejazd) — wszystkie trasy w planie (poza opcjonalnym TD2 na lotnisko) używają zwykłych linii objętych kartą. Osobno płacisz: szybki prom Gozo (D3, ~15 € w obie przez Valletta; przez Sliema ~17 €), prom Valletta→Three Cities (D4, 4,50–5 € return), prom Comino z Ċirkewwy (D5, ~15 €), rejs Blue Grotto (D6, ~10 €) i wstępy. Explore kupisz w Malta Public Transport Sales Office w Welcomer's Hall na lotnisku (~08:00–19:30).
+**🎟️ Bilet: 7-dniowy Explore (25 €)** pokrywa autobusy **D1–D7** (start 29.09 — 7 dni kalendarzowych → do 05.10; **D8: TD2 3 €** poza kartą). Obejmuje 88 i 13/14/15 (D1) oraz wszystkie trasy D2–D7. ⚠️ **Explore NIE obejmuje linii „Tallinja Direct"/TD** (3 €/przejazd) — w planie TD2 tylko na lotnisko w D8. Osobno płacisz: szybki prom Gozo (D3, ~15 € w obie przez Valletta; przez Sliema ~17 €), prom Valletta→Three Cities (D4, 4,50–5 € return), prom Comino z Ċirkewwy (D5, ~15 €), rejs Blue Grotto (D6, ~10 €) i wstępy. Explore kupisz w Malta Public Transport Sales Office w Welcomer's Hall na lotnisku (~08:00–19:30).
 
 ## Elastyczność dni — co sztywne, co zalecane, co dowolne
 
@@ -22,15 +22,15 @@ Zamiast mapek — dokładna rozpiska każdego odcinka podróży. Linie: autobus 
 
 ## Dzień 1 · wt 29.09 — Przylot + St Julian's 88 + 13/14/15
 
-Lądowanie 12:05 → na lotnisku do ~13:00. Po drodze kup 7-dniowy Explore (licznik ruszy przy pierwszym użyciu — już teraz). Na lotnisko jeżdżą 88 (zwykła, w karcie) i TD2 („Direct", +3 €, poza kartą).
+Lądowanie 12:05 → na lotnisku do ~13:00. Kup 7-dniowy Explore (25 €) i **używaj od dziś** — ważność to **7 kolejnych dni kalendarzowych** od pierwszego przyłożenia (start 29.09 → **do 05.10**; D8 06.10 celowo poza kartą — **TD2**, 3 €, bez przesiadki). **Na lotnisko/ze lotniska: 88** (zwykła, w karcie) i **TD2** („Direct", +3 €, poza kartą).
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | autobus 88 | Lotnisko → Valletta | ~35 min | karta (7 dni) | **pierwsze przyłożenie = start karty** |
+| 1 | autobus 88 | Lotnisko → Valletta | ~35 min | karta | **pierwsze przyłożenie karty Explore = start (29.09)** → przesiadka 13/14/15 → **San Giljan – Ross** |
 | 1b | autobus 13/14/15 | Valletta → St Julian's | ~25 min | karta | przesiadka w Valletcie; wysiądź **San Giljan – Ross** (~5 min pieszo do hotelu) |
 | 2 | pieszo | Hotel **Vegas Resort (Paceville)** → Spinola Bay → Portomaso → St George's Bay | ~1,5–2 h | 0 € | Wieczorny spacer + zachód słońca |
 
-> 🕐 Karta 7-dniowa liczy od pierwszego użycia — 88 w D1 to jej start (na lotnisku). Opcjonalnie wygodniej: TD2 prosto do St Julian's, ale +3 € i bez karty.
+> 🕐 **Karta Explore = 7 kolejnych dni kalendarzowych** od pierwszego przyłożenia — aktywuj ją **od razu (D1, 29.09)**; wtedy pokrywa D1–D7 (do 05.10). W D8: **TD2 (3 €, poza kartą)** — bez przesiadki z przystanku przy Rossie (zamiast 2 przejazdów single 13/14/15+88 = 4 € i wcześniejszego wstawania).
 >
 
 ## Dzień 2 · śr 30.09 — Valletta autobus 13/14/15 · w karcie
@@ -60,7 +60,7 @@ Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
 | 3b | pieszo | ⭐ Victoria / Citadella | 1,5 h | 0 € | panorama |
 | 4 | autobus 307 | Victoria → Xaghra (Ġgantija) | ~12 min | karta | ⚠️ **co 60 min** (11:05 · 12:05 · 13:05 · 14:05 — kursu 12:45 nie ma!) · ⭐ Ġgantija 10 € (UNESCO — **bilet obejmuje wiatrak Ta' Kola**); **otwarte 10:00–18:00** (ost. wejście 17:30) |
 | 5 | autobus 307 + 301 | Xagħra → Victoria → Mġarr | ~30–40 min (przesiadka) | karta | ⚠️ **307 z Xaghry co ~60 min** (13:32 · 14:33 · 15:33 · 16:31) — planuj pod nie; **Ta' Pinu tylko w wariancie 307 14:33** (308 Victoria 14:55 → 15:05 → 15:18; zwiedzanie ~10 min) |
-| 6 | szybki prom Gozo Highspeed | Mġarr → Valletta | ~45 min | ~7,50 € (bilet online) | cel kurs ~16:45 → Valletta ~17:30 → 13/14/15 → Sliema ~18:00; ost. standardowy 20:45 → 21:30 |
+| 6 | szybki prom Gozo Highspeed | Mġarr → Valletta | ~45 min | ~7,50 € (bilet online) | cel kurs ~16:45 → Valletta ~17:30 → 13/14/15 → Sliema ~18:00; w sezonie wieczorem: 20:45 → 21:30, 21:45 → 22:30, 22:45 → 23:30, 23:45 → 00:30 (codziennie 19.06–31.10) |
 
 > **Alternatywa (Sliema → Gozo przez Buġibba):** ~1 h 15 min, ~8,50 €/jedna strona (~17 € w obie), sezon marzec–październik — wygodny powrót prosto do St Julian's (Mġarr→Sliema 17:15 → ~18:30; ostatni 21:15). **Budżetowo** zamiast szybkiego promu: 222 + Gozo Channel (~1h45–2h15, 4,65 €) — taniej, ale dłużej i jazda do Ċirkewwy.
 >
@@ -125,13 +125,14 @@ Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
 | 1 | autobus 202 | San Giljan – Ross → Mdina | ~50–55 min wg rozkładu (korki 60–70) | karta | 🕐 kurs **09:00** (pon) — wsiadasz na Ross, bez przesiadki; alternatywnie z Ferries w Sliemi: 08:50 / 09:20 |
+| 1b | autobus 202 | Mdina/Saqqajja → Ross (St Julian's) | ~60 min | karta | 🕐 **powrót wieczorny**: 19:01 · 20:01 · 21:01 (z Saqqajja) → Ross ~20:01 · 20:52 · 21:52 — **bez przesiadki** |
 | 2 | pieszo | ⭐ Mdina — spacer + bastiony | 2–3 h | 0 € | 🕐 przed wycieczkami (~10:00); ◽ Katedra+Muzeum combo 15 € (ulg. 10 €) ⚠️ pominąć |
 | 2b | przejście | Mdina → Rabat (katakumby) | ~10–15 min | 0 € | miasta obok siebie |
-| 2c | pieszo (◽) | ◽ Katakumby św. Pawła (10 €) / Domus Romana (6 €) | 1–1,5 h | 10 € | ⚠️ tylko jeśli lubisz katakumby / mozaiki |
+| 2c | pieszo (◽) | ◽ Katakumby św. Pawła (6 €) / Domus Romana (6 €) | 1–1,5 h | 6 € | ⚠️ tylko jeśli lubisz katakumby / mozaiki |
 | 3 | autobus 201 | Rabat → Dingli | ~8 min | karta | 🕐 201 co 60 (Rabat 13:30 · 14:30 · 15:30 · 16:30); popołudniowy widok — wracaj **17:37** |
 | 3b | autobus 201 | Dingli → Rabat (powrót) | ~8 min | karta | ⚠️ kursy co 60: 15:37 · 16:37 · **17:37** · 18:37 · 19:37 — **okna 18:45–19:15 nie ma**; rozsądny ostatni 19:37 |
 | 3c | pieszo | 🌙 Wieczorna Mdina (podświetlone mury) | ~45 min | 0 € | opcja, jeśli wrócisz przed 20:00 |
-| 4 | autobus 51 | Rabat → Valletta | ~25 min | karta | ⚠️ **202 z Rabatu kończy kursy o 18:00** (MF 06:00–18:00)! Zamiast tego **51** — wygodny 19:44 (→ Valletta 20:15), najpóźniejszy sensowny 20:14 (→ Valletta 20:38); 53 ~19:48 MF |
+| 4 | autobus 51 | Rabat → Valletta | ~25 min | karta | powrót awaryjny (pierwszy wybór: 202): 51 **19:44** → Valletta 20:15 → 13 → Ross ~20:52; później **20:14** → Valletta 20:38 → 13 20:55 → Ross ~21:22; 53 ~19:48 MF |
 | 4b | autobus 13/14/15 | Valletta → Ross | ~25 min | karta | częste do ~23:00; do hotelu ~5 min pieszo |
 
 > **Dlaczego Dingli, a nie bastiony Mdiny?** Z bastionów Mdiny słońce zachodzi **nad lądem**, a z klifów Dingli **nad otwartym morzem** — ikoniczne ujęcie. Zostajemy w okolicy cały dzień (Rabat → Dingli → wieczorna Mdina → 202), więc wracamy raz, nie dwukrotnie. ⚠️ **Zabezpieczenie:** 201 z Dingli wieczorem ~co 60 min — sprawdź ostatni kurs na 5.10; jeśli jest za wcześnie na zachód (~18:42), oglądaj go z bastionów Mdiny.
@@ -140,13 +141,13 @@ Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **
 > **Z blogów:** na powrót z Mdiny **wsiadaj na pierwszym dostępnym przystanku** (pełny autobus nie zatrzyma się na kolejnym). ◽ **Rotunda w Moście** (darmowa, jedna z największych kopuł w Europie): gdybyś jechał trasą 51/52/53 przez Vallettę, wysiądź w Moście na ~20 min.
 >
 
-## Dzień 8 · wt 06.10 — Wylot 13/14/15 + 88 · karta 7 dni
+## Dzień 8 · wt 06.10 — Wylot TD2 (Airport Direct) · 3 € · karta Explore do 05.10
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | autobus 13/14/15 | St Julian's → Valletta | ~25 min | karta | 🕐 wyjazd z hotelu ~08:20–08:30 (Ross ~5 min pieszo) |
-| 2 | autobus 88 | Valletta → Lotnisko | ~35 min | karta | ⚠️ **we wtorek co 20 min** (09:10 · **09:30** · 09:50 · 10:10; **przejazd ~35–37 min**) — celuj **09:10 → ~09:47** (zapas 09:30 → 10:07); karta wygasa ~13:00 (nadal ważna); awaryjnie TD2/TD3 (~3 €) |
+| 1 | TD2 | San Giljan – Ross → Lotnisko | ~35–40 min | **3 € (poza kartą)** | 🕐 **09:24 → ~10:02** (2 h 28 min przed odlotem); zapas 09:54 → ~10:32 · TD3 09:45 → ~10:30; staje tuż przy Rossie — **zero przesiadki, ~50 min dłuższego snu**. Wyjście z hotelu ~08:50 (check-out do 10:00) |
+| 2 | (awaryjnie) | St Julian's → Valletta → Lotnisko | ~1 h | ~4 € (single) | gdyby TD2 09:24 przepadł: 13/14/15 + 88 (wyjście 08:20 → lotnisko ~09:47); karta wygasła 05.10 |
 
-> Na lotnisku ~09:50–10:10 (~2 h 15 min przed odlotem 12:30 — to komfortowy zapas, spokojnie wystarczający; Malta Airport zaleca 2 h dla lotu w Schengen, 3 h tylko dla non-Schengen/long-haul). Trasa przez Vallettę ~1 h (13/14/15 ~25 min + 88 ~35 min). Szybsza opcja direct: **nie planuj na tym powrotu** — X2 już nie kursuje, direct = TD2/TD3 (poza Explore, 3 €); pewny wariant to 13/14/15 + 88 (karta).
+> Na lotnisku **~10:02** (2 h 28 min przed odlotem 12:30 — komfortowy zapas; Malta Airport zaleca 2 h dla lotu w Schengen, 3 h tylko dla non-Schengen/long-haul). **TD2 jedzie bez przesiadki** prosto z przystanku przy Rossie (09:24 → ~10:02; co 30 min) — stąd dłuższy sen i zero kombinowania; karta Explore wygasła 05.10 (celowo: D8 = TD2, 3 €).
 >
 
