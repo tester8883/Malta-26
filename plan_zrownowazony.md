@@ -40,7 +40,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 | 12:00 | ⭐ **Salut armatni** — za darmo |
 | 12:30–13:30 | Lunch |
 | 14:00–15:00 | ⭐ **Lower Barrakka + mury** — widok na Grand Harbour, za darmo |
-| 15:00–16:30 | ◽ **Grandmaster's Palace** (12 €) — ✅ **możliwe** (otwarte codziennie ~10:00–18:00, śr do ~17:00; ⚠️ Sala Tronowa zamknięta do odwołania; State Rooms do 13:30 tylko 25.09/28.10/18.11/2.12.2026) — alternatywa: Casa Rocca Piccola (10 €) / MUŻA (8 €) — wybierz 1 |
+| 15:00–16:30 | ◽ **Grandmaster's Palace** (12 €) — ✅ **możliwe** (otwarte codziennie ~10:00–18:00, śr do ~17:00; ⚠️ Sala Tronowa zamknięta do odwołania; State Rooms do 13:30 tylko 25.09/28.10/18.11/2.12.2026) — alternatywa: Casa Rocca Piccola (12 €; pn–sob) / MUŻA (10 €) — wybierz 1 |
 | 16:30–17:00 | **Autobus 13/14/15 → Sliema** — karta |
 | 18:00 | Kolacja + wieczór wolny |
 
@@ -140,11 +140,11 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 | Godz. | Co |
 | --- | --- |
-| 08:40–08:55 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min; z bagażem ~8–10 min) |
-| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; pon. kurs 09:00, ~50–55 min wg rozkładu (korki 60–70); alternatywnie z Ferries w Sliemi: 08:50 / 09:20) — karta |
+| 08:25–08:30 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min; na przystanku ~08:30) |
+| 08:41 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; pon. kursy **08:41 · 09:11 · 09:41** (co 30 min; kursu 09:00 nie ma), ~55–70 min wg rozkładu → Saqqajja 09:52 (z korkami do ~10:10); zapasowo 09:11 → 10:22; z Ferries w Sliemi: 08:30 / 09:00. Potwierdź w Tallinji dzień wcześniej) — karta |
 | 10:00–12:30 | ⭐ **Mdina** — Brama Główna, uliczki, **bastiony** (za darmo, przed wycieczkami ~10:00). ◽ **Katedra św. Pawła + muzeum** — combo **15 €** (ulg. 10 €) ⚠️ |
 | 12:30–13:30 | Lunch **Fontanella Tea Garden** (widok, ciasta) |
-| 13:45–15:00 | ⭐ **Rabat** (pieszo ~10 min) — spokojniejszy klimat. ◽ **Domus Romana** (6 €, mozaiki) — polecane · *albo Katakumby św. Pawła (6 €)* |
+| 13:45–15:00 | ⭐ **Rabat** (pieszo ~10 min) — spokojniejszy klimat. ◽ **Katakumby św. Pawła** (6 €, codziennie 09–19) — polecane · *albo Wignacourt Museum (6 €, codziennie 09:30–17; grota św. Pawła + schrony)* · 🚫 **Domvs Romana w pon zamknięta** (wt–nd 09–17) |
 | 15:15–15:45 | **Autobus 201 → Dingli** (~8 min wg rozkładu) — karta |
 | 15:45–17:25 | 🌅 **Klify Dingli + Miġra l-Ferħa** — popołudniowy spacer wzdłuż klifów (widoki + Filfla) |
 | 17:37 | **Autobus 201 Dingli → Rabat** (~8 min, Rabat ~17:45; 201 co 60: 16:37 · **17:37** · 18:37 · 19:37). |
@@ -195,17 +195,17 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 | Ħaġar Qim + Mnajdra (D6) | 10 € |
 | **RAZEM (baza średniego)** | ~117–123 € |
 
-> **Opcje (dolicz wybrane):** D2 popołudnie — Grandmaster's Palace 12 € / Casa Rocca Piccola 10 € / MUŻA 8 € (1 opcja) · D7 — Domus Romana 6 € / katakumby 6 € · D3 i St Peter's Pool — darmo. **Budżetowo zamiast szybkiego promu:** 222 + Gozo Channel (D3) = 4,65 € → ~107–113 €. **D4 = Plan B (plaża):** odejmij prom 4,50–5 € return + Fort 10 € + dgħajsa 3–5 € → **~99–104 €**.
+> **Opcje (dolicz wybrane):** D2 popołudnie — Grandmaster's Palace 12 € / Casa Rocca Piccola 12 € / MUŻA 10 € (1 opcja) · D7 — katakumby 6 € / Wignacourt Museum 6 € (Domvs Romana w pon zamknięta) · D3 i St Peter's Pool — darmo. **Budżetowo zamiast szybkiego promu:** 222 + Gozo Channel (D3) = 4,65 € → ~107–113 €. **D4 = Plan B (plaża):** odejmij prom 4,50–5 € return + Fort 10 € + dgħajsa 3–5 € → **~99–104 €**.
 >
 
-> **Realistyczny łączny koszt** (z 1 opcją w D2 + Domus w D7): **~135–141 €** (D4 = Plan A).
+> **Realistyczny łączny koszt** (z 1 opcją w D2 + katakumbami w D7): **~135–141 €** (D4 = Plan A).
 >
 
 ## Rezerwacje (skrót — szczegóły i linki w Malta_Komplet.html)
 
 - 🔴 **Comino — bezpośredni prom z Ċirkewwy** (Comino Ferries ~15 € return, bilet elastyczny — kup online, przyjedź rano; sprawdź, czy potwierdzenie zawiera wejście na Blue Lagoon, jak nie — osobny darmowy pass na slot poranny) na **bluelagooncomino.mt / blcomino.com**. Rejs ze Sliemy (28–40 €) to droższa opcja.
 - 🟡 **St John's Co-Cathedral** (15 €) — kup przez **oficjalny link fundacji** (showsHappening) stjohnscocathedral.com/buy-tickets/; nie od nieautoryzowanych pośredników.
-- 🟡 **Heritage Malta Multisite Pass** (30–60 €) — **nie opłaca się** przy obecnym zestawie (≈42 € dla dorosłego, z Ħaġar Qim); kupuj pojedynczo lub Rabat Combo (katakumby+Domvs, 12 € dla dorosłego).
+- 🟡 **Heritage Malta Multisite Pass** (30–60 €) — **nie opłaca się** przy obecnym zestawie (≈36 € dla dorosłego, z Ħaġar Qim); kupuj pojedynczo (Rabat Combo katakumby+Domvs 12 € tylko wt–nd — w D7/pon Domvs Romana zamknięta).
 - 🟢 Na miejscu: Explore 25 € (Welcomer's Hall na lotnisku ~08:00–19:30), promy, Blue Grotto (~10 €, kupno na miejscu), wejścia.
 - 📋 Przejściówka typ G, sprawdź godziny St John's przed wyjazdem.
 

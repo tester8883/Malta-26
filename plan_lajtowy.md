@@ -20,7 +20,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 > **Wypada (opcjonalne):** Malta Experience, Dingli/Ta' Pinu/Ramla, Ħaġar Qim, "dodatkowe" muzea. To dla odpoczynku.
 >
 
-> **Nie wypada (bo to opcje/alternatywy):** **Three Cities** → **Plan A na D4** (plaża = Plan B) · **popołudnie w Valletcie** (D2, 1 opcja) · **Crystal Lagoon + wieża św. Marii** → opcje na Comino (D5) · **katakumby/Domus Romana** → opcje w D7 · **St Peter's Pool** → opcjonalna kąpiel w D6.
+> **Nie wypada (bo to opcje/alternatywy):** **Three Cities** → **Plan A na D4** (plaża = Plan B) · **popołudnie w Valletcie** (D2, 1 opcja) · **Crystal Lagoon + wieża św. Marii** → opcje na Comino (D5) · **katakumby/Wignacourt Museum** → opcje w D7 · **St Peter's Pool** → opcjonalna kąpiel w D6.
 >
 
 ## Dzień 1 · wt 29.09 — Przylot + odpoczynek 88 + 13/14/15
@@ -50,7 +50,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 | 12:00 | ⭐ **Salut armatni** — za darmo |
 | 12:30–13:30 | Lunch |
 | 14:00–15:00 | ⭐ **Lower Barrakka + mury** — za darmo, widok na Grand Harbour |
-| 15:00–16:30 | ◽ **1 opcja** (jeśli masz energię): **Casa Rocca Piccola** (10 €, pałac + schrony bombowe) · **Grandmaster's Palace** (12 €; ⚠️ pomiń — Sala Tronowa zamknięta) · **MUŻA** (8 €) · albo kawa przy Upper Barrakka (0 €) |
+| 15:00–16:30 | ◽ **1 opcja** (jeśli masz energię): **Casa Rocca Piccola** (12 €, pałac + schrony bombowe) · **Grandmaster's Palace** (12 €; ⚠️ pomiń — Sala Tronowa zamknięta) · **MUŻA** (10 €) · albo kawa przy Upper Barrakka (0 €) |
 | 16:30–17:00 | **Autobus 13/14/15 → Sliema** — karta |
 | 18:00 | Kolacja + wieczór wolny |
 
@@ -159,11 +159,11 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 | Godz. | Co |
 | --- | --- |
-| 08:40–08:55 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min; z bagażem ~8–10 min) |
-| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; pon. kurs 09:00, ~50–55 min wg rozkładu (korki 60–70); alternatywnie z Ferries w Sliemi: 08:50 / 09:20) — karta |
+| 08:25–08:30 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min; na przystanku ~08:30) |
+| 08:41 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; pon. kursy **08:41 · 09:11 · 09:41** (co 30 min; kursu 09:00 nie ma), ~55–70 min wg rozkładu → Saqqajja 09:52 (z korkami do ~10:10); zapasowo 09:11 → 10:22; z Ferries w Sliemi: 08:30 / 09:00. Potwierdź w Tallinji dzień wcześniej) — karta |
 | 10:00–12:30 | ⭐ **Mdina** — spacer po Cichym Mieście: **Brama Główna**, uliczki, **bastiony** (za darmo, przed wycieczkami ~10:00). ◽ **Katedra św. Pawła + muzeum** — combo **15 €** (ulg. 10 €) ⚠️ (można pominąć) |
 | 12:30–13:30 | Lunch **Fontanella Tea Garden** (widok, ciasta) |
-| 13:45–15:00 | ⭐ **Rabat** (tuż obok, pieszo ~10 min) — spokojniejszy, mieszkalny klimat. ◽ **Katakumby św. Pawła** (6 €) / **Domus Romana** (6 €, mozaiki) — tylko jeśli lubisz |
+| 13:45–15:00 | ⭐ **Rabat** (tuż obok, pieszo ~10 min) — spokojniejszy, mieszkalny klimat. ◽ **Katakumby św. Pawła** (6 €) / **Wignacourt Museum** (6 €, grota św. Pawła + schrony) — tylko jeśli lubisz · 🚫 Domvs Romana w pon zamknięta (wt–nd) |
 | 15:15–15:45 | **Autobus 201 → Dingli** (~8 min wg rozkładu) — karta |
 | 15:45–17:25 | 🌅 **Klify Dingli + Miġra l-Ferħa** — popołudniowy spacer wzdłuż klifów (widoki + Filfla) |
 | 17:37 | **Autobus 201 Dingli → Rabat** (~8 min, Rabat ~17:45; 201 co 60: 16:37 · **17:37** · 18:37 · 19:37). |
@@ -213,7 +213,7 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 | Rejs łódką dgħajsa (D4, Plan A) | ~3–5 € |
 | **RAZEM (Plan A: D4 = Three Cities, D3 = szybki prom)** | ~108–115 € |
 
-> **Opcje (dolicz tylko te, które wybierzesz):** D2 popołudnie — Casa Rocca Piccola 10 € / Grandmaster's Palace 12 € / MUŻA 8 € (max 1) · D7 — katakumby 6 € / Domus Romana 6 € · D4 (zamiast dgħajsa) — Pałac Inkwizytora 8 €. **Budżetowo zamiast szybkiego promu:** 222 + Gozo Channel (D3) = 4,65 € → ~96–103 €. **D4 = Plan B (plaża):** odejmij prom 4,50–5 € return + Fort St Angelo 10 € + dgħajsa 3–5 € → **~93–100 €**.
+> **Opcje (dolicz tylko te, które wybierzesz):** D2 popołudnie — Casa Rocca Piccola 12 € / Grandmaster's Palace 12 € / MUŻA 10 € (max 1) · D7 — katakumby 6 € / Wignacourt Museum 6 € (Domvs Romana w pon zamknięta) · D4 (zamiast dgħajsa) — Pałac Inkwizytora 8 €. **Budżetowo zamiast szybkiego promu:** 222 + Gozo Channel (D3) = 4,65 € → ~96–103 €. **D4 = Plan B (plaża):** odejmij prom 4,50–5 € return + Fort St Angelo 10 € + dgħajsa 3–5 € → **~93–100 €**.
 >
 
 > vs plan pełny (~128 €): i tak oszczędzasz — brak Ħaġar Qim, Malta Experience i wielu muzeów. Część "pewniaków" to opcje i nie wchodzi do bazy.

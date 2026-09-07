@@ -481,3 +481,110 @@ brak `</tr>` w tabeli D3 — domknięte. Plan_transportu: wiersz „Hotel → Ro
 
 **Zmiany: 9 plików planu + ZMIANY.md. Stare wzorce („przy Rossie”, „09:24 →”, „09:54 → ~10:32”,
 „D2/D3/D4/D8”, „Fort St Angelo (12”, „z bagażem” w kompletnym, „35.91,14.501”): grep = 0.**
+
+---
+
+# Weryfikacja audytu pliku „Pogoda & rozkład tygodnia” + nowy `Plan_pogoda.html` — 06.09.2026
+
+**Wejście:** plik `Pogoda_rozkład.html` (plan uzupełniający D3–D7: rejsy przypinane do spokojnego morza) + audyt
+29 punktów. Każdy punkt sprawdzony u źródła: rozkłady MPT (publictransport.com.mt, stop-by-stop, trasy 202/222/74/85/80/82),
+grafika godzin Heritage Malta „1 March – 31 October 2026”, strony obiektów (wirtartna.org, themaltaexperience.com,
+metropolitanchapter.com, casaroccapiccola.com, cominoferries.com, heritagemalta.mt), OSM (odległości przystanków).
+Plik dodany do repo jako **`Plan_pogoda.html`** (styl i pasek nawigacji jak reszta planów; link „🌤️ Pogoda” dopisany
+do nawigacji 5 pozostałych HTML).
+
+## Werdykt audytu: 24 trafne, 3 częściowo, 2 skorygowane
+
+| # | Zarzut audytu | Werdykt | Zastosowano |
+| --- | --- | --- | --- |
+| 1 | §1 wiatr > deszcz | ✅ | bez zmian |
+| 2 | §2 „prom w październiku rzadszy” — błędne | ✅ | Comino Ferries: pełny rozkład do końca X (08:40–17:00, ostatni powrót 18:00), redukcja od XI; „wietrznie = zawieszenie” |
+| 3 | §2 wieża św. Marii śr/pt/sob/nd | ✅ (doprecyzowane) | Din l-Art Ħelwa: IV–X, zwykle 10:30–13:00 (czasem do 15:00) → „idź przed 13:00” |
+| 4 | §2 D3 „dużym promem Gozo Channel” niezgodne z planem | ✅ | plan = Gozo Highspeed z Valletty; dopisany fallback 222 + Gozo Channel (4,65 €) przy wietrze |
+| 5 | §2/§6 „Dingli wieczorem” | ✅ | Dingli po południu (15:15–17:25), zachód z bastionów Mdiny — wszędzie |
+| 6 | §3 „patrz sekcja 7” | ✅ | → sekcja 5 |
+| 7 | §3 kotwica Mdina = pon | ✅ | zostaje jako „miękka”; dopisane: w pon zamknięte Domvs Romana i Palazzo Falson |
+| 8 | §4 timing decyzji | ✅ | + wyjątek: komunikat operatora o zawieszeniu |
+| 9 | §5 brak reguły „sobota spokojna → Comino zostaje” | ✅ | dodana jako krok 2 (przepustka niezmienialna) |
+| 10 | §6 układ B ≠ pierwotny | ✅ | dodany **Układ 0 – bazowy**; A/B opisane jako zamiany D4↔D6 / D4↔D5 |
+| 11 | przepustka: zarezerwuj też piątek | ✅ | w checkliście „przed wyjazdem” (opcjonalnie) |
+| 12 | dni tygodnia dla busów | ✅ | nowa tabela pt/sob/nd dla 222, 74, 202 (MPT 06.09) |
+| 13 | sob = Three Cities + Notte Bianca | ✅ | dopisane w B/C i §7 |
+| 14 | sob = Marsaxlokk bez targu | ✅ | dopisane w A |
+| 15 | Mosta 202 → Bezzina, Rotunda 5 €, nd 12–17 | ✅ | + powrót z Kungress (1142); ⚠️ audyt podał „z Ross 08:41/09:11/09:41, ~40 min” — potwierdzone (Ross→Bezzina 39 min) |
+| 16 | Ta' Qali OK / San Anton nie przy 202 | ✅ | Marġ → San Anton ~1,2 km (OSM); alternatywa 51/52/53 przystanek Anton (~430 m) |
+| 17 | Għadira 50–60 min | ⚠️ częściowo | rozkład: rano **44–48 min**, w dzień 56–62 → „~45–60 min” |
+| 18 | Għar Dalam: 80/82/85, 85 z Marsaxlokk co godz., 6,50 €, wt–nd | ✅ | 85 z Valletty to **~25–30 min** (nie 40); 80/82 ~35 min |
+| 19 | MUŻA 10 € (nie gratis) | ✅ | |
+| 20 | Casa Rocca Piccola pn–sob, nd zamknięte | ✅ | cena: źródła 2026 rozbieżne (~10–15 €) → „potwierdź” |
+| 21 | Lascaris pn–sob 09:30–17:30, 20 € | ✅ | |
+| 22 | Malta Experience sob/nd 11–14 | ✅ + korekta ceny | oficjalna strona: **20 €** (nie 16 €) |
+| 23 | brak opcji niedzielnych | ✅ | lista „deszczowa niedziela”: Pałac, Fort St Elmo (10 €), Archeologia (5 €), MUŻA |
+| 24 | Norman House = Palazzo Falson, wt–nd | ✅ | |
+| 25 | katedra nd 15–17; Wignacourt 6 € codziennie | ✅ | + Domvs Romana **wt–nd** (HM 2026) — w pon zamknięta (audyt pisał „codziennie”) |
+| 26 | The Point = Sliema/Tigné | ✅ | |
+| 27 | Hypogeum last-minute 50 € | ✅ | + 35 € online, sprzedaż od 09:00 w Fort St Elmo, dzieci <6 nie wchodzą |
+| 28 | Muzeum Lotnictwa = Ta' Qali, nie „przy bazie” | ✅ | |
+| 29 | checklista: Blue Grotto bez statusu online, Comino Ferries komunikuje | ✅ | |
+| + | heurystyka kierunku wiatru (S/SW → Comino pływa, N/NE → Blue Grotto działa) | ✅ przyjęta | tabela w §5 z zastrzeżeniem „heurystyka, nie gwarancja” |
+
+**Odrzucone / skorygowane względem audytu:** (a) „Rotunda leży na trasie 51/52/53” (sugestia z planów) — **51/52/53
+NIE jeżdżą przez Mostę** (Valletta → Attard → Rabat); pod Rotundę z Valletty: 31/45/47/48; (b) Domvs Romana „codziennie”
+→ wg HM 2026 **wt–nd**; (c) Malta Experience 16 € → 20 €.
+
+## Co to odsłania w planie głównym (Audyt #7 — zweryfikowane w innych źródłach i zastosowane 07.09.2026, patrz niżej)
+
+| Plik / miejsce | Jest | Powinno być (źródło 06.09.2026) |
+| --- | --- | --- |
+| D7 202 z Ross (4 MD + 4 HTML) | „kurs 09:00, ~50–55 min” | pn: **08:41 / 09:11 / 09:41 (Ross 926), ~71 min** → Saqqajja 09:52 / 10:22 / 10:52; wyjście 08:25 na 08:41 |
+| Rotunda (Plan_kompletny §8, Plan_transportu D7, plan_mapka) | „darmowa kopuła”, „gdybyś jechał 51/52/53 przez Mostę” | **5 €**, nd 12–17; 51/52/53 nie jadą przez Mostę — Rotunda tylko z 202 (Bezzina) lub 31/45/47/48 |
+| MUŻA (D2 + §5, 4 plany + mapka) | 8 € | **10 €** |
+| Muzeum Archeologii (D2 + §5) | 10 € | **5 €** |
+| Malta Experience (D2 + §5 + mapka) | 16 € | **20 €** |
+| Lascaris War Rooms (§5) | ~14 € | **20 €**, pn–sob |
+| Casa Rocca Piccola (§5) | 10 € | ~10–15 €, pn–sob (nd zamknięte) |
+| D7 Rabat: Domvs Romana 6 € (D7 = pon) | proponowane w pon | **w pon zamknięte** (wt–nd) — Rabat Combo w D7 nie działa; zamiennik Wignacourt Museum 6 € |
+
+Budżet „pewniaków” (~128 €) się nie zmienia — to pozycje opcjonalne. Największa waga: **202 w D7** (kurs 09:00 nie istnieje
+w bieżącym rozkładzie; przyjazd ~10:20 zamiast ~10:00) i **Domvs Romana w poniedziałek**.
+
+---
+
+# Audyt #7 — plan główny: 202 w D7, Rotunda, ceny wnętrz, Domvs Romana w poniedziałek (weryfikacja w innych źródłach, 07.09.2026)
+
+**Zakres:** 8 rozbieżności z tabeli „DO DECYZJI” wyżej, każda sprawdzona w źródle **innym niż to, które ją wykryło**
+(rozkłady: świeże pobranie publictransport.com.mt 07.09 **oraz** niezależne PDF-y rozkładów maltabybus/busatlas — wydania
+„Summer 2025”, „September 2025” (ważne do 31.10) i „November 2025”; ceny: strony obiektów heritagemalta.mt (Archeologia, MUŻA,
+Domvs Romana, Katakumby), wirtartna.org (Lascaris), casaroccapiccola.com/access-statement (Casa Rocca), guidememalta/catholica
+(Wignacourt), travel-kia/mindtrip/kupi (Rotunda — mostachurch.com nie publikuje cen); trasa 51: lista przystanków MPT).
+Werdykt: **8/8 potwierdzone → zastosowane** w 4 planach MD + 4 HTML + plan_mapka (+2 drobne w Plan_pogoda). Jedna korekta
+własnej tabeli: Casa Rocca Piccola to **12 €** (oficjalnie), nie „~10–15 €”.
+
+## Werdykt i zmiany
+
+| # | Pozycja | Było | Jest | Niezależne potwierdzenie |
+| --- | --- | --- | --- | --- |
+| 1 | **D7 · 202 z Rossu** (4 MD + 4 HTML) | wyjście 08:40–08:55, „kurs 09:00, ~50–55 min”, z Ferries 08:50/09:20 | wyjście **08:25–08:30**; pon **08:41 · 09:11 · 09:41** (co 30 min) → **Saqqajja 09:52 / 10:22 / 10:52** (~71 min wg MPT, „~55–70 min”); z Ferries 08:30/09:00; dopisek o zmianie rozkładu ok. 22.09 | MPT stop-by-stop (Ross 926 → Saqqajja 6178) + PDF busatlas: pn–pt z Ferries 05:30, 06:30 ..[30].. 18:30, „64 min do Rabatu” (identycznie w wydaniach VI, IX i XI 2025) — kursu 09:00 z Rossu nie ma w żadnym |
+| 2 | **Rotunda w Moście** (kompletny §8/D7, transportu D7, mapka) | „darmowa kopuła”, „gdybyś jechał 51/52/53 przez Mostę” | **5 €** (3 € bez kopuły), pn–pt 09:30–17:30, sob do 16:30, nd 12–17; **51/52/53 nie jadą przez Mostę** — z 202 przystanek **Mosta – Bezzina** (~250 m), powrót Kungress; z Valletty 31/45/47/48 | lista przystanków trasy 51 (MPT: Valletta → Ħamrun → Birkirkara → Attard → Ta' Qali → Rabat); PDF busatlas: 202 „MOSTA Oratorju/Rotunda 1”; ceny: 3 niezależne przewodniki 2024–26 |
+| 3 | **MUŻA** (D2 + §5, 4 plany + mapka) | 8 € | **10 €** | heritagemalta.mt/explore/muza (Adults €10) |
+| 4 | **Muzeum Archeologii** (D2 + §5 + transportu) | 10 € | **5 €** | heritagemalta.mt/explore/national-museum-of-archaeology (Adults €5) |
+| 5 | **Malta Experience** (D2 + §5 + transportu + mapka) | 16 € | **20 €** | themaltaexperience.com (06.09) — bez nowego źródła (cena oficjalna) |
+| 6 | **Lascaris War Rooms** (§5) | ~14 € | **20 €**, pn–sob 09:30–17:30 | wirtartna.org/lascariswarrooms (adult €20, Mon–Sat) |
+| 7 | **Casa Rocca Piccola** (D2 + §5, 4 plany + mapka + Plan_pogoda) | 10 € (Pogoda: „~10–15 €, potwierdź”) | **12 €**, pn–sob 10–17 | casaroccapiccola.com/access-statement: „ADULTS €12.00” (przewodnik malta-spirit 04.2026 podaje ~10 € — nieaktualne) |
+| 8 | **D7 Rabat: Domvs Romana** (4 plany + mapka) | proponowana w pon (Rabat Combo 12 €) | 🚫 **w pon zamknięta** (wt–nd 09–17) → zamiennik **Wignacourt Museum 6 €** (grota św. Pawła + schrony; codziennie 09:30–17:00; nowy wiersz w mapce 35.88165, 14.39891); Rabat Combo „tylko wt–nd” | heritagemalta.mt/opening-hours (grafika 1 III–31 X 2026); Wignacourt: guidememalta + catholica (Mon–Sun 09:30–17:00) |
+
+**Konsekwencje w budżecie (kompletny §5/§6/§9, zrównoważony):** suma obiektów Heritage Malta „≈42 €” (z Rabat Combo 12)
+→ **≈36 €** (Ġgantija 10 + Fort St Angelo 10 + Ħaġar Qim 10 + Katakumby 6; bez Ħaġar Qim ≈ 26 €) + ewentualnie Wignacourt 6 €
+(nie-HM) — pozycja „pewniaki ~57 €” i **budżet ~128 € / ~117 € bez zmian** (15 + 36 + 6 = 57). Zrównoważony: „realistyczny
+koszt ~135–141 €” bez zmian (Domvs 6 € → katakumby 6 €). Widełki opcji D2 w transportu: „8–16 €” → „5–20 €”.
+
+**Przy okazji:** pisownia ujednolicona do oficjalnej **„Domvs Romana”** (19 wystąpień „Domus”); D7 w transportu (opis dnia)
+i mapce: „klify Dingli na zachód słońca” → „klify po południu, zachód z bastionów Mdiny” (spójnie z resztą planów).
+
+**Bez zmian (świadomie):** godzina 10:00–12:30 „Mdina” w D7 — kurs 08:41 daje Saqqajja 09:52 (bufor na korki do ~10:10);
+notka „Dlaczego Dingli, a nie bastiony Mdiny?” w transportu (historyczna argumentacja, poza zakresem audytu); Malta Experience
+zostaje 🚫 (20 € tylko wzmacnia werdykt); Comino Ferries „online ~14 €” (to nie Lascaris).
+
+**Grep = 0 po zmianach:** „kurs 09:00”, „50–55 min”, „08:50 / 09:20”, „08:40–08:55”, „darmowa kopuła”, „51/52/53 przez”,
+„MUŻA 8 €”, „Archeologia 10 €”, „Malta Experience 16 €”, „~14 €” (poza Comino), „Casa Rocca … 10 €”, „Domus”, „≈42”,
+„Rabat Combo 12”. HTML: bilans znaczników OK (6 plików).

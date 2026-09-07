@@ -42,10 +42,10 @@ Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
 | 1 | pieszo | Hotel → przystanek **San Giljan – Ross** | ~5 min | 0 € | 13/14/15 → Valletta · 222 → Ċirkewwa · 202 → Mdina (TD2 na lotnisko: przystanek Dragonara ~100 m od hotelu) |
 | 2 | autobus 13/14/15 | Sliema → Valletta | ~20–25 min | karta | opcjonalnie prom ~10 min za ~2 € (widok/szybciej) |
 | 3 | pieszo | Po Valletcie: St John's → Barrakka → Lower Barrakka | cały dzień | 15 € (St John's) | 🕐 St John's 09:00; salut na Upper Barrakka 12:00 |
-| 3b | pieszo (◽ max 1) | ◽ Grandmaster's Palace (12 €) / MUŻA (8 €) / Archeologia (10 €) / Malta Experience (16 €) | 1–1,5 h | 8–16 € | ✅ Grandmaster's możliwy (otwarte codziennie ~10:00–18:00; 12 €; ⚠️ Sala Tronowa zamknięta do odwołania; State Rooms do 13:30 tylko 25.09/28.10/18.11/2.12.2026) · MUŻA ⚠️ jeśli lubisz sztukę · Malta Experience 🚫 drogi show, nie historia |
+| 3b | pieszo (◽ max 1) | ◽ Grandmaster's Palace (12 €) / MUŻA (10 €) / Archeologia (5 €) / Malta Experience (20 €) | 1–1,5 h | 5–20 € | ✅ Grandmaster's możliwy (otwarte codziennie ~10:00–18:00; 12 €; ⚠️ Sala Tronowa zamknięta do odwołania; State Rooms do 13:30 tylko 25.09/28.10/18.11/2.12.2026) · MUŻA ⚠️ jeśli lubisz sztukę · Malta Experience 🚫 drogi show, nie historia |
 | 4 | autobus 13/14/15 | Valletta → Sliema | ~20–25 min | karta | opcjonalnie prom |
 
-> Alternatywa dla ⚠️ (Grandmaster's Palace / muzea): kawa przy Upper Barrakka + spacer po bastionach i Lower Barrakka (gratis); ewentualnie Casa Rocca Piccola (10 €) zamiast pałacu.
+> Alternatywa dla ⚠️ (Grandmaster's Palace / muzea): kawa przy Upper Barrakka + spacer po bastionach i Lower Barrakka (gratis); ewentualnie Casa Rocca Piccola (12 €; pn–sob) zamiast pałacu.
 >
 
 ## Dzień 3 · czw 01.10 — Gozo (pełny dzień) bus 13/14/15 + szybki prom Valletta→Gozo · karta 7 dni
@@ -120,15 +120,15 @@ Kolejność: Blue Grotto NAJPIERW (najlepsze światło do ~13:00, najmniej ludzi
 
 ## Dzień 7 · pon 05.10 — Mdina + Rabat autobus 202 + 201 · karta 7 dni
 
-Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **klify Dingli na zachód słońca**. ◽ Opcjonalnie Rotunda w Moście.
+Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **popołudniowy widok klifów Dingli (15:45–17:25)**; zachód (~18:42) z bastionów Mdiny. ◽ Opcjonalnie Rotunda w Moście (5 €; z 202 — przystanek Bezzina).
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | autobus 202 | San Giljan – Ross → Mdina | ~50–55 min wg rozkładu (korki 60–70) | karta | 🕐 kurs **09:00** (pon) — wsiadasz na Ross, bez przesiadki; alternatywnie z Ferries w Sliemi: 08:50 / 09:20 |
+| 1 | autobus 202 | San Giljan – Ross → Mdina (Saqqajja) | ~55–70 min wg rozkładu (MPT: 08:41 → 09:52; korki do ~85) | karta | 🕐 pon: **08:41** · 09:11 · 09:41 (co 30 min; kursu 09:00 nie ma) → Saqqajja 09:52 · 10:22 · 10:52 — wsiadasz na Ross, bez przesiadki; z Ferries w Sliemi: 08:30 / 09:00; potwierdź w Tallinji dzień wcześniej |
 | 1b | autobus 202 | Mdina/Saqqajja → Ross (St Julian's) | ~60 min | karta | 🕐 **powrót wieczorny**: 19:01 · 20:01 · 21:01 (z Saqqajja) → Ross ~20:01 · 20:52 · 21:52 — **bez przesiadki** |
 | 2 | pieszo | ⭐ Mdina — spacer + bastiony | 2–3 h | 0 € | 🕐 przed wycieczkami (~10:00); ◽ Katedra+Muzeum combo 15 € (ulg. 10 €) ⚠️ pominąć |
 | 2b | przejście | Mdina → Rabat (katakumby) | ~10–15 min | 0 € | miasta obok siebie |
-| 2c | pieszo (◽) | ◽ Katakumby św. Pawła (6 €) / Domus Romana (6 €) | 1–1,5 h | 6 € | ⚠️ tylko jeśli lubisz katakumby / mozaiki |
+| 2c | pieszo (◽) | ◽ Katakumby św. Pawła (6 €) / Wignacourt Museum (6 €) | 1–1,5 h | 6 € | ⚠️ tylko jeśli lubisz katakumby / grotę św. Pawła; 🚫 **Domvs Romana w pon zamknięta** (wt–nd) |
 | 3 | autobus 201 | Rabat → Dingli | ~8 min | karta | 🕐 201 co 60 (Rabat 13:30 · 14:30 · 15:30 · 16:30); popołudniowy widok — wracaj **17:37** |
 | 3b | autobus 201 | Dingli → Rabat (powrót) | ~8 min | karta | ⚠️ kursy co 60: 15:37 · 16:37 · **17:37** · 18:37 · 19:37; rozsądny ostatni 19:37 |
 | 3c | pieszo | 🌙 Wieczorna Mdina (podświetlone mury) | ~45 min | 0 € | opcja, jeśli wrócisz przed 20:00 |
@@ -138,7 +138,7 @@ Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **
 > **Dlaczego Dingli, a nie bastiony Mdiny?** Z bastionów Mdiny słońce zachodzi **nad lądem**, a z klifów Dingli **nad otwartym morzem** — ikoniczne ujęcie. Zostajemy w okolicy cały dzień (Rabat → Dingli → wieczorna Mdina → 202), więc wracamy raz, nie dwukrotnie. ⚠️ **Zabezpieczenie:** 201 z Dingli wieczorem ~co 60 min — sprawdź ostatni kurs na 5.10; jeśli jest za wcześnie na zachód (~18:42), oglądaj go z bastionów Mdiny.
 >
 
-> **Z blogów:** na powrót z Mdiny **wsiadaj na pierwszym dostępnym przystanku** (pełny autobus nie zatrzyma się na kolejnym). ◽ **Rotunda w Moście** (darmowa, jedna z największych kopuł w Europie): gdybyś jechał trasą 51/52/53 przez Vallettę, wysiądź w Moście na ~20 min.
+> **Z blogów:** na powrót z Mdiny **wsiadaj na pierwszym dostępnym przystanku** (pełny autobus nie zatrzyma się na kolejnym). ◽ **Rotunda w Moście** (jedna z największych kopuł w Europie; **5 €**, 3 € bez kopuły; pn–pt 09:30–17:30): **51/52/53 nie jeżdżą przez Mostę** (Valletta → Attard → Rabat) — Rotunda leży na trasie **202** (przystanek **Mosta – Bezzina** 1102, ~250 m; w drodze powrotnej Kungress 1142, ~320 m); z Valletty pod Rotundę: 31/45/47/48.
 >
 
 ## Dzień 8 · wt 06.10 — Wylot TD2 (Airport Direct) · 3 € · karta Explore do 05.10

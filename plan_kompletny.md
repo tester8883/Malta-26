@@ -104,11 +104,11 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 12:00 | ⭐ **Salut armatni** (Upper Barrakka) — bezpłatnie |
 | 12:30–13:30 | Lunch |
 | 14:00–15:00 | ⭐ **Lower Barrakka** + mury — bezpłatnie |
-| 15:00–16:00 | ◽ **MUŻA** 8 € ⚠️ · **Archeologia** 10 € ⚠️ · **Malta Experience** 16 € 🚫; **max 1** |
+| 15:00–16:00 | ◽ **MUŻA** 10 € ⚠️ · **Archeologia** 5 € ⚠️ · **Malta Experience** 20 € 🚫; **max 1** |
 | 16:00 | (opcjonalnie 2. salut armatni) |
 | 17:00–17:30 | **Autobus 13/14/15 Valletta → St Julian's (Ross)** — karta *(opcjonalnie prom do Sliemy)* |
 
-> ⚠️ **Alternatywa, jeśli pominiesz Grandmaster's Palace / muzea:** kawa w kawiarni przy Upper Barrakka + spacer po bastionach i Lower Barrakka — najlepszy „darmowy" zamiennik; ewentualnie **Casa Rocca Piccola** (10 €, pałac + schrony bombowe).
+> ⚠️ **Alternatywa, jeśli pominiesz Grandmaster's Palace / muzea:** kawa w kawiarni przy Upper Barrakka + spacer po bastionach i Lower Barrakka — najlepszy „darmowy" zamiennik; ewentualnie **Casa Rocca Piccola** (12 €, pałac + schrony bombowe; pn–sob).
 >
 
 ### Dzień 3 · czw 01.10 — Gozo (pełny dzień) bus → Valletta + szybki prom · karta 🔴
@@ -206,11 +206,11 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 
 | Godz. | Co |
 | --- | --- |
-| 08:40–08:55 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min pieszo) |
-| 09:00 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** — bez przesiadki; poniedziałek: kurs **09:00**, jazda ~50–55 min wg rozkładu (z korkami 60–70 — licz zapas); z przystanku Ferries w Sliemi odjazdy 08:50 / 09:20 — gdybyś wolał wsiąść tam: 13/14/15 do Sliemy i wyjście do 08:35) — karta |
+| 08:25–08:30 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min pieszo; na przystanku ~08:30) |
+| 08:41 | **🕐 Autobus 202 → Mdina/Rabat** (wsiadasz **na Ross** (926) — bez przesiadki; poniedziałek: kursy **08:41 · 09:11 · 09:41** (co 30 min; kursu „09:00” nie ma), jazda **~55–70 min wg rozkładu** — MPT stop-by-stop: 08:41 → **Saqqajja 09:52** (z korkami licz do ~10:10); zapasowo 09:11 → Saqqajja 10:22. Z Ferries w Sliemi te same kursy odjeżdżają 08:30 / 09:00 (~11 min wcześniej). ⚠️ Rozkład sezonowy zmienia się ok. 22.09 — potwierdź w Tallinji dzień wcześniej) — karta |
 | 10:00–12:30 | ⭐ **Mdina** — spacer po Cichym Mieście + **bastiony** (bezpłatnie). 🕐 przed wycieczkami (~10:00). ◽ Katedra+Muzeum — combo **15 €** (ulg. 10 €) ⚠️ pominąć |
 | 12:30–13:30 | Lunch **Fontanella Tea Garden** (widok, ciasta) |
-| 13:45–15:00 | ⭐ **Rabat** (pieszo ~10–15 min) — spokojniejszy, mieszkalny klimat. ◽ **Katakumby św. Pawła** 6 € ⚠️ · **Domus Romana** 6 € ⚠️ |
+| 13:45–15:00 | ⭐ **Rabat** (pieszo ~10–15 min) — spokojniejszy, mieszkalny klimat. ◽ **Katakumby św. Pawła** 6 € ⚠️ (codziennie 09–19) · **Wignacourt Museum** 6 € ⚠️ (grota św. Pawła + schrony z II wś.; codziennie 09:30–17:00) · 🚫 **Domvs Romana w pon zamknięta** (wt–nd 09–17) |
 | 15:15–15:45 | **Autobus 201 → Dingli** (~8 min wg rozkładu) — karta |
 | 15:45–17:25 | 🌅 **Klify Dingli + Miġra l-Ferħa** — popołudniowy spacer wzdłuż klifów (widoki + Filfla; bez czekania na zmrok) |
 | 17:37 | **Autobus 201 Dingli → Rabat** (~8 min, przyjazd Rabat ~17:45; 201 co 60: 15:37 · 16:37 · **17:37** · 18:37 · 19:37) — karta. |
@@ -222,7 +222,7 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 > 🌊 **Wariant „zachód nad morzem" (opcjonalny, tylko jeśli bardzo chcecie):** zostańcie w Dingli do ~18:50 (zachód 18:42) → 201 **19:37** → Rabat 19:45 → **202 z Saqqajja 20:01** → Ross ~20:52 (**bez przesiadki**). Koszt: **wieczorna Mdina odpada** (zostają ~5 min przy bramie). Sprawdź 201 oraz wieczorne kursy **202** (Saqqajja 19:01/20:01/21:01 → Ross ~20:01/20:52/21:52) i awaryjną **51** (19:44/20:14) dzień wcześniej w Tallinja.
 >
 
-> ⚠️ **Zabezpieczenie:** 201 z Dingli co ~60 min — **ostatni rozsądny kurs 19:37** (20:37 istnieje, ale wtedy wieczorna Mdina odpada). **Powrót z Rabatu: 202** (Mdina/Saqqajja **19:01 · 20:01 · 21:01** → Ross ~20:01/20:52/21:52 — bez przesiadki); awaryjnie **51** 19:44 → Valletta 20:15 → 13 o 20:25 → Ross ~20:52 (lub 20:14 → 13 o 20:55 → ~21:22; 53 ~19:48 MF). Na powrót z Mdiny **wsiadaj na pierwszym przystanku** (pełny autobus nie zatrzyma się na kolejnym). ◽ **Rotunda w Moście**: gdybyś jechał 51/52/53 przez Mostę, możesz wysiąść na ~20 min, potem dalej do Mdiny — ale to tylko przy zapasie czasu.
+> ⚠️ **Zabezpieczenie:** 201 z Dingli co ~60 min — **ostatni rozsądny kurs 19:37** (20:37 istnieje, ale wtedy wieczorna Mdina odpada). **Powrót z Rabatu: 202** (Mdina/Saqqajja **19:01 · 20:01 · 21:01** → Ross ~20:01/20:52/21:52 — bez przesiadki); awaryjnie **51** 19:44 → Valletta 20:15 → 13 o 20:25 → Ross ~20:52 (lub 20:14 → 13 o 20:55 → ~21:22; 53 ~19:48 MF). Na powrót z Mdiny **wsiadaj na pierwszym przystanku** (pełny autobus nie zatrzyma się na kolejnym). ◽ **Rotunda w Moście** (**5 €**; 3 € bez wejścia na kopułę; pon 09:30–17:30): **51/52/53 nie jadą przez Mostę** (Valletta → Attard → Rabat) — jedyna sensowna opcja to poranny **202**: wysiądź na **Mosta – Bezzina** (1102; ~250 m od Rotundy; z Rossu ~39 min), po ~20–30 min wsiądź w następny 202 (co 30 min) — kosztuje to ~30–60 min Mdiny; tylko przy zapasie czasu.
 >
 
 ### Dzień 8 · wt 06.10 — Wylot TD2 (Airport Direct, 3 €) · karta Explore do 05.10
@@ -246,12 +246,12 @@ Legenda: ⭐ = warta (polecam) · ✅ = warta · ⚠️ = średnio/opcjonalnie �
 | **Lower Barrakka Gardens + mury** | bezpłatnie | ✅ warte |
 | **Grandmaster's Palace** | 12 € | ✅ opcjonalnie — otwarte codziennie ~10:00–18:00 (śr do ~17:00); State Rooms + Armoury; ⚠️ Sala Tronowa zamknięta do odwołania; State Rooms do 13:30 tylko 25.09/28.10/18.11/2.12.2026 |
 | **Saluting Battery** (od środka) | ~3–5 € | ⚠️ opcjonalnie — salut i tak widzisz z Barrakka za darmo |
-| **MUŻA** (sztuka) | 8 € | ⚠️ opcjonalnie, jeśli lubisz sztukę |
-| **National Museum of Archaeology** | 10 € | ⚠️ opcjonalnie, historia |
-| **Malta Experience** (show) | 16 € | ⚠️ opcjonalnie |
+| **MUŻA** (sztuka) | 10 € | ⚠️ opcjonalnie, jeśli lubisz sztukę |
+| **National Museum of Archaeology** | 5 € | ⚠️ opcjonalnie, historia |
+| **Malta Experience** (show) | 20 € | ⚠️ opcjonalnie |
 | **Malta 5D** | 15 € | 🚫 można pominąć (show, nie historia) |
-| **Lascaris War Rooms** | ~14 € | ⚠️ opcjonalnie, dla fanów II wś. |
-| **Casa Rocca Piccola** | 10 € | ⚠️ opcjonalnie, pałac ze schronami bombowymi |
+| **Lascaris War Rooms** | 20 € | ⚠️ opcjonalnie, dla fanów II wś.; pn–sob 09:30–17:30 (nd zamknięte) |
+| **Casa Rocca Piccola** | 12 € | ⚠️ opcjonalnie, pałac ze schronami bombowymi; pn–sob 10–17 (nd zamknięte) |
 
 ### Gozo (D3)
 
@@ -305,13 +305,14 @@ Legenda: ⭐ = warta (polecam) · ✅ = warta · ⚠️ = średnio/opcjonalnie �
 | **Katedra św. Pawła + Muzeum Katedralne** | 15 € (combo; ulg. 10 €) | ⚠️ można pominąć — skromniejsze niż St John's |
 | **Muzeum Historii Naturalnej** | 7 € | ⚠️ opcjonalnie |
 | **Katakumby św. Pawła (Rabat)** | 6 € | ⚠️ tylko jeśli lubisz katakumby |
-| **Domus Romana (Rabat)** | 6 € | ⚠️ opcjonalnie, rzymskie mozaiki |
+| **Domvs Romana (Rabat)** | 6 € | 🚫 w D7 (pon) **zamknięta** — otwarta wt–nd 09–17 |
+| **Wignacourt Museum (Rabat)** | 6 € | ⚠️ opcjonalnie — grota św. Pawła + schrony z II wś. + katakumby; codziennie 09:30–17:00 (zamiennik Domvs w pon) |
 | **Klify Dingli (popołudniowy spacer; zachód oglądamy z bastionów Mdiny)** | bezpłatnie | ✅ warte widoku; zachód „nad morzem" tylko w wariancie opcjonalnym (201 z Dingli co 60 min — ostatni rozsądny 19:37) |
 
 > 🏆 **Wniosek:** płatne „pewniaki" to **St John's 15 + Ġgantija 10 + Ħaġar Qim 10 + Blue Grotto ~10 + Fort St Angelo 10 = ~55 €** (Fort i Ħaġar Qim ⚠️ opcjonalne). Cała reszta płatna to opcjonalne, a większość najpiękniejszych rzeczy jest darmowa. **Nie kupuj biletów z góry — wybieraj wg tabeli na miejscu.**
 >
 
-> 💡 **Heritage Malta Multisite Pass kosztuje 30–60 € (warianty ulgowe)** — **nie opłaca się automatycznie**. Kup go tylko, gdy suma konkretnych biletów z planu przekracza 60 €. Przy obecnym zestawie D3+D4+D6+D7 ≈ **42 €** (Ġgantija 10 + Fort St Angelo 10 + Ħaġar Qim 10 + Rabat Combo 12; bez Ħaġar Qim ≈ 32 €) — lepiej kupować bilety pojedynczo lub Rabat Combo.
+> 💡 **Heritage Malta Multisite Pass kosztuje 30–60 € (warianty ulgowe)** — **nie opłaca się automatycznie**. Kup go tylko, gdy suma konkretnych biletów z planu przekracza 60 €. Przy obecnym zestawie D3+D4+D6+D7 ≈ **36 €** w obiektach HM (Ġgantija 10 + Fort St Angelo 10 + Ħaġar Qim 10 + Katakumby 6; bez Ħaġar Qim ≈ 26 €) — kupuj bilety pojedynczo. Rabat Combo (katakumby + Domvs Romana, 12 €) w D7 nie działa — **Domvs Romana w pon zamknięta**.
 >
 
 ## 5a. Gdzie zjeść — smacznie i w rozsądnych cenach (wg dnia)
@@ -338,12 +339,12 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 | Szybki prom Valletta→Gozo (D3, ~7,50 € w jedną) | ~15 € return |
 | Comino prom Ċirkewwa→Comino (D5) | ~15 € return |
 | Blue Grotto rejs (D6) | ~10 € (bufor do 12) |
-| Wejścia „pewniaki" (St John's 15 + Heritage ≈42, z Ħaġar Qim) | ~57 € |
+| Wejścia „pewniaki" (St John's 15 + Heritage Malta ≈36 (z Ħaġar Qim i katakumbami) + Wignacourt Museum 6) | ~57 € |
 | **RAZEM (domyślny wariant: Valletta→Gozo, z Ħaġar Qim)** | ~128 € |
 | − budżetowo: zamiast szybkiego promu — Gozo Channel (222 + 4,65 €, bez windy) | −~11 € → ~117 € |
 | + jeśli na Comino wybierzesz rejs ze Sliemy zamiast promu z Ċirkewwy | +~10–20 € |
 
-> **Budżet biletów i transportu** wynosi orientacyjnie **~128 € na osobę** przy szybkim Gozo Highspeed (z Ħaġar Qim 10 €) albo **~117 €** przy wariancie Gozo Channel. Kwoty zakładają osobę dorosłą, bilet VFS return, St John's (15 €), zestawy Heritage Malta (≈42 €: Fort St Angelo 10 + Ġgantija/Ta' Kola 10 + Ħaġar Qim 10 + Rabat Combo 12) i orientacyjny rejs Blue Grotto (10 €). Nie obejmują jedzenia, noclegu, lotów ani zakupów. Do wariantu online dolicz możliwą **booking fee St John's** oraz niewielki bufor na **Airport Direct** (3–3,50 €) i zmienną cenę Blue Grotto.
+> **Budżet biletów i transportu** wynosi orientacyjnie **~128 € na osobę** przy szybkim Gozo Highspeed (z Ħaġar Qim 10 €) albo **~117 €** przy wariancie Gozo Channel. Kwoty zakładają osobę dorosłą, bilet VFS return, St John's (15 €), zestawy Heritage Malta (≈36 €: Fort St Angelo 10 + Ġgantija/Ta' Kola 10 + Ħaġar Qim 10 + Katakumby św. Pawła 6) + Wignacourt Museum w Rabacie (6 €; Domvs Romana w pon zamknięta) i orientacyjny rejs Blue Grotto (10 €). Nie obejmują jedzenia, noclegu, lotów ani zakupów. Do wariantu online dolicz możliwą **booking fee St John's** oraz niewielki bufor na **Airport Direct** (3–3,50 €) i zmienną cenę Blue Grotto.
 >
 
 ## 7. Praktyczne
@@ -373,12 +374,12 @@ Zebrane z blogów (m.in. zLukaszem, podrozepoeuropie, proste-podroze, podrozebez
 
 ### Co polecają DOŁOŻYĆ
 
-- **Mdina + Rabat razem**: „Rabat ma mniej turystów i bardziej mieszkalny klimat"; obok murów **Domvs Romana** (mozaiki) — opcjonalne 6 € w D7.
+- **Mdina + Rabat razem**: „Rabat ma mniej turystów i bardziej mieszkalny klimat"; obok murów **Domvs Romana** (mozaiki, 6 €) — ⚠️ w pon (D7) zamknięta; zamiennik w Rabacie: **Wignacourt Museum** (6 €, codziennie).
 - **Għajn Tuffieha / Golden Bay** zamiast zatłoczonej Mellieha Bay, jeśli chcesz plażę.
 - Na Gozo: **jaskinia Tal-Mixta** z widokiem na pomarańczową plażę **Ramla** oraz **Victoria/cytadela** — „najlepszy wybór pamiątek na wyspie".
 - **Klify Miġra l-Ferħa** (obok Dingli) — szlaki widokowe na szczycie klifów (opcja w D7).
-- **Combo ticket Malta Heritage** (Heritage Malta) — wstęp do 4 obiektów, ważny 30 dni. Przy obecnym planie (≈42 €) niekoniecznie; zamiast tego **Rabat Combo** (katakumby+Domvs, 12 € dla dorosłego — 6 € + 6 €).
-- **Rotunda w Moście** (darmowa kopuła) — szybki, tani przystanek po drodze (opcja w D7).
+- **Combo ticket Malta Heritage** (Heritage Malta) — wstęp do 4 obiektów, ważny 30 dni. Przy obecnym planie (≈36 € w HM) niekoniecznie — kupuj pojedynczo. **Rabat Combo** (katakumby+Domvs, 12 € dla dorosłego — 6 € + 6 €) ma sens tylko wt–nd; w D7 (pon) Domvs Romana jest zamknięta.
+- **Rotunda w Moście** (**5 €**; 3 € bez kopuły; pn–pt 09:30–17:30, sob do 16:30, nd 12–17) — krótki przystanek po drodze linią **202** (przystanek Mosta – Bezzina, ~250 m; opcja w D7). ⚠️ 51/52/53 **nie** jeżdżą przez Mostę; z Valletty pod Rotundę: 31/45/47/48.
 - Na Comino: **spacer do Wieży św. Marii** (~30 min w jedną stronę) — widoki z góry (opcja w D5).
 
 ### Ostrzeżenia / co odradzają
@@ -448,7 +449,7 @@ Gozo Highspeed to pasażerski prom (tylko pieszo, bez auta). **Domyślnie w D3 s
 - Obejmuje m.in. Grand Master's Palace, Ċittadella Visitors' Centre i Malta National Aquarium.
 - ⚠️ **NIE obejmuje** Ħal Saflieni Hypogeum ani Valletta Underground.
 - **Kup:** https://heritagemalta.mt/store/c95/ (albo heritagemalta.mt → Store).
-- **Werdykt dla planu:** **nie opłaca się** przy obecnym zestawie. Pojedyncze ceny: Fort St Angelo **10 €**, Ġgantija/Ta' Kola **10 €**, St Paul's Catacombs **6 €**, Domvs Romana **6 €**, Ħaġar Qim/Mnajdra **10 €**. D3+D4+D6+D7 ≈ **42 €** dla dorosłego (Fort St Angelo **10 €** + Ġgantija/Ta' Kola **10 €** + Ħaġar Qim **10 €** + Rabat Combo **12 €**; bez Ħaġar Qim ≈ 32 €) → kupuj bilety pojedynczo lub **Rabat Combo** (12 € dla dorosłego — 6 € + 6 €).
+- **Werdykt dla planu:** **nie opłaca się** przy obecnym zestawie. Pojedyncze ceny: Fort St Angelo **10 €**, Ġgantija/Ta' Kola **10 €**, St Paul's Catacombs **6 €**, Domvs Romana **6 €**, Ħaġar Qim/Mnajdra **10 €**. D3+D4+D6+D7 ≈ **36 €** dla dorosłego (Fort St Angelo **10 €** + Ġgantija/Ta' Kola **10 €** + Ħaġar Qim **10 €** + Katakumby **6 €**; bez Ħaġar Qim ≈ 26 €) → kupuj bilety pojedynczo (**Rabat Combo** katakumby+Domvs 12 € tylko wt–nd — w pon Domvs Romana zamknięta).
 
 ### 5. Blue Grotto — rejs łódką (kupno na miejscu)
 
@@ -471,7 +472,7 @@ Gozo Highspeed to pasażerski prom (tylko pieszo, bez auta). **Domyślnie w D3 s
 | Comino — kup elastyczny bilet Comino Ferries (~15 € return, ważny 3 mies., dowolny punkt odjazdu) i **przyjedź rano**; sprawdź, czy potwierdzenie zawiera wejście na Blue Lagoon, jak nie — pobierz osobny darmowy pass (slot poranny) | ⬜ |
 | Gozo — domyślnie szybki prom z Valletty (Gozo Highspeed, ~7,50 € w jedną (~15 € w obie); alternatywa przez Sliema ~8,50 €) — dojazd busem 13/14/15, kup bilet online na kurs 08:45 (finalną kwotę potwierdź w checkoutcie). Budżetowo zamiast tego: 222 + Gozo Channel (~4,65 € w obie) | ⬜ |
 | St John's Co-Cathedral — kup bilet przez oficjalny link fundacji (showsHappening) https://www.stjohnscocathedral.com/buy-tickets/ · na stjohnscocathedral.com/visit potwierdź godziny otwarcia (wg oficjalnej strony 09:00; muzeum katedralne w remoncie) | ⬜ |
-| Heritage Malta Multisite Pass (30–60 €) — tylko jeśli suma konkretnych biletów wynosi co najmniej 60 €; przy obecnym zestawie ≈42 € dla dorosłego (z Ħaġar Qim) kupuj pojedynczo/Rabat Combo (nie ma automatu „od 4 obiektów" — liczy się realna suma; aktualne ceny per obiekt sprawdź na heritagemalta.mt) | ⬜ |
+| Heritage Malta Multisite Pass (30–60 €) — tylko jeśli suma konkretnych biletów wynosi co najmniej 60 €; przy obecnym zestawie ≈36 € dla dorosłego (z Ħaġar Qim) kupuj pojedynczo — Rabat Combo w D7 (pon) bez sensu, bo Domvs Romana zamknięta (nie ma automatu „od 4 obiektów" — liczy się realna suma; aktualne ceny per obiekt sprawdź na heritagemalta.mt) | ⬜ |
 | Autobusy D3/D7 — w Tallinja (dzień wcześniej) zweryfikuj: **307** Xagħra 13:32/14:33/15:33, **202** Saqqajja 19:01/20:01/21:01 → Ross, awaryjna **51** 19:44/20:14 | ⬜ |
 | Restauracje (Fontanella / Ta' Rikardu / Liska) — godziny bywają zmienne; potwierdź dzień wcześniej telefonem | ⬜ |
 | Przejściówka do gniazdek (typ G) — nie zapomnij! | ⬜ |
