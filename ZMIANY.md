@@ -676,3 +676,47 @@ Welbee's Paceville `35.922162, 14.487596` · PAVI-PAMA St George's Mall `35.9275
 
 ## 5. Status publikacji
 Commit lokalny na gałęzi `arena/supermarkety-zakupy`; **push z sandboxa niemożliwy** — brak poświadczeń GitHuba w środowisku (`could not read Username for 'https://github.com'`), mimo dodania połączenia po stronie Areny. Patch gotowy do zastosowania: `patches/` (git format-patch) — patrz plik `PUSH.md`.
+
+# Przewodnik po miejscach (36 obiektów) — 20.09.2026
+
+Nowy plik **`Przewodnik_miejsca.html`** (+ `przewodnik_miejsca.md` dla spójności repo): dla **każdego miejsca z planu** — kiedy powstało, dlaczego jest istotne, podstawowe info (bilet/czas zgodny z planem) i **ciekawostki z podaniem źródeł**.
+
+## Zawartość (36 miejsc, 7 sekcji-dni)
+
+| Dzień | Miejsca |
+| --- | --- |
+| D1 St Julian's | Spinola Bay · Portomaso Marina + Tower · St George's Bay · Dragonara Palace/Casino |
+| D2 Valletta | Valletta (miasto) · St John's Co-Cathedral · Grandmaster's Palace · Upper Barrakka + Saluting Battery · Lower Barrakka + Siege Bell · MUŻA · Casa Rocca Piccola · Fort St Elmo (+ Malta Experience) |
+| D3 Gozo | Mġarr Harbour + Fort Chambray · Victoria i Cittadella · Ġgantija · Ta' Kola Windmill · Ta' Pinu · Ramla Bay · Xlendi |
+| D4 Three Cities | Grand Harbour + dgħajsa · Birgu · Fort St Angelo · Pałac Inkwizytora · Senglea + Gardjola |
+| D5 Comino | Comino + Blue Lagoon · Wieża św. Marii (1618) |
+| D6 | Blue Grotto · Ħaġar Qim · Mnajdra · Marsaxlokk |
+| D7 | Mdina · Katedra św. Pawła · St Paul's Catacombs · Domvs Romana · Wignacourt + Grota · Klify Dingli |
+
+**Każdy wpis ma**: 🕰️ metryczkę (daty/okres), akapit „dlaczego istotne”, listę ciekawostek i blok **Źródła** (linki). Razem 36 bloków źródeł.
+
+## Nowe/zweryfikowane fakty (wybór) — użyte w przewodniku
+
+- **Ġgantija**: 3600–3200 p.n.e., mur do ~6 m, bloki >50 t, starsza od Stonehenge o ~1000 lat; legenda o olbrzymce Sansunie; kamienne kule jako rolki do transportu (islandofgozo.org, emalta.com).
+- **St John's**: 1573–1578, Cassar; ~400 nagrobków w posadzce; Caravaggio 1608, 361×520 cm, jedyne sygnowane dzieło („f. Michel” we krwi) — myguidemalta, malta-spirit.
+- **Saluting Battery**: salwy 12:00 i 16:00 (zegar portu dla chronometrów); działa zdjęte 1954, restauracja i wznowienie 2004 (Fondazzjoni Wirt Artna) — Wikipedia/guidememalta.
+- **Siege Bell**: 1992, odsłonięty przez Elżbietę II, ~7000 ofiar oblężenia 1940–43, inskrypcja Ps 140 — Lonely Planet/veryvalletta.
+- **Casa Rocca Piccola**: ~1580 (adm. La Rocca), zamieszkana przez de Piro, schrony II wś — castles-palaces/grokipedia.
+- **Fort St Angelo**: Castrum Maris, kwatera de Valette w 1565, HMS St Angelo, renowacja 2015 — emalta.com.
+- **Inkwizycja**: 62 inkwizytorów, 2 papieży, 22 kardynałów; 1574–1798 — emalta.com/nomads.
+- **Cittadella**: kurfew do 1637; katedra 1697–1711 (Gafà) z trompe-l'oeil kopułą; UNESCO tentative 1998 — emalta/military-history.
+- **Ta' Pinu**: 1883 „Ejja… ejja!” Karmni Grimy; znak ze złamaną ręką robotnika (1575); bazylika 1920–1932; papieże 1990/2010/2022 — visitgozo/aleteia.
+- **Comino**: 3,5 km², ~2 mieszkańców, bez asfaltu; wieża św. Marii 1618, koszt 18 628 scudi, najdroższa wieża Wignacourta — maltauncovered/grokipedia.
+- **Ħaġar Qim / Mnajdra**: oracle hole + przesilenie letnie; alignments równonocne w Mnajdrze; namiot ochronny 2009 — grokipedia/lonelyplanet.
+- **Ħaġar Qim — uwaga na rozbieżność wag największego bloku** (20 t wg jednych źródeł, 57 t wg innych) — opisane wprost w przewodniku.
+- **Mdina**: 242 mieszkańców (2024), trzęsienie 1693 → barok, zdjęcia do „Gry o Tron” (King's Landing, sezon 1) — Wikipedia/AX Hotels.
+- **Katakumby św. Pawła**: III–VII/VIII w., ~2000 m², >1000 pochówków, schrony w II wś — maltaculture.
+- **Portomaso Tower**: 97,54 m — najwyższa do 2020/2023 (dziś #2 po Mercury Tower 122 m) — **korekta wobec wcześniejszych przewodników**.
+- **Xlendi Tower**: 1650, wieża Lascarisa, najstarsza zachowana wieża Gozo — Wikipedia. **Fort Chambray**: budowa od 1749 jako *Città Vilhena* — islandofgozo.org.
+
+## Zmiany plików
+
+1. `Przewodnik_miejsca.html` (nowy, styl = pozostałe plany: ten sam arkusz CSS, karty, tagi, `.src` na źródła) + `przewodnik_miejsca.md` (nowy).
+2. Wszystkie 6 planów HTML zyskało w nawigacji pozycję **📖 Przewodnik** (spójna nawigacja w całym repo).
+3. `ZMIANY.md` — ten wpis.
+4. `_gen_przewodnik.py` — generator (dane miejsc w jednym miejscu; pozwala szybko dopisywać kolejne obiekty).
