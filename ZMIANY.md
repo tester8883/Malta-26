@@ -588,3 +588,91 @@ zostaje 🚫 (20 € tylko wzmacnia werdykt); Comino Ferries „online ~14 €�
 **Grep = 0 po zmianach:** „kurs 09:00”, „50–55 min”, „08:50 / 09:20”, „08:40–08:55”, „darmowa kopuła”, „51/52/53 przez”,
 „MUŻA 8 €”, „Archeologia 10 €”, „Malta Experience 16 €”, „~14 €” (poza Comino), „Casa Rocca … 10 €”, „Domus”, „≈42”,
 „Rabat Combo 12”. HTML: bilans znaczników OK (6 plików).
+
+# Nowa sekcja 7a — zakupy spożywcze / supermarkety (research 20.09.2026)
+
+**Powód:** pytanie użytkownika — „gdzie tanio zrobić zakupy jak w Lidlu, czy jest coś w okolicy Vegas Resort, czy lepiej po drodze z lotniska”.
+
+## Ustalenia (z odległościami od Vegas Resort)
+
+| Sklep | Od hotelu (pieszo) | Godziny | Półka | Źródło |
+| --- | --- | --- | --- | --- |
+| Welbee's Paceville (Pendergardens, Triq Gort) | **370 m** (~250 m od przystanku Ross) | pon–nd **7:30–22:00** | średnia (15–30% drożej od Lidla) | welbees.mt / OSM |
+| **PAVI-PAMA — St George's Mall** (St George's Bay, pod Hard Rock) | **450 m** | pon–czw 7:00–20:00, pt–nd do 22:00 | średnia (Conad) | OSM + komunikaty o otwarciu **17.07.2026** (3. lokal PAVI-PAMA) |
+| Welbee's Spinola | 790 m | pon–sob 7:30–21:00, nd 7:30–19:30 | średnia | welbees.mt |
+| **Lidl Sliema** (Triq Amery) | 1,8 km; bus 13/14/15 + 200–350 m (Chalet / Huber / Dimech) | **codziennie 7:00–22:00** | **najtańsza** | lidl.com.mt (karta sklepu) |
+| Lidl San Ġwann (Triq iċ-Ċiklamini) | 2,1 km | 7:00–22:00 (nd ~7:00–19:00) | najtańsza | OSM (strona sklepu nie zwraca godzin) |
+| Greens Swieqi (Triq l-Uqija) | 1,45 km | **codziennie 7:00–24:00** | najdroższa | OSM |
+| Savemart (Tal-Balal, San Ġwann) | 2,4 km | pon–sob 8:00–19:30 (pt do 20:30), nd 9:00–19:30; dostawa od 100 € | średnia / lokalna | savemart.com.mt |
+| Eurospin (Mosta, obok Lidla) | ~11 km — tylko „przy okazji” (202 przejeżdża przez Mostę w D7) | 7:00–22:00 | dyskont | mapcarta / prasa branżowa |
+| Convenience (Spar Express 24/7, MyConvenience 6:00–24:00, Daves 24/7, Little Greens 24/7) | 90–300 m | całodobowo | ⚠️ +30–80% | OSM |
+
+- **Overpass/OSM** (bbox Paceville–Sliema): 91 supermarketów/sklepów; odległości liczone haversine od 35.92431, 14.49077 (Vegas Resort) — w planie opisane jako „w linii prostej, +10–20% na ulice”.
+- **Dodatkowo wykryte:** PolMalta Polish Shop (~670 m, pon–sob 11:00–19:00) — polskie produkty.
+- **Lotnisko:** Lidl **Luqa** (Triq il-Karmnu) ~0,9–1,2 km od terminala (12–15 min pieszo; przystanki Taljana ~70 m, Tumas ~110 m; linie z Luqi m.in. 71/72/73/117/218), godz. 7:00–22:00. **Werdykt: nie robić w D1** — z bagażem + przejazd do Paceville to realnie +45–70 min i taszczenie zakupów; brak przystanku „pod drzwiami”. W planie: zakupy pieszo w D1 (Welbee's / PAVI-PAMA), tani Lidl w Sliemie „przy okazji” D2.
+
+## Zmiany plików
+
+1. `plan_kompletny.md` + `Plan_kompletny.html` — nowa sekcja **7a. Zakupy spożywcze — supermarkety**, wpis w spisie treści, nowy wiersz **15:00–15:30 „Zakupy na start”** w D1, uzupełniony opis pliku („Plik zawiera: … zakupy / supermarkety”).
+2. `plan_transportu.md` + `Plan_transportu.html` — notka „🛒 Zakupy po drodze (D1)” pod tabelą D1 (Welbee's 250 m od Ross; PAVI-PAMA 450 m; brak Lidla w Paceville).
+3. `ZMIANY.md` — ten wpis.
+
+**Do potwierdzenia na miejscu:** godziny PAVI-PAMA w St George's Mall (oznaczenia w OSM; centrum handlowe 10:00–22:00, supermarket zwykle od 7:00–8:00) oraz niedzielne godziny **Lidl San Ġwann**. Pozostałe plany (lajtowy / zrównoważony / mapka / pogoda) bez zmian — nowa sekcja niczego w nich nie przeczy.
+
+# Dokładne współrzędne sklepów (GPS) + linki do Map Google — 20.09.2026
+
+Dopisane na prośbę: „dodać dokładne lokalizacje sklepów z linkiem do Map Google, ze współrzędnymi w linku (nie przybliżonymi)”.
+
+## Skąd współrzędne (metodyka)
+
+1. **4 sklepy Lidl** — oficjalne `geo` z kart sklepów **lidl.com.mt** (JSON-LD `GroceryStore`): Sliema `35.91238, 14.50475` (SLM 1708), San Ġwann `35.90916, 14.47744` (SGN 1331), Luqa `35.8608, 14.48494` (LQA 1311), Mosta `35.91803, 14.42078` (MST 1743).
+2. **Pozostałe** — punktowe POI z **OpenStreetMap / Overpass** (`nwr[shop=supermarket|convenience]`, `out center`) — nie centroidy miejscowości.
+3. **Weryfikacja:** każdy punkt sprawdzony geokodowaniem zwrotnym **Nominatim** (20.09.2026) — zwraca właściwy sklep i właściwą ulicę (Welbee's → Triq Gort STJ 1901; PAVI-PAMA → St George's Shore; Lidl Sliema → Triq Amery; Savemart → Triq Agostino Matrenza/Tal-Balal SGN 9020 itd.).
+4. **Format linku:** `https://www.google.com/maps?q=SZEROKOŚĆ,DŁUGOŚĆ` — pinezka ląduje w dokładnym punkcie (nie na przybliżonym adresie). W tabelach podane 6 miejsc po przecinku (≈11 cm).
+
+| Sklep | GPS | Źródło |
+| --- | --- | --- |
+| Welbee's Paceville (Triq Gort) | 35.922162, 14.487596 | OSM + Nominatim |
+| PAVI-PAMA St George's Mall | 35.927599, 14.488042 | OSM + Nominatim |
+| Welbee's Spinola | 35.917343, 14.489226 | OSM + Nominatim |
+| Welbee's Balluta | 35.916989, 14.493236 | OSM |
+| Lidl Sliema (Triq Amery) | 35.912380, 14.504750 | lidl.com.mt |
+| Lidl San Ġwann | 35.909160, 14.477440 | lidl.com.mt |
+| Lidl Luqa | 35.860800, 14.484940 | lidl.com.mt |
+| Lidl Mosta | 35.918030, 14.420780 | lidl.com.mt |
+| Eurospin Mosta | 35.918406, 14.422436 | OSM + Nominatim |
+| Greens Swieqi | 35.922782, 14.474778 | OSM + Nominatim |
+| Savemart Tal-Balal | 35.910967, 14.469401 | OSM + Nominatim |
+| PolMalta Polish Shop | 35.918307, 14.490414 | OSM + Nominatim |
+| Little Greens / Spar Express / MyConvenience / Daves | 35.923101, 14.489810 / 35.922275, 14.490153 / 35.923385, 14.488873 / 35.920203, 14.482025 | OSM |
+
+## Zmiany plików
+
+1. `plan_kompletny.md` + `Plan_kompletny.html` — tabela 7a zyskała kolumnę **„📍 GPS → Mapy Google”** (klikalne dokładne współrzędne), dodane wiersze **Welbee's Balluta**, **Lidl Mosta**, **PolMalta**, rozbite convenience; nota o lotnisku z GPS Lidla Luqa; nota „skąd te współrzędne”; link D1 w Welbee's zaokrąglono do pełnej precyzji (`35.922162,14.487596`).
+2. `plan_transportu.md` + `Plan_transportu.html` — nota „🛒 Zakupy po drodze (D1)” z dokładnymi GPS i linkami (Welbee's 35.922162, 14.487596 · PAVI-PAMA 35.927599, 14.488042 · Lidl Sliema 35.912380, 14.504750 · Lidl San Ġwann 35.909160, 14.477440).
+3. `ZMIANY.md` — ten wpis.
+
+# Linki „maps”, sekcja sklepów w mapce, Lidl w D2, restyle pogody — 20.09.2026
+
+## 1. Linki GPS → etykieta „maps”
+Wszystkie linki do Map Google, które dodałem w sekcji 7a i w notkach transportu, mają teraz krótką etykietę **`maps`** (współrzędne zostały jako tekst obok, żeby nie stracić precyzji):
+- `Plan_kompletny.html`: 17 linków (kolumna „📍 GPS → Mapy Google” + nowy wiersz D2) → `maps`
+- `plan_kompletny.md`: 16 linków `[maps](https://www.google.com/maps?q=…)` + nota o lotnisku (Lidl Luqa)
+- `Plan_transportu.html` / `plan_transportu.md`: 4 + 4 linki w notce D1
+- `plan_mapka.html`: **ujednolicono cały plik** — 103 dotychczasowe „🧭 Google Maps” → `maps` (spójna etykieta w całym pliku); łącznie 119 linków `maps`
+
+## 2. plan_mapka.html — nowa karta „🛒 Sklepy i zakupy (sekcja 7a)”
+16 wierszy (Miejsce · Co / dlaczego · GPS · Mapa) wstawionych tuż przed kartą „🚌 Transport i infrastruktura”:
+Welbee's Paceville `35.922162, 14.487596` · PAVI-PAMA St George's Mall `35.927599, 14.488042` · Welbee's Spinola `35.917343, 14.489226` · Welbee's Balluta `35.916989, 14.493236` · **Lidl Sliema** `35.912380, 14.504750` · **Lidl San Ġwann** `35.909160, 14.477440` · **Lidl Luqa** `35.860800, 14.484940` · **Lidl Mosta** `35.918030, 14.420780` · Eurospin Mosta `35.918406, 14.422436` · Greens Swieqi `35.922782, 14.474778` · Savemart `35.910967, 14.469401` · PolMalta `35.918307, 14.490414` · convenience: Little Greens `35.923101, 14.489810`, Spar Express `35.922275, 14.490153`, MyConvenience `35.923385, 14.488873`, Daves `35.920203, 14.482025`. Do tego notka o strategii (D1 pieszo, Lidl w D2).
+
+## 3. Lidl w D2 (dzień Valletta)
+- `plan_kompletny.md` + `Plan_kompletny.html`: nowy wiersz **17:30+ „Opcja Lidl po drodze (Sliema)”** — powrót 13/14/15 z Valletty tylko do Sliemy (przystanki **Chalet** ~190 m / **Huber** ~330 m od Lidla) → **Lidl Sliema** (Triq Amery, SLM 1708; codziennie 7:00–22:00) → zakupy → 13/14/15 Sliema → Ross → hotel ~18:30–19:00; plus notka „Tanie zakupy przy okazji D2” pod tabelą dnia.
+- `plan_transportu.md` + `Plan_transportu.html`: nowy **odcinek 5** w tabeli D2 (+30–40 min, karta) z GPS i linkiem `maps`.
+
+## 4. Plan_pogoda.html — styl ujednolicony z pozostałymi planami
+- Podmieniono cały `<style>` na **dokładnie ten sam arkusz co w `Plan_kompletny.html`** (tło #f3f6fb, karty z cieniem, jasne nagłówki tabel, pillsy `.bus/.ferry/.mix`, boxy `.good/.win/.rec`, `.toc`) + dopisano klasy używane tylko w pogodzie, przemalowane na paletę pozostałych plików: `.badge/.sea/.land` (MORSKIE/LĄDOWE), `.callout` (zielony), `.warn` (pomarańczowy), `.ok/.no`, `.legend`, `.kbd`, `.grid`, `.muted/.small`.
+- Usunięto ciemnozielony `header.hero` → standardowy `<h1>` + `<p class="sub">` w stylu innych planów (nav z podświetloną Pogodą zostaje).
+- Dodano listy `ul/ol` i akapity do arkusza, żeby treść nie zmieniła układu.
+
+## 5. Status publikacji
+Commit lokalny na gałęzi `arena/supermarkety-zakupy`; **push z sandboxa niemożliwy** — brak poświadczeń GitHuba w środowisku (`could not read Username for 'https://github.com'`), mimo dodania połączenia po stronie Areny. Patch gotowy do zastosowania: `patches/` (git format-patch) — patrz plik `PUSH.md`.

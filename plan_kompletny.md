@@ -1,6 +1,6 @@
 # 🇲🇹 Malta — kompletny plan 29.09–06.10 (7 nocy)
 
-Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku ~**10:02**; TD2 z przystanku Dragonara ~100 m od hotelu). Baza: **St Julian's – Paceville (Vegas Resort)**. Transport: **autobusy Tallinja + promy** — bez taksówek. **7-dniowy Explore (25 €)** pokrywa autobusy **D1–D7** (start 29.09 — 7 dni kalendarzowych → do 05.10); w D8 na lotnisko **TD2** (3 €, poza kartą, bez przesiadki). Plik zawiera: hotel, bilety, plan godzinowy, transport, oceny atrakcji, budżet, praktyczne, rady blogów i **rezerwacje online z linkami**.
+Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku ~**10:02**; TD2 z przystanku Dragonara ~100 m od hotelu). Baza: **St Julian's – Paceville (Vegas Resort)**. Transport: **autobusy Tallinja + promy** — bez taksówek. **7-dniowy Explore (25 €)** pokrywa autobusy **D1–D7** (start 29.09 — 7 dni kalendarzowych → do 05.10); w D8 na lotnisko **TD2** (3 €, poza kartą, bez przesiadki). Plik zawiera: hotel, bilety, plan godzinowy, transport, oceny atrakcji, budżet, praktyczne, **zakupy / supermarkety** (Lidl i tanie alternatywy), rady blogów i **rezerwacje online z linkami**.
 
 > **Spis treści:**
 > [1. Hotel](#hotel) ·
@@ -10,6 +10,7 @@ Przylot **29.09 (wt), 12:05** · Wylot **06.10 (wt), 12:30** (na lotnisku ~**10:
 > [5. Oceny atrakcji](#oceny) ·
 > [6. Budżet](#budzet) ·
 > [7. Praktyczne](#praktyczne) ·
+> [7a. Zakupy / supermarkety](#zakupy) ·
 > [8. Rady blogów](#blogi) ·
 > [9. Rezerwacje online](#rezerwacje)
 >
@@ -84,6 +85,7 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 12:45–13:00 | Bagaż + **kup 7-dniowy Explore (25 €)** w kiosku Tallinja i **AKTYWUJ od razu** — pierwsze przyłożenie = dziś (29.09) na 88; ⚠️ ważność to **7 kolejnych dni kalendarzowych** (nie 7×24 h): start 29.09 → **do końca 05.10 (D7 ✓)**, **D8 (06.10) poza kartą** — wtedy na lotnisko **TD2** (3 €, bez przesiadki, dłuższy sen) |
 | 13:15 | **Autobus 88 → Valletta** (**pierwsze przyłożenie karty = start 29.09!**) → przesiadka **13/14/15 → St Julian's** (karta) — wysiądź **San Giljan – Ross** (~5 min pieszo do Vegas Resort). *(Wariant wygodniejszy: TD2 prosto do St Julian's, ale +3 € i poza kartą — niepotrzebne.)* |
 | 14:30–15:00 | Hotel **Vegas Resort** (Paceville), zostaw bagaż (check-in od 15:00) |
+| 15:00–15:30 | 🛒 **Zakupy na start** (5–6 min pieszo od hotelu): **Welbee's Paceville** (Pendergardens, Triq Gort; pon–nd 7:30–22:00 — ~250 m od przystanku Ross, praktycznie po drodze do hotelu) albo **PAVI-PAMA w St George's Mall** (St George's Bay, do 22:00) — woda, śniadania, przekąski na wycieczki. *(Po tanio/Lidla — sekcja 7a; najbliższy Lidl w Sliemie, robi się go w D2.)* |
 | 15:30–17:00 | ⭐ Spacer **Spinola Bay** + **Portomaso Marina** (bezpłatnie; ~8–10 min pieszo od hotelu) |
 | 17:00–18:30 | ⭐ **St George's Bay** na zachód słońca (~5–7 min pieszo od hotelu) |
 | 19:00 | Kolacja St Julian's |
@@ -107,7 +109,10 @@ Legenda: ⭐ warte · ◽ opcjonalne · ⚠️ sprawdź/średnio warte. **🕐 =
 | 15:00–16:00 | ◽ **MUŻA** 10 € ⚠️ · **Archeologia** 5 € ⚠️ · **Malta Experience** 20 € 🚫; **max 1** |
 | 16:00 | (opcjonalnie 2. salut armatni) |
 | 17:00–17:30 | **Autobus 13/14/15 Valletta → St Julian's (Ross)** — karta *(opcjonalnie prom do Sliemy)* |
+| 17:30+ | 🛒 **Opcja „Lidl po drodze" (Sliema)**: wracaj 13/14/15 z Valletty tylko do **Sliemy** — wysiądź na **Chalet** (~190 m od Lidla) lub **Huber** (~330 m) → **Lidl Sliema**, Triq Amery, SLM 1708 (35.912380, 14.504750 · [maps](https://www.google.com/maps?q=35.912380,14.504750); **codziennie 7:00–22:00**) → zakupy i dalej **13/14/15 Sliema → Ross** (~20–25 min) → hotel ~18:30–19:00. *Bez zakupów: jedź od razu do Ross (~17:30).* 🥇 Taniej niż Welbee's — to najbliższy Lidl od Vegas Resort (1,8 km). |
 
+> 🛒 **Tanie zakupy przy okazji D2:** zamiast wracać od razu do Ross, wysiądź w Sliemie i wpadnij do **Lidl Sliema** (Triq Amery, SLM 1708; 35.912380, 14.504750 · [maps](https://www.google.com/maps?q=35.912380,14.504750); codziennie 7:00–22:00; ~190–330 m od przystanków Chalet/Huber) — potem 13/14/15 do Ross. Więcej: **§7a**.
+>
 > ⚠️ **Alternatywa, jeśli pominiesz Grandmaster's Palace / muzea:** kawa w kawiarni przy Upper Barrakka + spacer po bastionach i Lower Barrakka — najlepszy „darmowy" zamiennik; ewentualnie **Casa Rocca Piccola** (12 €, pałac + schrony bombowe; pn–sob).
 >
 
@@ -359,6 +364,40 @@ Ceny orientacyjne: przekąska **€0,50–8** · prosty lunch **ok. €10–18**
 
 > **🎉 Wydarzenia w terminach wyjazdu (uwaga na tłok/hałas):** **Notte Bianca w Valletcie** — **sob 3.10** (wieczór D5), cała Valletta otwarta za darmo do późna (opcjonalny wieczorny bonus, wróć ~21:30, bo D6 zaczyna się wcześnie). **Defected Malta 1–4.10** (UNO w **Ta' Qali** · Fort St Elmo w **Valletcie** · Café del Mar w **St Paul's Bay**; możliwe after-party w klubach) — główne venue są **poza Paceville**, ale w St Julian's może być wzmożony ruch; w Vegas Resort (środek Paceville) i tak poproś o **pokój od cichej strony / wyżej** — nocą w Paceville gra muzyka.
 >
+
+## 7a. Zakupy spożywcze — supermarkety (Lidl i tanie alternatywy)
+
+**Krótko:** najtańsza na wyspie jest **Lidl** (10 sklepów; koszyk podstaw ~20–30% taniej niż w sieciach typu Welbee's/Greens), ale **w Paceville / St Julian's nie ma Lidla**. Najbliższe: **Lidl Sliema** (Triq Amery, ~1,8 km) i **Lidl San Ġwann** (Triq iċ-Ċiklamini, ~2,1 km). Za to **5–6 min pieszo od hotelu** masz **Welbee's Paceville** (Pendergardens) i — od lipca 2026 — **PAVI-PAMA w St George's Mall** (St George's Bay, pod Hard Rock): drożej niż Lidl, ale bez wycieczki.
+
+**Strategia zakupowa:** D1 — pierwsze zakupy pieszo (Welbee's albo PAVI-PAMA; po drodze z przystanku Ross). „Duże i tanie” — **Lidl Sliema** przy okazji **D2** (13/14/15 i tak jedzie przez Sliemę) albo wieczorem (otwarty do 22:00 codziennie).
+
+| Sklep | Od hotelu (pieszo) | Godziny | 📍 GPS → Mapy Google | Cena i po co / uwagi |
+| --- | --- | --- | --- | --- |
+| 🥇 **Welbee's Paceville** (Pendergardens, Triq Gort, STJ 1901) | **~370 m / 5 min** | pon–nd **7:30–22:00** | 35.922162, 14.487596 · [maps](https://www.google.com/maps?q=35.922162,14.487596) | średnia (15–30% drożej od Lidla). Najbliższy duży sklep — pierwsze zakupy w D1 (woda, śniadania, przekąski); ~250 m od przystanku **Ross**, praktycznie po drodze do hotelu |
+| 🥇 **PAVI-PAMA — St George's Mall** (Ix-Xatt ta' San Ġorġ, St George's Bay, STJ 3300) | **~450 m / 6 min** | pon–czw **7:00–20:00**, pt–nd **do 22:00** (potwierdź na miejscu) | 35.927599, 14.488042 · [maps](https://www.google.com/maps?q=35.927599,14.488042) | średnia (produkty Conad). 🆕 Otwarty **17.07.2026** — trzeci PAVI-PAMA na wyspie (po Mosta i Qormi); zwykle **taniej niż Welbee's**, dobry na pełne zakupy tygodniowe |
+| **Welbee's Spinola** (Spinola Park, Triq Mikielanġ Borg, SPK 1000) | ~790 m / 10 min | pon–sob 7:30–21:00, nd 7:30–19:30 | 35.917343, 14.489226 · [maps](https://www.google.com/maps?q=35.917343,14.489226) | średnia; zapasowa lokalizacja Welbee's przy spacerze na Spinola Bay |
+| **Welbee's Balluta** (Triq Ġorġ Borg Olivier, STJ 1083) | ~840 m / 11 min | pon–sob 7:30–21:00, nd 7:30–19:30 | 35.916989, 14.493236 · [maps](https://www.google.com/maps?q=35.916989,14.493236) | średnia; po drodze na Ballutę / przy spacerze wzdłuż zatoki |
+| 🏆 **Lidl Sliema** (Triq Amery, SLM 1708) | **~1,8 km** — 20–25 min spacerem po promenadzie; albo 13/14/15 do Sliemy + 200–350 m | **codziennie 7:00–22:00** | 35.912380, 14.504750 · [maps](https://www.google.com/maps?q=35.912380,14.504750) | **najtańsza.** Najbliższy Lidl — najlepiej „przy okazji”: w D2 wysiądź w Sliemie (przystanki **Chalet** ~200 m, **Huber/Dimech** ~320–350 m, Ferries ~400 m) i wróć na 13/14/15 |
+| **Lidl San Ġwann** (Triq iċ-Ċiklamini, SGN 1331) | ~2,1 km | **codziennie 7:00–22:00** | 35.909160, 14.477440 · [maps](https://www.google.com/maps?q=35.909160,14.477440) | najtańsza; większy sklep z parkingiem, alternatywa dla Sliemy |
+| **Greens** (Swieqi, Triq l-Uqija, SWQ 2333) | ~1,45 km / ~18 min | **codziennie 7:00–24:00** | 35.922782, 14.474778 · [maps](https://www.google.com/maps?q=35.922782,14.474778) | najdroższa; **najdłużej otwarty** „prawdziwy” supermarket — ratunek po powrocie z wycieczki (do północy) |
+| **Savemart** (Tal-Balal Road, San Ġwann SGN 9020) | ~2,4 km | pon–sob 8:00–19:30 (pt do 20:30), nd 9:00–19:30 | 35.910967, 14.469401 · [maps](https://www.google.com/maps?q=35.910967,14.469401) | średnia / lokalna; karta lojalnościowa, 3 piętra, **dostawa od 100 €** |
+| **Eurospin** (Mosta, Triq id-Difiża Ċivili, MST 1743 — obok Lidla) | ~11 km — tylko przy okazji | 7:00–22:00 | 35.918406, 14.422436 · [maps](https://www.google.com/maps?q=35.918406,14.422436) | dyskont (włoskie marki). Jedyny Eurospin na Malcie; wpada w **D7** (202 do Mdiny przejeżdża przez Mostę), ale to +40–60 min |
+| **Lidl Mosta** (Triq id-Difiża Ċivili, MST 1743 — **obok Eurospinu**) | ~11 km — przy okazji | **codziennie 7:00–22:00** | 35.918030, 14.420780 · [maps](https://www.google.com/maps?q=35.918030,14.420780) | najtańsza; duet „Lidl + Eurospin” w jednym miejscu (Mosta) |
+| **Lidl Luqa** (Triq il-Karmnu, LQA 1311 — przy lotnisku) | ~10 km (lotnisko) | **codziennie 7:00–22:00** | 35.860800, 14.484940 · [maps](https://www.google.com/maps?q=35.860800,14.484940) | najtańsza; tylko z autem/taksówką — **nie w D1** (patrz niżej) |
+| ⚠️ **Convenience** (tylko awaryjnie, +30–80%): Little Greens (Triq San Ġorġ 123) 35.923101, 14.489810 · [maps](https://www.google.com/maps?q=35.923101,14.489810) [24/7] · Spar Express (Triq San Ġorġ 110) 35.922275, 14.490153 · [maps](https://www.google.com/maps?q=35.922275,14.490153) [24/7] · MyConvenience (Paceville) 35.923385, 14.488873 · [maps](https://www.google.com/maps?q=35.923385,14.488873) [6:00–24:00] · Daves (Triq is-Sidra, Swieqi) 35.920203, 14.482025 · [maps](https://www.google.com/maps?q=35.920203,14.482025) [24/7] | 90–910 m | całodobowo | — | nocna woda/przekąska; nie robić tu większych zakupów |
+| 🥟 **PolMalta Polish Shop** (3A Lapsi Street, STJ 1011) | ~670 m | pon–sob 11:00–19:00 | 35.918307, 14.490414 · [maps](https://www.google.com/maps?q=35.918307,14.490414) | polskie produkty |
+
+> ✈️ **Czy opłaca się kupować „w drodze z lotniska”?** **Lidl Luqa** (Triq il-Karmnu; **35.860800, 14.484940** → [maps](https://www.google.com/maps?q=35.860800,14.484940)) jest ~0,9–1,2 km od terminala (~12–15 min pieszo; przystanki **Taljana** ~70 m / **Tumas** ~110 m, linie z Luqi m.in. 71/72/73/117/218), otwarty 7:00–22:00. **Werdykt: nie w D1** — z walizkami dojście + potem przejazd do Paceville (88 przez Vallettę / X2 przez Sliemę) to realnie **+45–70 min** i taszczenie zakupów, a po drodze i tak nie ma przystanku „pod drzwiami” Lidla. Zakupy zrób pieszo przy hotelu (Welbee's/Pavi-Pama), a po Lidla idź w D2 do Sliemy. Lidl Luqa ma sens tylko z autem/taksówką (Bolt ~10–15 €).
+
+> 💶 **Ceny (orientacyjnie, 2026; Lidl → Welbee's/Greens):** mleko 1 l 0,85–1,10 € → 1,10–1,40 € · jajka (12) 2,20–2,80 € → 2,80–3,50 € · woda 1,5 l 0,30–0,50 € → 0,50–0,80 € · makaron 500 g 0,70–1,20 € → 1,20–1,80 € · Cisk 0,5 l 0,90–1,20 € → 1,20–1,60 €. **Woda na wycieczki: kupuj 6-paki w supermarkecie** — w sklepikach przy plaży/Blue Lagoon jest 2–3× drożej.
+
+> 📱 **Praktyczne:** aplikacja **Lidl Plus** (kupony + gazetka; poniedziałkowe „Lidl Hits” znikają szybko), karty lojalnościowe Welbee's/Pavi/Savemart. Porównywarka cen: **cheaptrolley.com**. Dostawy: **Wolt** (Welbee's, PAVI-PAMA), Savemart od 100 € — **Lidl nie dowozi**. Płatność kartą wszędzie.
+>
+> 🗓️ **Niedziele (D6, 4.10):** Lidl Sliema (7:00–22:00) i Welbee's Paceville (7:30–22:00) działają — w niedzielę nie musisz się martwić o zapasy.
+
+> 📍 **Skąd te współrzędne:** 4 sklepy Lidl — **oficjalne geo z kart sklepów lidl.com.mt** (JSON-LD); pozostałe — **OpenStreetMap / Overpass** (punktowe POI sklepów, nie centroida miasta). Wszystkie sprawdzone 20.09.2026 geokodowaniem zwrotnym (Nominatim) — pinezka trafia dokładnie w dany sklep. Link: `https://www.google.com/maps?q=SZEROKOŚĆ,DŁUGOŚĆ` (np. `?q=35.922162,14.487596` = Welbee's Paceville).
+>
+> Źródła godzin/odległości: lidl.com.mt (karty sklepów), welbees.mt (store locator), OpenStreetMap/Overpass (odległości w linii prostej, +10–20% na ulice), komunikaty o otwarciu PAVI-PAMA w St George's Mall (lipiec 2026). Odległości i godziny potwierdź w aplikacjach (Tallinja, Mapy) na miejscu.
 
 ## 8. Rekomendacje i ostrzeżenia z polskich blogów
 
