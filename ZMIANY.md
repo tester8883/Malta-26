@@ -808,3 +808,21 @@ Tytuł: **„🏨 W recepcji — jak się ładnie przywitać”** (podtytuł mó
 ## Weryfikacja
 - W `_gen_slowniczek.py`, `Slowniczek_maltanski.html` i `slowniczek_maltanski.md` nie ma już ani słowa o prośbie o lepszy pokój / upgrade (grep = 0).
 - 8/8 plików HTML bez błędów struktury.
+
+# Plan_pogoda.html — pełna szerokość jak w pozostałych planach — 25.09.2026
+
+Na prośbę: „pogoda ma wąski układ strony w porównaniu do reszty, popraw aby miała taki sam styl jak reszta stron”.
+
+## Przyczyna
+Cała treść `Plan_pogoda.html` była opakowana w `<div class="wrap">`, a w arkuszu była reguła **`.wrap{max-width:1100px;margin:0 auto}`** — dlatego na szerokim ekranie strona była wyśrodkowana i zwężona, podczas gdy `Plan_kompletny.html`, `Plan_transportu.html`, `plan_mapka.html`, `Przewodnik_miejsca.html` i słowniczek renderują treść **na pełną szerokość** (bez żadnego `max-width`).
+
+## Co zmieniono
+- Usunięty **wrapper `<div class="wrap">`** (otwarcie po `<body>` i zamykający `</div>` przed `</body>`) — treść jest teraz bezpośrednio w `<body>`, dokładnie jak w pozostałych planach.
+- Usunięta reguła CSS **`.wrap{max-width:1100px;margin:0 auto}`** — w pliku nie ma już żadnego `max-width` poza media query `.grid` (≤640 px), który występuje w pozostałych arkuszach.
+- Treść odindentowana o 2 spacje (kosmetyka źródła — wcześniej była wcięta „w wrapperze”).
+- Bez zmian: paleta, karty, tabele, nawigacja i klasy charakterystyczne dla pogody (`.badge/.sea/.land/.callout/.grid/.legend/.kbd/.ok/.no/.warn/.muted`).
+
+## Weryfikacja
+- 8/8 plików HTML przechodzi kontrolę struktury (`HTMLParser`) — 0 błędów; liczba `<div>` = 20/20 (zbalansowana).
+- Wspólnych reguł CSS z `Plan_kompletny.html`: **27**; reguły „tylko pogoda” to wyłącznie dodatki specyficzne dla tego pliku, „tylko kompletny”: brak.
+- Brak wystąpień `.wrap` w pliku.

@@ -30,7 +30,6 @@
   .lock{color:#0e8a6d;font-weight:700}.warn{color:#c0392b;font-weight:700}
   @media print{body{background:#fff;padding:10px}.card{box-shadow:none;border:1px solid #ddd}}
   /* — klasy uzupełniające tego pliku w palecie pozostałych planów — */
-  .wrap{max-width:1100px;margin:0 auto}
   .sub{margin:0 0 18px}
   .muted{color:#6b7280}
   .small{font-size:12px}
@@ -53,8 +52,6 @@
 </style>
 </head>
 <body>
-<div class="wrap">
-
 <nav style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:10px 14px;margin:0 0 18px;display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-family:system-ui,Segoe UI,Roboto,sans-serif;font-size:13px"><span style="font-weight:700;color:#6b7280;margin-right:6px">Plan:</span><a href="Plan_kompletny.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">🇲🇹 Kompletny</a><a href="Plan_zrownowazony.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">⚖️ Zrównoważony</a><a href="Plan_lajtowy.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">🏖️ Lajtowy</a><a href="Plan_transportu.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">🚌 Transport</a><a href="plan_mapka.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">🗺️ Mapa</a><a href="Plan_pogoda.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#1f6fb2;color:#fff;font-weight:700">🌤️ Pogoda</a><a href="Przewodnik_miejsca.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">📖 Przewodnik</a><a href="Slowniczek_maltanski.html" style="text-decoration:none;padding:5px 12px;border-radius:16px;background:#eef2f7;color:#1f2937">🗣️ Słowniczek</a></nav>
 
 <h1>🌤️ Pogoda &amp; rozkład tygodnia (D3–D7)</h1>
@@ -62,302 +59,301 @@
 Jak rozmieścić atrakcje zależne od pogody w oknie czw–pon, żeby rejsy zawsze trafiły na spokojne morze, a dni „na lądzie” wypełnić sensownie.</p>
 
 <div class="toc">
-  <a href="#klucz">1. Kluczowa zasada</a>
-  <a href="#klasy">2. Klasy pogodowrażliwości</a>
-  <a href="#kotwice">3. Twarde reguły</a>
-  <a href="#kiedy">4. Kiedy decydujesz</a>
-  <a href="#algorytm">5. Algorytm + wiatr</a>
-  <a href="#uklady">6. Układy wg prognozy</a>
-  <a href="#warianty">7. Dzień „na lądzie”</a>
-  <a href="#dodatki">8. Popołudniowe dodatki</a>
-  <a href="#indoor">9. Arsenał wnętrz</a>
-  <a href="#check">10. Checklista</a>
-  <a href="#zrodla">11. Źródła</a>
+<a href="#klucz">1. Kluczowa zasada</a>
+<a href="#klasy">2. Klasy pogodowrażliwości</a>
+<a href="#kotwice">3. Twarde reguły</a>
+<a href="#kiedy">4. Kiedy decydujesz</a>
+<a href="#algorytm">5. Algorytm + wiatr</a>
+<a href="#uklady">6. Układy wg prognozy</a>
+<a href="#warianty">7. Dzień „na lądzie”</a>
+<a href="#dodatki">8. Popołudniowe dodatki</a>
+<a href="#indoor">9. Arsenał wnętrz</a>
+<a href="#check">10. Checklista</a>
+<a href="#zrodla">11. Źródła</a>
 </div>
 
 <h2 id="klucz">1. Kluczowa zasada</h2>
 <div class="card">
-  <p>W październiku na Malcie głównym ryzykiem dla planu jest <b>nie deszcz, tylko wiatr</b> — odwołuje małe łodzie (Blue Grotto, promy na Comino) nawet przy słońcu. Deszcz zwykle bywa krótki (przelotne opady 20–30 min). Dlatego:</p>
-  <ul>
-    <li><b>Rejsy przypinasz do dni o spokojnym morzu</b>, nie do konkretnych dat w kalendarzu.</li>
-    <li>Atrakcje <b>lądowe</b> są odporne — trafiają na dzień, w którym rejs i tak by nie popłynął.</li>
-    <li>Decyzję podejmujesz <b>z wyprzedzeniem</b>, gdy prognoza morza na kilka dni jest już wiarygodna.</li>
-    <li>Liczy się <b>kierunek wiatru, nie tylko siła</b> — Blue Grotto (południe) i kanał Comino (północ) reagują na inne wiatry (sekcja 5).</li>
-  </ul>
+<p>W październiku na Malcie głównym ryzykiem dla planu jest <b>nie deszcz, tylko wiatr</b> — odwołuje małe łodzie (Blue Grotto, promy na Comino) nawet przy słońcu. Deszcz zwykle bywa krótki (przelotne opady 20–30 min). Dlatego:</p>
+<ul>
+  <li><b>Rejsy przypinasz do dni o spokojnym morzu</b>, nie do konkretnych dat w kalendarzu.</li>
+  <li>Atrakcje <b>lądowe</b> są odporne — trafiają na dzień, w którym rejs i tak by nie popłynął.</li>
+  <li>Decyzję podejmujesz <b>z wyprzedzeniem</b>, gdy prognoza morza na kilka dni jest już wiarygodna.</li>
+  <li>Liczy się <b>kierunek wiatru, nie tylko siła</b> — Blue Grotto (południe) i kanał Comino (północ) reagują na inne wiatry (sekcja 5).</li>
+</ul>
 </div>
 
 <h2 id="klasy">2. Dwie klasy pogodowrażliwości</h2>
 <div class="card">
-  <table>
-    <tr><th>Dzień (plan bazowy)</th><th>Treść</th><th>Klasa</th><th>Od czego zależy</th></tr>
-    <tr>
-      <td>D5 · sob · Comino</td>
-      <td>Blue Lagoon, Crystal Lagoon, wieża św. Marii</td>
-      <td><span class="badge sea">🌊 MORSKIE</span></td>
-      <td>spokojne morze + najlepiej wcześnie rano. Comino Ferries pływa <b>do końca października wg pełnego rozkładu</b> (z Ċirkewwy co ~30 min od 08:40, ostatni powrót 18:00; redukcja dopiero od listopada) — wietrznie oznacza <b>zawieszenie kursów</b>, nie rzadszy rozkład. Wieża św. Marii (Din l-Art Ħelwa): IV–X, <b>śr/pt/sob/nd</b>, zwykle ~10:30–13:00 (czasem do 15:00), tylko gdy wisi flaga — każdy dzień-kandydat (pt/sob/nd) pasuje, ale idź na nią <b>przed 13:00</b></td>
-    </tr>
-    <tr>
-      <td>D6 · nd · Blue Grotto + Marsaxlokk</td>
-      <td>rejs łódką po jaskiniach + port rybacki</td>
-      <td><span class="badge sea">🌊 MORSKIE</span> <span class="badge land">🏛️ LĄDOWE</span></td>
-      <td>rejs: spokojne morze (łódki stają już przy fali z południa ~4°B) + światło rano; klifowy punkt widokowy, Ħaġar Qim i Marsaxlokk działają zawsze</td>
-    </tr>
-    <tr>
-      <td>D4 · pt · Three Cities</td>
-      <td>Birgu, Senglea/Gardjola, prom przez port</td>
-      <td><span class="badge land">🏛️ LĄDOWE</span></td>
-      <td>odporne — widoki działają przy każdej pogodzie (prom przez Grand Harbour to osłonięty port; przy sztormie zostaje autobus)</td>
-    </tr>
-    <tr>
-      <td>D7 · pon · Mdina + Rabat</td>
-      <td>Mdina, katakumby; klify Dingli <b>po południu</b> (15:15–17:25); zachód słońca <b>z bastionów Mdiny</b></td>
-      <td><span class="badge land">🏛️ LĄDOWE</span> <span class="badge sea">🌅 DINGLI</span></td>
-      <td>muzea odporne; klify Dingli + zachód wymagają czystego popołudnia/wieczoru (przy chmurach Dingli po prostu odpada — Mdina zostaje)</td>
-    </tr>
-    <tr>
-      <td>D3 · czw · Gozo</td>
-      <td>Citadella, Ġgantija, (opc.) Ta' Pinu</td>
-      <td><span class="badge land">🏛️ LĄDOWE</span></td>
-      <td>plan główny zakłada <b>szybki prom Gozo Highspeed z Valletty</b> — szybkie promy są <b>bardziej</b> wrażliwe na wiatr niż duży prom. <b>Przy silnym wietrze fallback = 222 + Gozo Channel z Ċirkewwy</b> (duży prom, odporny na wiatr; wariant budżetowy planu, 4,65 € w obie) → Gozo robisz niemal zawsze</td>
-    </tr>
-  </table>
-  <p class="legend">🌊 morskie = wymaga spokojnego morza (priorytet: zdobyć spokojny dzień). 🏛️ lądowe = robisz w zasadzie zawsze (naturalny „bufor”).</p>
+<table>
+  <tr><th>Dzień (plan bazowy)</th><th>Treść</th><th>Klasa</th><th>Od czego zależy</th></tr>
+  <tr>
+    <td>D5 · sob · Comino</td>
+    <td>Blue Lagoon, Crystal Lagoon, wieża św. Marii</td>
+    <td><span class="badge sea">🌊 MORSKIE</span></td>
+    <td>spokojne morze + najlepiej wcześnie rano. Comino Ferries pływa <b>do końca października wg pełnego rozkładu</b> (z Ċirkewwy co ~30 min od 08:40, ostatni powrót 18:00; redukcja dopiero od listopada) — wietrznie oznacza <b>zawieszenie kursów</b>, nie rzadszy rozkład. Wieża św. Marii (Din l-Art Ħelwa): IV–X, <b>śr/pt/sob/nd</b>, zwykle ~10:30–13:00 (czasem do 15:00), tylko gdy wisi flaga — każdy dzień-kandydat (pt/sob/nd) pasuje, ale idź na nią <b>przed 13:00</b></td>
+  </tr>
+  <tr>
+    <td>D6 · nd · Blue Grotto + Marsaxlokk</td>
+    <td>rejs łódką po jaskiniach + port rybacki</td>
+    <td><span class="badge sea">🌊 MORSKIE</span> <span class="badge land">🏛️ LĄDOWE</span></td>
+    <td>rejs: spokojne morze (łódki stają już przy fali z południa ~4°B) + światło rano; klifowy punkt widokowy, Ħaġar Qim i Marsaxlokk działają zawsze</td>
+  </tr>
+  <tr>
+    <td>D4 · pt · Three Cities</td>
+    <td>Birgu, Senglea/Gardjola, prom przez port</td>
+    <td><span class="badge land">🏛️ LĄDOWE</span></td>
+    <td>odporne — widoki działają przy każdej pogodzie (prom przez Grand Harbour to osłonięty port; przy sztormie zostaje autobus)</td>
+  </tr>
+  <tr>
+    <td>D7 · pon · Mdina + Rabat</td>
+    <td>Mdina, katakumby; klify Dingli <b>po południu</b> (15:15–17:25); zachód słońca <b>z bastionów Mdiny</b></td>
+    <td><span class="badge land">🏛️ LĄDOWE</span> <span class="badge sea">🌅 DINGLI</span></td>
+    <td>muzea odporne; klify Dingli + zachód wymagają czystego popołudnia/wieczoru (przy chmurach Dingli po prostu odpada — Mdina zostaje)</td>
+  </tr>
+  <tr>
+    <td>D3 · czw · Gozo</td>
+    <td>Citadella, Ġgantija, (opc.) Ta' Pinu</td>
+    <td><span class="badge land">🏛️ LĄDOWE</span></td>
+    <td>plan główny zakłada <b>szybki prom Gozo Highspeed z Valletty</b> — szybkie promy są <b>bardziej</b> wrażliwe na wiatr niż duży prom. <b>Przy silnym wietrze fallback = 222 + Gozo Channel z Ċirkewwy</b> (duży prom, odporny na wiatr; wariant budżetowy planu, 4,65 € w obie) → Gozo robisz niemal zawsze</td>
+  </tr>
+</table>
+<p class="legend">🌊 morskie = wymaga spokojnego morza (priorytet: zdobyć spokojny dzień). 🏛️ lądowe = robisz w zasadzie zawsze (naturalny „bufor”).</p>
 </div>
 
 <h2 id="kotwice">3. Twarde reguły</h2>
 <div class="card">
-  <ul>
-    <li>🔒 <b>Loty D1 i D8</b> — nie do zmiany.</li>
-    <li>🔒 <b>Mdina w poniedziałek (D7)</b> — Muzeum Katedralne zamknięte w niedziele (sama katedra w nd tylko 15:00–17:00). Kotwica jest „miękka” (plan główny oznacza combo katedra+muzeum jako ⚠️ do pominięcia), ale zostaje: deszczowa Mdina = muzea. ⚠️ W poniedziałek zamknięte są za to <b>Domvs Romana</b> i <b>Palazzo Falson</b> (sekcja 9). Spacer po bastionach i zachód słońca to część ruchoma — <b>patrz sekcja 5</b>.</li>
-    <li>🌊 <b>Comino i Blue Grotto</b> → 2 najspokojniejsze dni morza w oknie pt–nd; przy jednym „złym” dniu decyduje <b>kierunek wiatru</b> (sekcja 5).</li>
-    <li>🟡 <b>Gozo zostaje na czwartek</b> — najlepiej w dzień powszedni. Przy prognozie silnego wiatru na czwartek: zamiast Gozo Highspeed z Valletty jedź <b>222 → Ċirkewwa → Gozo Channel</b> (duży prom). Jeśli prognoza na czw jest niepewna, bilet Highspeed kup dopiero w środę wieczorem (albo sprawdź warunki zwrotu).</li>
-  </ul>
+<ul>
+  <li>🔒 <b>Loty D1 i D8</b> — nie do zmiany.</li>
+  <li>🔒 <b>Mdina w poniedziałek (D7)</b> — Muzeum Katedralne zamknięte w niedziele (sama katedra w nd tylko 15:00–17:00). Kotwica jest „miękka” (plan główny oznacza combo katedra+muzeum jako ⚠️ do pominięcia), ale zostaje: deszczowa Mdina = muzea. ⚠️ W poniedziałek zamknięte są za to <b>Domvs Romana</b> i <b>Palazzo Falson</b> (sekcja 9). Spacer po bastionach i zachód słońca to część ruchoma — <b>patrz sekcja 5</b>.</li>
+  <li>🌊 <b>Comino i Blue Grotto</b> → 2 najspokojniejsze dni morza w oknie pt–nd; przy jednym „złym” dniu decyduje <b>kierunek wiatru</b> (sekcja 5).</li>
+  <li>🟡 <b>Gozo zostaje na czwartek</b> — najlepiej w dzień powszedni. Przy prognozie silnego wiatru na czwartek: zamiast Gozo Highspeed z Valletty jedź <b>222 → Ċirkewwa → Gozo Channel</b> (duży prom). Jeśli prognoza na czw jest niepewna, bilet Highspeed kup dopiero w środę wieczorem (albo sprawdź warunki zwrotu).</li>
+</ul>
 </div>
 
 <h2 id="kiedy">4. Kiedy podejmujesz decyzję</h2>
 <div class="card">
-  <table>
-    <tr><th>Moment</th><th>Horyzont prognozy</th><th>Co ustalasz</th></tr>
-    <tr>
-      <td><b>Czwartek wieczór (01.10)</b> — główna decyzja (po powrocie z Gozo, ~18:00–19:00)</td>
-      <td>pt + sob + nd</td>
-      <td>Przypinasz cały weekend: gdzie Comino, gdzie Blue Grotto, gdzie treści lądowe. Wtedy masz jeszcze wszystkie dni wolne w przód.</td>
-    </tr>
-    <tr>
-      <td><b>Sobota</b></td>
-      <td>nd + pon</td>
-      <td>Drobna korekta: Blue Grotto na najczystszy poranek, Dingli/zachód na najczystsze popołudnie/wieczór.</td>
-    </tr>
-    <tr>
-      <td><b>Rano danego dnia</b></td>
-      <td>kilka godzin</td>
-      <td>Tylko mikroreakcja: przelotny deszcz → zmiana kolejności w obrębie dnia / wariant wnętrz. Rejsów między dniami już nie przenosisz — zapasowe dni minęły. Wyjątek: komunikat operatora o zawieszeniu (Comino Ferries publikuje baner na stronie) → od razu wariant lądowy.</td>
-    </tr>
-  </table>
-  <div class="callout"><b>Dlaczego nie rano danego dnia?</b> Gdyby rankiem w sobotę okazało się wietrznie, piątek już minął — nie ma dokąd przenieść rejsu. Dlatego rozkład rejsów ustalasz czwartek wieczorem, widząc pt–nd z góry.</div>
+<table>
+  <tr><th>Moment</th><th>Horyzont prognozy</th><th>Co ustalasz</th></tr>
+  <tr>
+    <td><b>Czwartek wieczór (01.10)</b> — główna decyzja (po powrocie z Gozo, ~18:00–19:00)</td>
+    <td>pt + sob + nd</td>
+    <td>Przypinasz cały weekend: gdzie Comino, gdzie Blue Grotto, gdzie treści lądowe. Wtedy masz jeszcze wszystkie dni wolne w przód.</td>
+  </tr>
+  <tr>
+    <td><b>Sobota</b></td>
+    <td>nd + pon</td>
+    <td>Drobna korekta: Blue Grotto na najczystszy poranek, Dingli/zachód na najczystsze popołudnie/wieczór.</td>
+  </tr>
+  <tr>
+    <td><b>Rano danego dnia</b></td>
+    <td>kilka godzin</td>
+    <td>Tylko mikroreakcja: przelotny deszcz → zmiana kolejności w obrębie dnia / wariant wnętrz. Rejsów między dniami już nie przenosisz — zapasowe dni minęły. Wyjątek: komunikat operatora o zawieszeniu (Comino Ferries publikuje baner na stronie) → od razu wariant lądowy.</td>
+  </tr>
+</table>
+<div class="callout"><b>Dlaczego nie rano danego dnia?</b> Gdyby rankiem w sobotę okazało się wietrznie, piątek już minął — nie ma dokąd przenieść rejsu. Dlatego rozkład rejsów ustalasz czwartek wieczorem, widząc pt–nd z góry.</div>
 </div>
 
 <h2 id="algorytm">5. Algorytm rozmieszczenia (czw 01.10 → pon 05.10)</h2>
 <div class="card">
-  <p>Treści do rozłożenia: Comino (morze), Blue Grotto + Marsaxlokk (morze/ląd), Three Cities (ląd), Mdina (ląd, kotwica na pon). Gozo (D3) zostaje na czwartek.</p>
-  <ol>
-    <li><b>Mdina → pon</b> (kotwica).</li>
-    <li><b>Jeśli sobota (pierwotne D5) ma spokojne morze → Comino zostaje w sobotę.</b> Przepustka Blue Lagoon jest już zarezerwowana i <b>nie da się jej zmienić</b> (nową robisz tylko wtedy, gdy naprawdę przenosisz dzień). Przenoś Comino <b>wyłącznie, gdy sobota jest zła</b>.</li>
-    <li>Spośród pt/sob/nd wybierz <b>2 najspokojniejsze dni morza</b> → tam Comino i Blue Grotto (Comino na spokojniejszy/wcześniejszy; Blue Grotto na dzień ze spokojem i czystym porankiem).</li>
-    <li>Pozostały dzień (najgorsze morze lub deszcz) = dzień „lądowy” → <b>Three Cities</b>, a przy ulewie — wnętrza (sekcja 9; w niedzielę pamiętaj o zamkniętych obiektach).</li>
-    <li>Gdy spokojny jest <b>tylko jeden dzień</b> → patrz kierunek wiatru poniżej. Jeśli oba rejsy nie dają się obsadzić: priorytet <b>Comino</b> (trudniejsza logistyka, brak zamiennika), a Blue Grotto ratujesz „po lądowej stronie” (klif + Ħaġar Qim + Marsaxlokk).</li>
-  </ol>
-  <div class="callout"><b>Osobno — ruchomy zachód słońca:</b> jeśli pon ma pochmurny wieczór, a wcześniejszy wieczór jest czysty — przesuń spacer po bastionach Mdiny + zachód (~18:42) na ten czystszy wieczór (202 z Rossu jedzie do Mdiny do późna, powrót z Saqqajja 19:01 / 20:01 / 21:01), zostawiając część muzealną Mdiny i Rabat na pon. Dingli po południu (15:15–17:25) zostaje w pon tylko przy czystym niebie.</div>
+<p>Treści do rozłożenia: Comino (morze), Blue Grotto + Marsaxlokk (morze/ląd), Three Cities (ląd), Mdina (ląd, kotwica na pon). Gozo (D3) zostaje na czwartek.</p>
+<ol>
+  <li><b>Mdina → pon</b> (kotwica).</li>
+  <li><b>Jeśli sobota (pierwotne D5) ma spokojne morze → Comino zostaje w sobotę.</b> Przepustka Blue Lagoon jest już zarezerwowana i <b>nie da się jej zmienić</b> (nową robisz tylko wtedy, gdy naprawdę przenosisz dzień). Przenoś Comino <b>wyłącznie, gdy sobota jest zła</b>.</li>
+  <li>Spośród pt/sob/nd wybierz <b>2 najspokojniejsze dni morza</b> → tam Comino i Blue Grotto (Comino na spokojniejszy/wcześniejszy; Blue Grotto na dzień ze spokojem i czystym porankiem).</li>
+  <li>Pozostały dzień (najgorsze morze lub deszcz) = dzień „lądowy” → <b>Three Cities</b>, a przy ulewie — wnętrza (sekcja 9; w niedzielę pamiętaj o zamkniętych obiektach).</li>
+  <li>Gdy spokojny jest <b>tylko jeden dzień</b> → patrz kierunek wiatru poniżej. Jeśli oba rejsy nie dają się obsadzić: priorytet <b>Comino</b> (trudniejsza logistyka, brak zamiennika), a Blue Grotto ratujesz „po lądowej stronie” (klif + Ħaġar Qim + Marsaxlokk).</li>
+</ol>
+<div class="callout"><b>Osobno — ruchomy zachód słońca:</b> jeśli pon ma pochmurny wieczór, a wcześniejszy wieczór jest czysty — przesuń spacer po bastionach Mdiny + zachód (~18:42) na ten czystszy wieczór (202 z Rossu jedzie do Mdiny do późna, powrót z Saqqajja 19:01 / 20:01 / 21:01), zostawiając część muzealną Mdiny i Rabat na pon. Dingli po południu (15:15–17:25) zostaje w pon tylko przy czystym niebie.</div>
 
-  <h3>🧭 Kierunek wiatru, nie tylko siła</h3>
-  <p>Dwa dni „morskie” <b>nie są wymienne</b>. Blue Grotto (wybrzeże południowe; wejście do zatoczki Wied iż-Żurrieq otwarte na płd.-zach.) i kanał Comino (północ, przeprawa z Ċirkewwy) reagują na inne wiatry:</p>
-  <table>
-    <tr><th>Wiatr (nazwa maltańska)</th><th>Blue Grotto</th><th>Comino (Comino Ferries)</th><th>Co z tego wynika</th></tr>
-    <tr><td><b>Xlokk (SE) · Nofsinhar (S) · Lbiċ (SW)</b> — fala z południa/płd.-zach.</td><td class="no">✗ zwykle odwołane</td><td class="ok">✓ zwykle pływa</td><td>przeprawa Ċirkewwa–Comino osłonięta od południa → ten dzień daj Comino, Blue Grotto na inny (przy Lbiċ sama Blue Lagoon, po zachodniej stronie Comino, bywa pofalowana — kąpiel raczej w Santa Maria Bay)</td></tr>
-    <tr><td><b>Grigal (NE) · Tramuntana (N) · Majjistral (NW)</b> — fala z północy</td><td class="ok">✓ zwykle działa</td><td class="no">✗ kursy zawieszane</td><td>Blue Grotto osłonięte od północy → ten dzień daj Blue Grotto (przy bardzo silnym Majjistral fala potrafi obejść klify Dingli — potwierdź na miejscu ~09:30)</td></tr>
-    <tr><td><b>Punent (W)</b> albo silny wiatr z dowolnego kierunku (≥ ~6°B)</td><td class="no">✗</td><td class="no">✗</td><td>dzień lądowy — Three Cities / wnętrza</td></tr>
-  </table>
-  <p class="muted small">Czyli w czwartek patrz nie tylko „który dzień spokojniejszy”, ale <b>skąd wieje</b> — często pozwala obsadzić oba rejsy nawet przy jednym „złym” dniu. To heurystyka, nie gwarancja: Blue Grotto decyduje na miejscu (~09:30, bez statusu online), Comino Ferries publikuje zawieszenia na cominoferries.com (baner „Suspended service”) i w mediach społecznościowych.</p>
+<h3>🧭 Kierunek wiatru, nie tylko siła</h3>
+<p>Dwa dni „morskie” <b>nie są wymienne</b>. Blue Grotto (wybrzeże południowe; wejście do zatoczki Wied iż-Żurrieq otwarte na płd.-zach.) i kanał Comino (północ, przeprawa z Ċirkewwy) reagują na inne wiatry:</p>
+<table>
+  <tr><th>Wiatr (nazwa maltańska)</th><th>Blue Grotto</th><th>Comino (Comino Ferries)</th><th>Co z tego wynika</th></tr>
+  <tr><td><b>Xlokk (SE) · Nofsinhar (S) · Lbiċ (SW)</b> — fala z południa/płd.-zach.</td><td class="no">✗ zwykle odwołane</td><td class="ok">✓ zwykle pływa</td><td>przeprawa Ċirkewwa–Comino osłonięta od południa → ten dzień daj Comino, Blue Grotto na inny (przy Lbiċ sama Blue Lagoon, po zachodniej stronie Comino, bywa pofalowana — kąpiel raczej w Santa Maria Bay)</td></tr>
+  <tr><td><b>Grigal (NE) · Tramuntana (N) · Majjistral (NW)</b> — fala z północy</td><td class="ok">✓ zwykle działa</td><td class="no">✗ kursy zawieszane</td><td>Blue Grotto osłonięte od północy → ten dzień daj Blue Grotto (przy bardzo silnym Majjistral fala potrafi obejść klify Dingli — potwierdź na miejscu ~09:30)</td></tr>
+  <tr><td><b>Punent (W)</b> albo silny wiatr z dowolnego kierunku (≥ ~6°B)</td><td class="no">✗</td><td class="no">✗</td><td>dzień lądowy — Three Cities / wnętrza</td></tr>
+</table>
+<p class="muted small">Czyli w czwartek patrz nie tylko „który dzień spokojniejszy”, ale <b>skąd wieje</b> — często pozwala obsadzić oba rejsy nawet przy jednym „złym” dniu. To heurystyka, nie gwarancja: Blue Grotto decyduje na miejscu (~09:30, bez statusu online), Comino Ferries publikuje zawieszenia na cominoferries.com (baner „Suspended service”) i w mediach społecznościowych.</p>
 </div>
 
 <h2 id="uklady">6. Przykładowe układy wg prognozy</h2>
 
 <div class="card">
-  <h3>Układ 0 — bazowy (sobota i niedziela spokojne) → nic nie ruszasz</h3>
-  <table>
-    <tr><th>Dzień</th><th>Prognoza morza</th><th>Co robisz</th></tr>
-    <tr><td>czw 01.10</td><td>—</td><td>Gozo (Gozo Highspeed z Valletty; przy wietrze 222 + Gozo Channel)</td></tr>
-    <tr><td>pt 02.10</td><td>dowolna</td><td>Three Cities</td></tr>
-    <tr><td>sob 03.10</td><td>🌊 spokojnie</td><td>Comino (222 z Rossu 07:28; slot 08:00–13:00) · wieczorem opcjonalnie <b>Notte Bianca</b> w Valletcie</td></tr>
-    <tr><td>nd 04.10</td><td>🌊 spokojnie, czysty poranek</td><td>Blue Grotto rano (74 z Valletty 08:35) + Marsaxlokk</td></tr>
-    <tr><td>pon 05.10</td><td>—</td><td>Mdina + Rabat (+ Dingli po południu, jeśli czysto; zachód z bastionów)</td></tr>
-  </table>
-  <p class="muted">To pierwotny układ planu głównego (pt Three Cities · sob Comino · nd Blue Grotto). Układy A–C poniżej to odstępstwa <b>tylko na wypadek złej prognozy</b>.</p>
+<h3>Układ 0 — bazowy (sobota i niedziela spokojne) → nic nie ruszasz</h3>
+<table>
+  <tr><th>Dzień</th><th>Prognoza morza</th><th>Co robisz</th></tr>
+  <tr><td>czw 01.10</td><td>—</td><td>Gozo (Gozo Highspeed z Valletty; przy wietrze 222 + Gozo Channel)</td></tr>
+  <tr><td>pt 02.10</td><td>dowolna</td><td>Three Cities</td></tr>
+  <tr><td>sob 03.10</td><td>🌊 spokojnie</td><td>Comino (222 z Rossu 07:28; slot 08:00–13:00) · wieczorem opcjonalnie <b>Notte Bianca</b> w Valletcie</td></tr>
+  <tr><td>nd 04.10</td><td>🌊 spokojnie, czysty poranek</td><td>Blue Grotto rano (74 z Valletty 08:35) + Marsaxlokk</td></tr>
+  <tr><td>pon 05.10</td><td>—</td><td>Mdina + Rabat (+ Dingli po południu, jeśli czysto; zachód z bastionów)</td></tr>
+</table>
+<p class="muted">To pierwotny układ planu głównego (pt Three Cities · sob Comino · nd Blue Grotto). Układy A–C poniżej to odstępstwa <b>tylko na wypadek złej prognozy</b>.</p>
 </div>
 
 <div class="card">
-  <h3>Układ A — najspokojniejsze morze: pt i sob (niedziela zła)</h3>
-  <table>
-    <tr><th>Dzień</th><th>Prognoza morza</th><th>Co robisz</th></tr>
-    <tr><td>czw 01.10</td><td>—</td><td>Gozo</td></tr>
-    <tr><td>pt 02.10</td><td>🌊 spokojnie, czysto</td><td><b>Blue Grotto rano</b> (74 z Valletty A5 w dzień powszedni: <b>08:15 → Panorama ~08:55</b> lub 08:45 → ~09:25) + Marsaxlokk na obiad (niedzielny targ odpada — plan główny i tak traktuje go jako „best-effort”)</td></tr>
-    <tr><td>sob 03.10</td><td>🌊 spokojnie</td><td><b>Comino — bez zmian</b> (przepustka już jest) · wieczorem Notte Bianca</td></tr>
-    <tr><td>nd 04.10</td><td>💨 zmiennie / wietrznie</td><td><b>Three Cities</b> / wnętrza. ⚠️ Niedziela: St John's, Lascaris i Casa Rocca Piccola zamknięte — bierz „listę niedzielną” z sekcji 9</td></tr>
-    <tr><td>pon 05.10</td><td>—</td><td>Mdina + Rabat (+ Dingli <b>po południu</b>, jeśli czysto; zachód z bastionów Mdiny)</td></tr>
-  </table>
-  <p class="muted">Jedyna zmiana względem planu: <b>zamiana D4 ↔ D6</b>. Comino zostaje w sobotę (reguła 2 z sekcji 5).</p>
+<h3>Układ A — najspokojniejsze morze: pt i sob (niedziela zła)</h3>
+<table>
+  <tr><th>Dzień</th><th>Prognoza morza</th><th>Co robisz</th></tr>
+  <tr><td>czw 01.10</td><td>—</td><td>Gozo</td></tr>
+  <tr><td>pt 02.10</td><td>🌊 spokojnie, czysto</td><td><b>Blue Grotto rano</b> (74 z Valletty A5 w dzień powszedni: <b>08:15 → Panorama ~08:55</b> lub 08:45 → ~09:25) + Marsaxlokk na obiad (niedzielny targ odpada — plan główny i tak traktuje go jako „best-effort”)</td></tr>
+  <tr><td>sob 03.10</td><td>🌊 spokojnie</td><td><b>Comino — bez zmian</b> (przepustka już jest) · wieczorem Notte Bianca</td></tr>
+  <tr><td>nd 04.10</td><td>💨 zmiennie / wietrznie</td><td><b>Three Cities</b> / wnętrza. ⚠️ Niedziela: St John's, Lascaris i Casa Rocca Piccola zamknięte — bierz „listę niedzielną” z sekcji 9</td></tr>
+  <tr><td>pon 05.10</td><td>—</td><td>Mdina + Rabat (+ Dingli <b>po południu</b>, jeśli czysto; zachód z bastionów Mdiny)</td></tr>
+</table>
+<p class="muted">Jedyna zmiana względem planu: <b>zamiana D4 ↔ D6</b>. Comino zostaje w sobotę (reguła 2 z sekcji 5).</p>
 </div>
 
 <div class="card">
-  <h3>Układ B — spokojne: pt i nd (sobota wietrzna)</h3>
-  <table>
-    <tr><th>Dzień</th><th>Prognoza morza</th><th>Co robisz</th></tr>
-    <tr><td>czw 01.10</td><td>—</td><td>Gozo</td></tr>
-    <tr><td>pt 02.10</td><td>🌊 spokojnie</td><td><b>Comino rano</b> (222 z Rossu w dzień powszedni 07:27 → Ċirkewwa ~08:25; prom ~08:40/09:10). <b>Nowa przepustka Blue Lagoon na piątek</b> (blcomino.com, slot 08:00–13:00) — zrób ją czwartek wieczorem</td></tr>
-    <tr><td>sob 03.10</td><td>💨 wietrznie</td><td><b>Three Cities</b> / wnętrza — i wieczorem <b>Notte Bianca</b> bez długiego powrotu z północy (bonus tego układu)</td></tr>
-    <tr><td>nd 04.10</td><td>🌊 spokojnie</td><td>Blue Grotto rano + Marsaxlokk — <b>bez zmian</b> (74 08:35)</td></tr>
-    <tr><td>pon 05.10</td><td>—</td><td>Mdina + Rabat</td></tr>
-  </table>
-  <p class="muted">Zmiana względem planu: <b>zamiana D4 ↔ D5</b> (Three Cities nie „musi” być buforem, jeśli piątek ma dobre morze).</p>
+<h3>Układ B — spokojne: pt i nd (sobota wietrzna)</h3>
+<table>
+  <tr><th>Dzień</th><th>Prognoza morza</th><th>Co robisz</th></tr>
+  <tr><td>czw 01.10</td><td>—</td><td>Gozo</td></tr>
+  <tr><td>pt 02.10</td><td>🌊 spokojnie</td><td><b>Comino rano</b> (222 z Rossu w dzień powszedni 07:27 → Ċirkewwa ~08:25; prom ~08:40/09:10). <b>Nowa przepustka Blue Lagoon na piątek</b> (blcomino.com, slot 08:00–13:00) — zrób ją czwartek wieczorem</td></tr>
+  <tr><td>sob 03.10</td><td>💨 wietrznie</td><td><b>Three Cities</b> / wnętrza — i wieczorem <b>Notte Bianca</b> bez długiego powrotu z północy (bonus tego układu)</td></tr>
+  <tr><td>nd 04.10</td><td>🌊 spokojnie</td><td>Blue Grotto rano + Marsaxlokk — <b>bez zmian</b> (74 08:35)</td></tr>
+  <tr><td>pon 05.10</td><td>—</td><td>Mdina + Rabat</td></tr>
+</table>
+<p class="muted">Zmiana względem planu: <b>zamiana D4 ↔ D5</b> (Three Cities nie „musi” być buforem, jeśli piątek ma dobre morze).</p>
 </div>
 
 <div class="card">
-  <h3>Układ C — tylko jeden pewny spokojny dzień</h3>
-  <table>
-    <tr><th>Dzień</th><th>Prognoza</th><th>Co robisz</th></tr>
-    <tr><td>czw 01.10</td><td>—</td><td>Gozo</td></tr>
-    <tr><td>pt 02.10</td><td>🌊 spokojnie</td><td>Comino rano (priorytet — trudniejsza logistyka; nowa przepustka na pt)</td></tr>
-    <tr><td>sob 03.10</td><td>💨 / zmiennie</td><td>Three Cities / wnętrza · Notte Bianca wieczorem</td></tr>
-    <tr><td>nd 04.10</td><td>💨 wzburzone</td><td>Blue Grotto: rejs najpewniej nie popłynie → klifowy punkt widokowy + Ħaġar Qim/Mnajdra (10 €) + Marsaxlokk. Jeśli wieje <b>z północy</b> (Grigal/Tramuntana/Majjistral), Blue Grotto może jednak pływać — sprawdź na miejscu ~09:30</td></tr>
-    <tr><td>pon 05.10</td><td>—</td><td>Mdina + Rabat</td></tr>
-  </table>
-  <div class="warn">Gdy spokojny jest tylko jeden dzień → priorytet dajesz Comino, a Blue Grotto ratujesz „po lądowej stronie” (klif + Marsaxlokk). To najgorszy przypadek — zakładasz, że rejs po jaskiniach może nie dojść do skutku. <b>Zanim tak zdecydujesz, sprawdź kierunek wiatru (sekcja 5)</b> — jeśli „zły” dzień ma wiatr z południa, Comino w nim zwykle pływa i wtedy jedyny spokojny dzień oddajesz Blue Grotto.</div>
+<h3>Układ C — tylko jeden pewny spokojny dzień</h3>
+<table>
+  <tr><th>Dzień</th><th>Prognoza</th><th>Co robisz</th></tr>
+  <tr><td>czw 01.10</td><td>—</td><td>Gozo</td></tr>
+  <tr><td>pt 02.10</td><td>🌊 spokojnie</td><td>Comino rano (priorytet — trudniejsza logistyka; nowa przepustka na pt)</td></tr>
+  <tr><td>sob 03.10</td><td>💨 / zmiennie</td><td>Three Cities / wnętrza · Notte Bianca wieczorem</td></tr>
+  <tr><td>nd 04.10</td><td>💨 wzburzone</td><td>Blue Grotto: rejs najpewniej nie popłynie → klifowy punkt widokowy + Ħaġar Qim/Mnajdra (10 €) + Marsaxlokk. Jeśli wieje <b>z północy</b> (Grigal/Tramuntana/Majjistral), Blue Grotto może jednak pływać — sprawdź na miejscu ~09:30</td></tr>
+  <tr><td>pon 05.10</td><td>—</td><td>Mdina + Rabat</td></tr>
+</table>
+<div class="warn">Gdy spokojny jest tylko jeden dzień → priorytet dajesz Comino, a Blue Grotto ratujesz „po lądowej stronie” (klif + Marsaxlokk). To najgorszy przypadek — zakładasz, że rejs po jaskiniach może nie dojść do skutku. <b>Zanim tak zdecydujesz, sprawdź kierunek wiatru (sekcja 5)</b> — jeśli „zły” dzień ma wiatr z południa, Comino w nim zwykle pływa i wtedy jedyny spokojny dzień oddajesz Blue Grotto.</div>
 </div>
 
 <div class="card">
-  <h3>🚌 Autobusy zależą od dnia tygodnia</h3>
-  <p>Malta Public Transport ma <b>osobne rozkłady</b> dla dni powszednich, soboty i niedzieli — przy przenoszeniu dnia sprawdź w Tallinji właściwy dzień. Kluczowe odjazdy (rozkład MPT z 06.09.2026 — jesienią może się zmienić):</p>
-  <table>
-    <tr><th>Linia</th><th>pt (dzień powszedni)</th><th>sob</th><th>nd</th></tr>
-    <tr><td><b>222</b> Ross → Ċirkewwa (Comino)</td><td>07:27 · 07:57 · 08:29 (→ Ċirkewwa ~08:25 / 08:55 / 09:37)</td><td>07:28 · 07:58 · 08:30 (→ ~08:25 / 08:55 / 09:41)</td><td>07:28 · 07:58 · 08:30 (→ ~08:20 / 08:50 / 09:30)</td></tr>
-    <tr><td><b>74</b> Valletta A5 → Panorama (Blue Grotto)</td><td>07:45 · <b>08:15</b> · 08:45 · 09:45 (~40 min)</td><td>07:35 · <b>08:35</b> · 09:35 (~40 min)</td><td>07:35 · <b>08:35</b> · 09:35 (~38 min)</td></tr>
-    <tr><td><b>202</b> Ross → Mdina/Saqqajja</td><td>08:41 · 09:11 · 09:41 (co 30 min; ~71 min → Saqqajja 09:52 / 10:22)</td><td>08:39 · 09:39 (co 60 min; ~58 min)</td><td>08:40 · 09:40 (co 60 min; ~65 min)</td></tr>
-  </table>
-  <p class="muted small">Do Valletty na 74: 13/14/15 z Rossu ~25 min (na 08:15 wyjdź z hotelu ~07:20; na 08:35/08:45 ~07:45). ⚠️ Strona MPT pokazuje obecnie <b>rozkład letni</b> (do 21.09); od 22.09 linia 222 w dni powszednie może jeździć rzadziej rano (co ~20 min zamiast 30/15) — w tygodniu wyjazdu sprawdź konkretne godziny w Tallinji.</p>
+<h3>🚌 Autobusy zależą od dnia tygodnia</h3>
+<p>Malta Public Transport ma <b>osobne rozkłady</b> dla dni powszednich, soboty i niedzieli — przy przenoszeniu dnia sprawdź w Tallinji właściwy dzień. Kluczowe odjazdy (rozkład MPT z 06.09.2026 — jesienią może się zmienić):</p>
+<table>
+  <tr><th>Linia</th><th>pt (dzień powszedni)</th><th>sob</th><th>nd</th></tr>
+  <tr><td><b>222</b> Ross → Ċirkewwa (Comino)</td><td>07:27 · 07:57 · 08:29 (→ Ċirkewwa ~08:25 / 08:55 / 09:37)</td><td>07:28 · 07:58 · 08:30 (→ ~08:25 / 08:55 / 09:41)</td><td>07:28 · 07:58 · 08:30 (→ ~08:20 / 08:50 / 09:30)</td></tr>
+  <tr><td><b>74</b> Valletta A5 → Panorama (Blue Grotto)</td><td>07:45 · <b>08:15</b> · 08:45 · 09:45 (~40 min)</td><td>07:35 · <b>08:35</b> · 09:35 (~40 min)</td><td>07:35 · <b>08:35</b> · 09:35 (~38 min)</td></tr>
+  <tr><td><b>202</b> Ross → Mdina/Saqqajja</td><td>08:41 · 09:11 · 09:41 (co 30 min; ~71 min → Saqqajja 09:52 / 10:22)</td><td>08:39 · 09:39 (co 60 min; ~58 min)</td><td>08:40 · 09:40 (co 60 min; ~65 min)</td></tr>
+</table>
+<p class="muted small">Do Valletty na 74: 13/14/15 z Rossu ~25 min (na 08:15 wyjdź z hotelu ~07:20; na 08:35/08:45 ~07:45). ⚠️ Strona MPT pokazuje obecnie <b>rozkład letni</b> (do 21.09); od 22.09 linia 222 w dni powszednie może jeździć rzadziej rano (co ~20 min zamiast 30/15) — w tygodniu wyjazdu sprawdź konkretne godziny w Tallinji.</p>
 </div>
 
 <h2 id="warianty">7. Dzień „na lądzie” (ten, który nie dostaje rejsu)</h2>
 <div class="card">
-  <p>Dzień z najgorszą prognozą wypełniają treści odporne — nie jest pusty ani „stracony”:</p>
-  <ul>
-    <li><b>Three Cities — pełny dzień:</b> Birgu, Senglea/Gardjola, prom przez port (osłonięty Grand Harbour), opcjonalnie Fort St Angelo (10 €, codziennie 09–19) / Pałac Inkwizytora (8 €; ⚠️ pon zamknięte) / Maritime Museum. Działa w każdą pogodę.</li>
-    <li><b>Ulewa</b> → przełącz na wnętrza (sekcja 9): jeden rejon, bez przesiadek.</li>
-    <li><b>Tylko wietrznie, sucho</b> → Three Cities i tak działają; ubierz warstwy.</li>
-    <li><b>Sobota lądowa</b> → wieczorem Notte Bianca (Valletta otwarta za darmo do późna) — naturalne domknięcie dnia.</li>
-  </ul>
-  <div class="callout">To nie jest strata: Three Cities / dogranie Valletty / wnętrza to treści, które i tak zrobiłbyś gdzieś w tygodniu. Po prostu trafiają na dzień, w którym rejs i tak by nie popłynął.</div>
+<p>Dzień z najgorszą prognozą wypełniają treści odporne — nie jest pusty ani „stracony”:</p>
+<ul>
+  <li><b>Three Cities — pełny dzień:</b> Birgu, Senglea/Gardjola, prom przez port (osłonięty Grand Harbour), opcjonalnie Fort St Angelo (10 €, codziennie 09–19) / Pałac Inkwizytora (8 €; ⚠️ pon zamknięte) / Maritime Museum. Działa w każdą pogodę.</li>
+  <li><b>Ulewa</b> → przełącz na wnętrza (sekcja 9): jeden rejon, bez przesiadek.</li>
+  <li><b>Tylko wietrznie, sucho</b> → Three Cities i tak działają; ubierz warstwy.</li>
+  <li><b>Sobota lądowa</b> → wieczorem Notte Bianca (Valletta otwarta za darmo do późna) — naturalne domknięcie dnia.</li>
+</ul>
+<div class="callout">To nie jest strata: Three Cities / dogranie Valletty / wnętrza to treści, które i tak zrobiłbyś gdzieś w tygodniu. Po prostu trafiają na dzień, w którym rejs i tak by nie popłynął.</div>
 </div>
 
 <h2 id="dodatki">8. Popołudniowe „coś nowego” (lądowy dzień, dobra pogoda)</h2>
 <div class="card">
-  <p>Punkty spoza głównego planu — nie powielają niczego. Start od bazy (Ross/Dragonara). Wszystkie autobusy na karcie Explore (do 05.10).</p>
+<p>Punkty spoza głównego planu — nie powielają niczego. Start od bazy (Ross/Dragonara). Wszystkie autobusy na karcie Explore (do 05.10).</p>
 
-  <h3>🏛️ Mosta Rotunda (kopuła)</h3>
-  <p>Jedna z największych wolnostojących kopuł w Europie (bomba z II wojny św. wpadła przez kopułę i nie wybuchła). Blisko, szybko, tanio — ale <b>nie za darmo</b>.</p>
-  <ul>
-    <li><b>Dojazd:</b> autobus <b>202</b> z Rossu (926) w stronę Rabatu → wysiądź <b>Mosta – Bezzina (1102)</b>, ~250 m / 3 min do Rotundy. Jazda ~40 min (pn–pt kursy 08:41 · 09:11 · 09:41 … co 30 min; sob/nd co 60 min). W powrocie 202 staje w Moście na <b>Kungress (1142)</b>, ~320 m od Rotundy. ⚠️ Linie <b>51/52/53 NIE jeżdżą przez Mostę</b> (Valletta → Ħamrun → Attard → Ta' Qali → Rabat) — z Valletty pod samą Rotundę (przystanki Rotunda 1–4) dojeżdżają m.in. <b>31 / 45 / 47 / 48</b>.</li>
-    <li><b>Bilet 5 €</b> (kościół + galeria kopuły + schron przeciwlotniczy + audioprzewodnik mobilny; dzieci &lt;12 gratis). <b>Godziny:</b> pn–pt ~9:30–17:30, sob ~9:30–16:00, <b>nd tylko 12:00–17:00</b>; ostatnie wejście 30 min przed zamknięciem. To czynna parafia — msze mogą ograniczyć zwiedzanie.</li>
-  </ul>
+<h3>🏛️ Mosta Rotunda (kopuła)</h3>
+<p>Jedna z największych wolnostojących kopuł w Europie (bomba z II wojny św. wpadła przez kopułę i nie wybuchła). Blisko, szybko, tanio — ale <b>nie za darmo</b>.</p>
+<ul>
+  <li><b>Dojazd:</b> autobus <b>202</b> z Rossu (926) w stronę Rabatu → wysiądź <b>Mosta – Bezzina (1102)</b>, ~250 m / 3 min do Rotundy. Jazda ~40 min (pn–pt kursy 08:41 · 09:11 · 09:41 … co 30 min; sob/nd co 60 min). W powrocie 202 staje w Moście na <b>Kungress (1142)</b>, ~320 m od Rotundy. ⚠️ Linie <b>51/52/53 NIE jeżdżą przez Mostę</b> (Valletta → Ħamrun → Attard → Ta' Qali → Rabat) — z Valletty pod samą Rotundę (przystanki Rotunda 1–4) dojeżdżają m.in. <b>31 / 45 / 47 / 48</b>.</li>
+  <li><b>Bilet 5 €</b> (kościół + galeria kopuły + schron przeciwlotniczy + audioprzewodnik mobilny; dzieci &lt;12 gratis). <b>Godziny:</b> pn–pt ~9:30–17:30, sob ~9:30–16:00, <b>nd tylko 12:00–17:00</b>; ostatnie wejście 30 min przed zamknięciem. To czynna parafia — msze mogą ograniczyć zwiedzanie.</li>
+</ul>
 
-  <h3>✈️ Ta' Qali: Crafts Village + Muzeum Lotnictwa (+ San Anton osobno)</h3>
-  <ul>
-    <li>Tą samą linią <b>202</b> jedziesz dalej: <b>Ta' Qali – Stadium</b> (Muzeum Lotnictwa ~100 m; ~7 €; codziennie 09:00–17:00, ostatnie wejście 16:00) i następny przystanek <b>Ta' Qali – Villagg</b> (Crafts Village — szkło, filigran, ceramika; warsztaty czynne głównie w tygodniu). Z Rossu ~50–60 min.</li>
-    <li><b>San Anton Gardens (Attard) NIE leżą przy 202</b> — od przystanku <b>Attard – Marġ</b> to ~1,2 km (15–20 min pieszo). Wygodniej: <b>51/52/53</b> z Valletty, przystanek <b>Anton</b> (~5–7 min pieszo). Ogrody bezpłatne, codziennie.</li>
-  </ul>
+<h3>✈️ Ta' Qali: Crafts Village + Muzeum Lotnictwa (+ San Anton osobno)</h3>
+<ul>
+  <li>Tą samą linią <b>202</b> jedziesz dalej: <b>Ta' Qali – Stadium</b> (Muzeum Lotnictwa ~100 m; ~7 €; codziennie 09:00–17:00, ostatnie wejście 16:00) i następny przystanek <b>Ta' Qali – Villagg</b> (Crafts Village — szkło, filigran, ceramika; warsztaty czynne głównie w tygodniu). Z Rossu ~50–60 min.</li>
+  <li><b>San Anton Gardens (Attard) NIE leżą przy 202</b> — od przystanku <b>Attard – Marġ</b> to ~1,2 km (15–20 min pieszo). Wygodniej: <b>51/52/53</b> z Valletty, przystanek <b>Anton</b> (~5–7 min pieszo). Ogrody bezpłatne, codziennie.</li>
+</ul>
 
-  <h3>🏖️ Għadira Bay / Mellieħa</h3>
-  <p>Największa piaszczysta plaża Malty — swobodne popołudnie bez tłumu laguny.</p>
-  <ul>
-    <li><b>Dojazd (bez przesiadki):</b> autobus <b>222</b> z Rossu w stronę Ċirkewwy → wysiądź <b>Għadira (983)</b>, wg rozkładu <b>~45–60 min</b> (rano ~45–50, w ciągu dnia ~55–60). Powrót tą samą linią (w dzień co 15–30 min).</li>
-  </ul>
+<h3>🏖️ Għadira Bay / Mellieħa</h3>
+<p>Największa piaszczysta plaża Malty — swobodne popołudnie bez tłumu laguny.</p>
+<ul>
+  <li><b>Dojazd (bez przesiadki):</b> autobus <b>222</b> z Rossu w stronę Ċirkewwy → wysiądź <b>Għadira (983)</b>, wg rozkładu <b>~45–60 min</b> (rano ~45–50, w ciągu dnia ~55–60). Powrót tą samą linią (w dzień co 15–30 min).</li>
+</ul>
 
-  <h3>🦣 Għar Dalam — jaskinia z kośćmi karłowatych hipopotamów i słoni</h3>
-  <p>Najbardziej „unikatowa” opcja; tania. Na południu — dalsza, dlatego <b>najlepiej wpleść ją w dzień Marsaxlokk</b>.</p>
-  <ul>
-    <li><b>Z Marsaxlokk:</b> linia <b>85</b> (kierunek Valletta), <b>co godzinę, ~10 min</b>, przystanek <b>Birżebbuġa – Dalam (410)</b>, 1 min pieszo. <b>Z Valletty:</b> 85 (A6, ~25–30 min) albo 80 (A8) / 82 (A7), ~35 min — wszystkie co ~60 min (82 częściej).</li>
-    <li><b>Bilet 6,50 €</b> (Heritage Malta; combo z Borġ in-Nadur, który jest obecnie zamknięty z powodu robót drogowych). <b>Godziny: wt–nd 09:00–17:00 (ost. wejście 16:30), <span class="no">poniedziałek zamknięte</span></b>.</li>
-  </ul>
+<h3>🦣 Għar Dalam — jaskinia z kośćmi karłowatych hipopotamów i słoni</h3>
+<p>Najbardziej „unikatowa” opcja; tania. Na południu — dalsza, dlatego <b>najlepiej wpleść ją w dzień Marsaxlokk</b>.</p>
+<ul>
+  <li><b>Z Marsaxlokk:</b> linia <b>85</b> (kierunek Valletta), <b>co godzinę, ~10 min</b>, przystanek <b>Birżebbuġa – Dalam (410)</b>, 1 min pieszo. <b>Z Valletty:</b> 85 (A6, ~25–30 min) albo 80 (A8) / 82 (A7), ~35 min — wszystkie co ~60 min (82 częściej).</li>
+  <li><b>Bilet 6,50 €</b> (Heritage Malta; combo z Borġ in-Nadur, który jest obecnie zamknięty z powodu robót drogowych). <b>Godziny: wt–nd 09:00–17:00 (ost. wejście 16:30), <span class="no">poniedziałek zamknięte</span></b>.</li>
+</ul>
 </div>
 
 <h2 id="indoor">9. Arsenał wnętrz (gdy zły dzień = deszczowy)</h2>
 <div class="card">
-  <p>Przy całodniowym deszczu: jeden rejon, bez przesiadek w strugach. Ceny dla dorosłego, godziny sezonu letniego Heritage Malta (do 31.10) — ostatnie wejście 30 min przed zamknięciem.</p>
-  <table>
-    <tr><th>Rejon</th><th>Co (wewnątrz)</th><th>Uwagi</th></tr>
-    <tr>
-      <td><b>Valletta</b><br><span class="muted small">13/14/15 z Rossu (karta), wszystko pieszo</span></td>
-      <td>
-        <b>Codziennie:</b> Pałac Wielkich Mistrzów + Zbrojownia (12 €, 10–18; Sala Tronowa zamknięta) · Fort St Elmo / Narodowe Muzeum Wojny (10 €, 09–19) · Muzeum Archeologii (<b>5 €</b>, 09–19) · MUŻA (<b>10 €</b>, 10–18) · Malta Experience (20 € z Sacra Infermeria; seanse pn–pt 11–16, sob/nd 11–14).<br>
-        <b>Tylko pn–sob:</b> St John's (15 €, 09:00–16:45) · Lascaris War Rooms (<b>20 €</b>, 09:30–17:30, w cenie audioprzewodnik) · Casa Rocca Piccola (zwiedzanie z przewodnikiem co godz. 10–16; <b>12 €</b> wg oficjalnej strony).
-      </td>
-      <td><b>Deszczowa niedziela (Układ A):</b> pewne wnętrza to Pałac, Fort St Elmo, Archeologia, MUŻA, Malta Experience (11–14). <span class="no">St John's, Lascaris, Casa Rocca — w nd zamknięte.</span></td>
-    </tr>
-    <tr>
-      <td><b>Mdina / Rabat</b> (pon = D7)<br><span class="muted small">202 z Rossu</span></td>
-      <td>
-        <b>Otwarte w pon:</b> Muzeum Katedralne (combo z katedrą 15 €; pn–pt 9:30–17:00, sob krócej) · Katakumby św. Pawła (6 €, codziennie 09–19) · <b>Wignacourt Museum</b> — Grota św. Pawła + schrony z II wojny św. (6 €, codziennie 09:30–17:00) — idealne na deszcz.<br>
-        <span class="no">W pon zamknięte:</span> Domvs Romana (6 €, wt–nd 09–17) · Palazzo Falson = „Norman House” (to jeden obiekt; wt–nd 10–17, ost. wejście 16:00) · Muzeum Historii Naturalnej.
-      </td>
-      <td>⚠️ Katedra w niedzielę tylko 15:00–17:00, Muzeum Katedralne w nd zamknięte — dlatego Mdina kotwiczy w pon. Rabat Combo (katakumby + Domvs, 12 €) <b>nie działa w poniedziałek</b>.</td>
-    </tr>
-    <tr>
-      <td><b>Przy bazie</b><br><span class="muted small">zero logistyki</span></td>
-      <td>Eden Cinemas + Eden SuperBowl (kręgle) w Paceville · Bay Street (St George's Bay, ~5 min) · kawiarnie Spinola Bay. <b>The Point</b> to Sliema/Tigné — 13/14/15 albo ~30 min promenadą.</td>
-      <td>Deszczowy dzień = dzień relaksu.</td>
-    </tr>
-  </table>
-  <p class="muted small" style="margin-top:10px"><b>Bonus (wymaga wcześniejszej rezerwacji):</b> Ħal Saflieni Hypogeum (UNESCO; ~80 os./dzień; 35 € online z dużym wyprzedzeniem). Last-minute: <b>50 €</b>, sprzedaż <b>dzień wcześniej</b> od 09:00 w Fort St Elmo (kolejka ustawia się od ~07:30; po 12:00 także w Muzeum Archeologii i w Hypogeum); dzieci &lt;6 lat nie wchodzą. Godziny 10–18 codziennie. <b>Muzeum Lotnictwa</b> — patrz sekcja 8 (Ta' Qali, nie „przy bazie”: ~50–60 min linią 202).</p>
+<p>Przy całodniowym deszczu: jeden rejon, bez przesiadek w strugach. Ceny dla dorosłego, godziny sezonu letniego Heritage Malta (do 31.10) — ostatnie wejście 30 min przed zamknięciem.</p>
+<table>
+  <tr><th>Rejon</th><th>Co (wewnątrz)</th><th>Uwagi</th></tr>
+  <tr>
+    <td><b>Valletta</b><br><span class="muted small">13/14/15 z Rossu (karta), wszystko pieszo</span></td>
+    <td>
+      <b>Codziennie:</b> Pałac Wielkich Mistrzów + Zbrojownia (12 €, 10–18; Sala Tronowa zamknięta) · Fort St Elmo / Narodowe Muzeum Wojny (10 €, 09–19) · Muzeum Archeologii (<b>5 €</b>, 09–19) · MUŻA (<b>10 €</b>, 10–18) · Malta Experience (20 € z Sacra Infermeria; seanse pn–pt 11–16, sob/nd 11–14).<br>
+      <b>Tylko pn–sob:</b> St John's (15 €, 09:00–16:45) · Lascaris War Rooms (<b>20 €</b>, 09:30–17:30, w cenie audioprzewodnik) · Casa Rocca Piccola (zwiedzanie z przewodnikiem co godz. 10–16; <b>12 €</b> wg oficjalnej strony).
+    </td>
+    <td><b>Deszczowa niedziela (Układ A):</b> pewne wnętrza to Pałac, Fort St Elmo, Archeologia, MUŻA, Malta Experience (11–14). <span class="no">St John's, Lascaris, Casa Rocca — w nd zamknięte.</span></td>
+  </tr>
+  <tr>
+    <td><b>Mdina / Rabat</b> (pon = D7)<br><span class="muted small">202 z Rossu</span></td>
+    <td>
+      <b>Otwarte w pon:</b> Muzeum Katedralne (combo z katedrą 15 €; pn–pt 9:30–17:00, sob krócej) · Katakumby św. Pawła (6 €, codziennie 09–19) · <b>Wignacourt Museum</b> — Grota św. Pawła + schrony z II wojny św. (6 €, codziennie 09:30–17:00) — idealne na deszcz.<br>
+      <span class="no">W pon zamknięte:</span> Domvs Romana (6 €, wt–nd 09–17) · Palazzo Falson = „Norman House” (to jeden obiekt; wt–nd 10–17, ost. wejście 16:00) · Muzeum Historii Naturalnej.
+    </td>
+    <td>⚠️ Katedra w niedzielę tylko 15:00–17:00, Muzeum Katedralne w nd zamknięte — dlatego Mdina kotwiczy w pon. Rabat Combo (katakumby + Domvs, 12 €) <b>nie działa w poniedziałek</b>.</td>
+  </tr>
+  <tr>
+    <td><b>Przy bazie</b><br><span class="muted small">zero logistyki</span></td>
+    <td>Eden Cinemas + Eden SuperBowl (kręgle) w Paceville · Bay Street (St George's Bay, ~5 min) · kawiarnie Spinola Bay. <b>The Point</b> to Sliema/Tigné — 13/14/15 albo ~30 min promenadą.</td>
+    <td>Deszczowy dzień = dzień relaksu.</td>
+  </tr>
+</table>
+<p class="muted small" style="margin-top:10px"><b>Bonus (wymaga wcześniejszej rezerwacji):</b> Ħal Saflieni Hypogeum (UNESCO; ~80 os./dzień; 35 € online z dużym wyprzedzeniem). Last-minute: <b>50 €</b>, sprzedaż <b>dzień wcześniej</b> od 09:00 w Fort St Elmo (kolejka ustawia się od ~07:30; po 12:00 także w Muzeum Archeologii i w Hypogeum); dzieci &lt;6 lat nie wchodzą. Godziny 10–18 codziennie. <b>Muzeum Lotnictwa</b> — patrz sekcja 8 (Ta' Qali, nie „przy bazie”: ~50–60 min linią 202).</p>
 </div>
 
 <h2 id="check">10. Checklista</h2>
 <div class="card">
-  <h3>Przed wyjazdem</h3>
-  <ul>
-    <li>☐ Przepustka Blue Lagoon (blcomino.com): sobota 3.10, slot <b>08:00–13:00</b>, do 4 os./rezerwację, <b>bez możliwości zmiany</b>. Rezerwacje otwierają się ~2 miesiące wcześniej. Opcjonalnie: jeśli system pozwoli, zarezerwuj od razu też <b>piątek</b> (darmowe; w październiku limit 4000 os. nie jest problemem) — oszczędzasz decyzję w czwartek wieczorem.</li>
-    <li>☐ Zapisz adresy statusu: cominoferries.com (baner o zawieszeniu), windy.com / windguru (punkty: Ċirkewwa, Wied iż-Żurrieq), prognoza Met Office Malta (maltairport.com/weather) — <b>wiatr i stan morza</b>, nie sama temperatura.</li>
-  </ul>
-  <h3>Czwartek wieczór (01.10) — główna decyzja</h3>
-  <ul>
-    <li>☐ Sprawdź prognozę wiatru/morza na pt+sob+nd: <b>siła i kierunek</b> (sekcja 5) + komunikaty operatorów.</li>
-    <li>☐ Sobota spokojna? → Comino zostaje (Układ 0/A). Sobota zła? → Comino na pt (Układ B/C) + <b>nowa przepustka na pt</b>.</li>
-    <li>☐ Wskaż dzień Blue Grotto (czysty poranek, wiatr nie z południa) → sprawdź 74 na właściwy dzień tygodnia (pt 08:15 / sob-nd 08:35).</li>
-    <li>☐ Najgorszy dzień → Three Cities / wnętrza (w niedzielę: lista „niedzielna”). Mdina → pon.</li>
-    <li>☐ Zapisz finalny układ (sekcja 6) i zweryfikuj autobusy w Tallinji na konkretny dzień.</li>
-  </ul>
-  <h3>Sobota — korekta</h3>
-  <ul>
-    <li>☐ Potwierdź Blue Grotto na najczystszy poranek; Dingli/zachód na najczystsze popołudnie/wieczór (albo przesuń zachód z bastionów na czystszy wieczór — sekcja 5).</li>
-  </ul>
-  <h3>Rano danego dnia — tylko mikro</h3>
-  <ul>
-    <li>☐ Radar na 2–3 h → przelotny deszcz = zmiana kolejności w obrębie dnia, nie przenoszenie rejsów.</li>
-    <li>☐ Comino: zerknij na cominoferries.com (zawieszenie = od razu wariant lądowy, zanim wsiądziesz w 222).</li>
-    <li>☐ Blue Grotto: <b>brak statusu online</b> — decyzja na miejscu ~09:30; miej gotówkę (~10 €); plan B = klif + Ħaġar Qim + Marsaxlokk.</li>
-    <li>☐ Karta Explore ważna do 05.10; promy/łodzie/wejścia płatne osobno. Pakuj: płaszcz przeciwdeszczowy + warstwy na wietrzny wieczór (~19–22 °C).</li>
-  </ul>
+<h3>Przed wyjazdem</h3>
+<ul>
+  <li>☐ Przepustka Blue Lagoon (blcomino.com): sobota 3.10, slot <b>08:00–13:00</b>, do 4 os./rezerwację, <b>bez możliwości zmiany</b>. Rezerwacje otwierają się ~2 miesiące wcześniej. Opcjonalnie: jeśli system pozwoli, zarezerwuj od razu też <b>piątek</b> (darmowe; w październiku limit 4000 os. nie jest problemem) — oszczędzasz decyzję w czwartek wieczorem.</li>
+  <li>☐ Zapisz adresy statusu: cominoferries.com (baner o zawieszeniu), windy.com / windguru (punkty: Ċirkewwa, Wied iż-Żurrieq), prognoza Met Office Malta (maltairport.com/weather) — <b>wiatr i stan morza</b>, nie sama temperatura.</li>
+</ul>
+<h3>Czwartek wieczór (01.10) — główna decyzja</h3>
+<ul>
+  <li>☐ Sprawdź prognozę wiatru/morza na pt+sob+nd: <b>siła i kierunek</b> (sekcja 5) + komunikaty operatorów.</li>
+  <li>☐ Sobota spokojna? → Comino zostaje (Układ 0/A). Sobota zła? → Comino na pt (Układ B/C) + <b>nowa przepustka na pt</b>.</li>
+  <li>☐ Wskaż dzień Blue Grotto (czysty poranek, wiatr nie z południa) → sprawdź 74 na właściwy dzień tygodnia (pt 08:15 / sob-nd 08:35).</li>
+  <li>☐ Najgorszy dzień → Three Cities / wnętrza (w niedzielę: lista „niedzielna”). Mdina → pon.</li>
+  <li>☐ Zapisz finalny układ (sekcja 6) i zweryfikuj autobusy w Tallinji na konkretny dzień.</li>
+</ul>
+<h3>Sobota — korekta</h3>
+<ul>
+  <li>☐ Potwierdź Blue Grotto na najczystszy poranek; Dingli/zachód na najczystsze popołudnie/wieczór (albo przesuń zachód z bastionów na czystszy wieczór — sekcja 5).</li>
+</ul>
+<h3>Rano danego dnia — tylko mikro</h3>
+<ul>
+  <li>☐ Radar na 2–3 h → przelotny deszcz = zmiana kolejności w obrębie dnia, nie przenoszenie rejsów.</li>
+  <li>☐ Comino: zerknij na cominoferries.com (zawieszenie = od razu wariant lądowy, zanim wsiądziesz w 222).</li>
+  <li>☐ Blue Grotto: <b>brak statusu online</b> — decyzja na miejscu ~09:30; miej gotówkę (~10 €); plan B = klif + Ħaġar Qim + Marsaxlokk.</li>
+  <li>☐ Karta Explore ważna do 05.10; promy/łodzie/wejścia płatne osobno. Pakuj: płaszcz przeciwdeszczowy + warstwy na wietrzny wieczór (~19–22 °C).</li>
+</ul>
 </div>
 
 <h2 id="zrodla">11. Źródła i stan weryfikacji (06.09.2026)</h2>
 <div class="card">
-  <ul class="small">
-    <li><b>Rozkłady:</b> publictransport.com.mt — trasy 202, 222, 74, 85, 80, 82 (stop-by-stop; grupy dni: pn/śr/czw/pt · wt/nd · sob). Rozkład letni — <b>zmiana sezonowa pod koniec września</b>; potwierdź w Tallinji.</li>
-    <li><b>Heritage Malta:</b> grafika „Opening Hours 1 March – 31 October 2026” (Domvs Romana, Għar Dalam, Pałac Inkwizytora, Muzeum Historii Naturalnej: wt–nd 09–17; Archeologia, Fort St Elmo, katakumby, Ħaġar Qim: codziennie 09–19; MUŻA, Pałac, Ġgantija, Hypogeum: codziennie 10–18); ceny ze stron obiektów (MUŻA 10 €, Archeologia 5 €, Għar Dalam 6,50 €, Hypogeum 35 €/last-minute 50 €).</li>
-    <li><b>Operatorzy / obiekty:</b> cominoferries.com (rozkład do X: 08:40–17:00 z Ċirkewwy, ostatni powrót 18:00; XI–III krócej; baner o zawieszeniu), wirtartna.org (Lascaris: pn–sob 09:30–17:30, 20 €), themaltaexperience.com (20 €; sob/nd 11–14), metropolitanchapter.com (katedra pn–sob 9:30–16:45, nd 15–17; muzeum nd zamknięte), casaroccapiccola.com (12 €; pn–sob, nd zamknięte), Palazzo Falson (wt–nd 10–17), Din l-Art Ħelwa (wieża św. Marii: IV–X, śr/pt/sob/nd), blcomino.com / przewodniki 2026 (przepustka: 4 os., bez zmian), Mosta Rotunda (5 €, nd 12–17).</li>
-    <li><b>Odległości przystanków:</b> OpenStreetMap (Bezzina → Rotunda ~250 m; Stadium → Muzeum Lotnictwa ~90 m; Marġ → San Anton ~1,2 km).</li>
-  </ul>
-  <p class="muted small">Plik pomocniczy do planu Malta 29.09–06.10 · Rozkład rejsów ustal z wyprzedzeniem (czwartek wieczorem) · Zweryfikuj rozkłady Tallinja na bieżąco.</p>
+<ul class="small">
+  <li><b>Rozkłady:</b> publictransport.com.mt — trasy 202, 222, 74, 85, 80, 82 (stop-by-stop; grupy dni: pn/śr/czw/pt · wt/nd · sob). Rozkład letni — <b>zmiana sezonowa pod koniec września</b>; potwierdź w Tallinji.</li>
+  <li><b>Heritage Malta:</b> grafika „Opening Hours 1 March – 31 October 2026” (Domvs Romana, Għar Dalam, Pałac Inkwizytora, Muzeum Historii Naturalnej: wt–nd 09–17; Archeologia, Fort St Elmo, katakumby, Ħaġar Qim: codziennie 09–19; MUŻA, Pałac, Ġgantija, Hypogeum: codziennie 10–18); ceny ze stron obiektów (MUŻA 10 €, Archeologia 5 €, Għar Dalam 6,50 €, Hypogeum 35 €/last-minute 50 €).</li>
+  <li><b>Operatorzy / obiekty:</b> cominoferries.com (rozkład do X: 08:40–17:00 z Ċirkewwy, ostatni powrót 18:00; XI–III krócej; baner o zawieszeniu), wirtartna.org (Lascaris: pn–sob 09:30–17:30, 20 €), themaltaexperience.com (20 €; sob/nd 11–14), metropolitanchapter.com (katedra pn–sob 9:30–16:45, nd 15–17; muzeum nd zamknięte), casaroccapiccola.com (12 €; pn–sob, nd zamknięte), Palazzo Falson (wt–nd 10–17), Din l-Art Ħelwa (wieża św. Marii: IV–X, śr/pt/sob/nd), blcomino.com / przewodniki 2026 (przepustka: 4 os., bez zmian), Mosta Rotunda (5 €, nd 12–17).</li>
+  <li><b>Odległości przystanków:</b> OpenStreetMap (Bezzina → Rotunda ~250 m; Stadium → Muzeum Lotnictwa ~90 m; Marġ → San Anton ~1,2 km).</li>
+</ul>
+<p class="muted small">Plik pomocniczy do planu Malta 29.09–06.10 · Rozkład rejsów ustal z wyprzedzeniem (czwartek wieczorem) · Zweryfikuj rozkłady Tallinja na bieżąco.</p>
 </div>
 
-</div>
 </body>
 </html>
