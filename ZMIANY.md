@@ -7,7 +7,7 @@ Wszystkie 9 plików planu przeliczonych pod nową bazę: **Vegas Resort** (3⭐,
 1. **Hotel bazowy** — usunięto porównanie 4 opcji (Argento, Orbis Boutique Studios, ddream, THE OSiRiS)
    i wszystkie wzmianki o nich (sekcja „Gdzie nocować" → „Hotel", wiersze D1–D8, notki o wydarzeniach, streszczenia).
    W ich miejsce: jedna karta hotelu **Vegas Resort** z danymi i plusami/minusami.
-2. **Przystanek autobusowy** — `Qaliet` → **San Giljan – Ross** (35.92161, 14.49049, ~5 min pieszo od hotelu).
+2. **Przystanek autobusowy** — `Qaliet` → **San Giljan – Ross** (~5 min pieszo od hotelu).
    Obsługuje: **13/14/15** (Valletta), **222** (Ċirkewwa / Comino), **X2 / TD13** (lotnisko / okolice),
    więc wszystkie trasy planu (D1–D8) działają bez zmian tras.
 3. **Przeliczone czasy piesze**:
@@ -19,7 +19,7 @@ Wszystkie 9 plików planu przeliczonych pod nową bazę: **Vegas Resort** (3⭐,
    **D7** — dodany dojazd 13/14/15 z Rossu do Sliemy przed autobusem 202 (wcześniej było „pieszo na Ferries").
 5. **D5** — autobus 222 wsiadany/wysiadany na Ross („222 → Sliema" → „222 → St Julian's (Ross)").
 6. **D1/D8** — wysiadka/meldunek przy Vegas Resort, dopisek o check-in 15:00 / check-out 10:00.
-7. **plan_mapka.html** — nowe GPS hotelu (35.92441, 14.49072), przystanek Ross (35.92161, 14.49049),
+7. **plan_mapka.html** — nowe pinezki hotelu i przystanku Ross (linki `maps`),
    trasa D1 zaczyna się od Vegas Resort, dopisane odległości.
 
 ## Dane hotelu (źródła)
@@ -112,7 +112,7 @@ Datą kontrolną: D3 = czw 1.10, D7 = pon 5.10, D8 = wt 6.10.
 | 10 | Blue Grotto→Marsaxlokk | ✅ realistycznie 1–1,5 h; obiad ~13:00 — bez zmian strukturalnych |
 | 11 | powrót D3 | ✅ 16:45→17:30 potwierdzone; w St Julian's ~18:15–18:30 z korkami — dopisek |
 | 12 | D1 88/przesiadka | ✅ 88 ~13:15 istnieje; +5–8 min na dworcu — bez zmian (plan już ma ~14:45–15:00) |
-| 13 | hotel→Ross 600–700 m | ⚠️ **audyt BŁĘDNY**: GPS hotelu (35.92441,14.49072) → Ross (35.92161,14.49049) = **~310–400 m ≈ 4–6 min** (nie 600–700 m) — plan: „~5 min"; rano z bagażem licz 7–8 min |
+| 13 | hotel→Ross 600–700 m | ⚠️ **audyt BŁĘDNY**: pinezka hotelu → przystanek Ross (linki `maps`) = **~310–400 m ≈ 4–6 min** (nie 600–700 m) — plan: „~5 min"; rano z bagażem licz 7–8 min |
 | 14 | Gozo return 13–14 € | ⚠️ spekulacja (promocje zmienne); plan już wspomina „promocja do ~12 €" — bez zmian |
 | 15 | Defected: UNO/Café del Mar | ✅ audyt: **UNO = Ta' Qali (Attard)**, **Café del Mar = St Paul's Bay**; Fort St Elmo + The Ditch = Valletta; daty 1–4.10.2026 — poprawione |
 
@@ -435,9 +435,9 @@ Avjazzjoni 283 → **Airport 3 (2552)**. Rossa (1038/926) na trasie **nie ma**. 
 z San Giljan 923 (Balluta/Spinola Rd, ~350 m od hotelu).
 
 Najbliższy przystanek TD2 dla Vegas Resort (Dragonara Road): **Paceville – Dragonara 2035**
-(35.92521, 14.49132; OSM) — **~100 m od hotelu**. Odjazdy pn–pt: 09:04 · **09:34** · 10:04
+(pinezka OSM) — **~100 m od hotelu**. Odjazdy pn–pt: 09:04 · **09:34** · 10:04
 (Airport 3: 09:32 · **10:02** · 10:32; jazda ~28 min). Sobota/niedziela niemal identyczne.
-**TD3** (co 30 min) staje na **San Giljan 1037** (sąsiad Rossa, 35.92233, 14.48770): 09:15 → ~10:00,
+**TD3** (co 30 min) staje na **San Giljan 1037** (sąsiad Rossa — link `maps`): 09:15 → ~10:00,
 09:45 → ~10:30 — zostaje jako zapas „sprzed Rossa”.
 
 **Zmiana we wszystkich planach (4 MD + 4 HTML + plan_mapka):** D8 = wyjście 09:15–09:20 → Dragonara
@@ -458,8 +458,8 @@ Dragonara (2035) i korekta wiersza Ross (bez TD2/TD3).
 | 6 | D3: „301 → Victoria (~12 min, co ~30 min)”; §7 „301/307/308 co ~60 min” | 301 **co ~15 min, ~15 min jazdy**; §7: 307/308 co 60, 301 co 15 | rozkład 301 (MPT) |
 | 7 | D3 notka: „hotel → pokład ~60–70 min” | ~80 min (07:25 → 08:45) | zgodnie z tabelą |
 | 8 | D3: wiersze „307 14:33/15:33” i „OPCJA Ta' Pinu” bez `</tr>` i komórki Mapa | domknięte; Mapa Ta' Pinu w wierszu opcji | HTML z 95dc35b |
-| 9 | D3: link „Mapa” przy Ta' Kola → współrzędne Ta' Pinu (36.06154, 14.21597) | **Ta' Kola 36.04980, 14.26675** (+ wiersz w plan_mapka) | 5 km różnicy |
-| 10 | D7: link „Mapa” przy Rossie → 35.91, 14.501 | Ross 35.92161, 14.49049 | ~2 km różnicy |
+| 9 | D3: link „Mapa” przy Ta' Kola → pinezka Ta' Pinu | **Ta' Kola** (właściwy punkt; + wiersz w plan_mapka) | 5 km różnicy |
+| 10 | D7: link „Mapa” przy Rossie → pinezka ~2 km od Rossa | **Ross** (właściwy punkt — link `maps`) | ~2 km różnicy |
 | 11 | D4 alternatywy: „Fort St Angelo (12 €)” | 10 € | 12 € = Pałac |
 | 12 | §8: „TD… do wszystkiego w planie dojedziesz bez nich” | „w planie tylko TD2 na lotnisko w D8” | nieaktualne po TD2 |
 | 13 | cele powrotów „→ Sliema” (D2/D3/D4/D6), „z Sliemy” (§9 Gozo) | „→ St Julian's (Ross)”, „z St Julian's” | opisy trasy „Sliema → Valletta” zostają |
@@ -480,7 +480,7 @@ nd Marsaxlokk, pon Mdina); restauracje z planu otwarte w zaplanowane dni (Café 
 brak `</tr>` w tabeli D3 — domknięte. Plan_transportu: wiersz „Hotel → Ross” bez „TD2/TD3 → lotnisko”.
 
 **Zmiany: 9 plików planu + ZMIANY.md. Stare wzorce („przy Rossie”, „09:24 →”, „09:54 → ~10:32”,
-„D2/D3/D4/D8”, „Fort St Angelo (12”, „z bagażem” w kompletnym, „35.91,14.501”): grep = 0.**
+„D2/D3/D4/D8”, „Fort St Angelo (12”, „z bagażem” w kompletnym, liczbowa postać pinezki Rossa): grep = 0.**
 
 ---
 
@@ -571,7 +571,7 @@ własnej tabeli: Casa Rocca Piccola to **12 €** (oficjalnie), nie „~10–15 
 | 5 | **Malta Experience** (D2 + §5 + transportu + mapka) | 16 € | **20 €** | themaltaexperience.com (06.09) — bez nowego źródła (cena oficjalna) |
 | 6 | **Lascaris War Rooms** (§5) | ~14 € | **20 €**, pn–sob 09:30–17:30 | wirtartna.org/lascariswarrooms (adult €20, Mon–Sat) |
 | 7 | **Casa Rocca Piccola** (D2 + §5, 4 plany + mapka + Plan_pogoda) | 10 € (Pogoda: „~10–15 €, potwierdź”) | **12 €**, pn–sob 10–17 | casaroccapiccola.com/access-statement: „ADULTS €12.00” (przewodnik malta-spirit 04.2026 podaje ~10 € — nieaktualne) |
-| 8 | **D7 Rabat: Domvs Romana** (4 plany + mapka) | proponowana w pon (Rabat Combo 12 €) | 🚫 **w pon zamknięta** (wt–nd 09–17) → zamiennik **Wignacourt Museum 6 €** (grota św. Pawła + schrony; codziennie 09:30–17:00; nowy wiersz w mapce 35.88165, 14.39891); Rabat Combo „tylko wt–nd” | heritagemalta.mt/opening-hours (grafika 1 III–31 X 2026); Wignacourt: guidememalta + catholica (Mon–Sun 09:30–17:00) |
+| 8 | **D7 Rabat: Domvs Romana** (4 plany + mapka) | proponowana w pon (Rabat Combo 12 €) | 🚫 **w pon zamknięta** (wt–nd 09–17) → zamiennik **Wignacourt Museum 6 €** (grota św. Pawła + schrony; codziennie 09:30–17:00; nowy wiersz w mapce (link `maps`)); Rabat Combo „tylko wt–nd” | heritagemalta.mt/opening-hours (grafika 1 III–31 X 2026); Wignacourt: guidememalta + catholica (Mon–Sun 09:30–17:00) |
 
 **Konsekwencje w budżecie (kompletny §5/§6/§9, zrównoważony):** suma obiektów Heritage Malta „≈42 €” (z Rabat Combo 12)
 → **≈36 €** (Ġgantija 10 + Fort St Angelo 10 + Ħaġar Qim 10 + Katakumby 6; bez Ħaġar Qim ≈ 26 €) + ewentualnie Wignacourt 6 €
@@ -607,7 +607,7 @@ zostaje 🚫 (20 € tylko wzmacnia werdykt); Comino Ferries „online ~14 €�
 | Eurospin (Mosta, obok Lidla) | ~11 km — tylko „przy okazji” (202 przejeżdża przez Mostę w D7) | 7:00–22:00 | dyskont | mapcarta / prasa branżowa |
 | Convenience (Spar Express 24/7, MyConvenience 6:00–24:00, Daves 24/7, Little Greens 24/7) | 90–300 m | całodobowo | ⚠️ +30–80% | OSM |
 
-- **Overpass/OSM** (bbox Paceville–Sliema): 91 supermarketów/sklepów; odległości liczone haversine od 35.92431, 14.49077 (Vegas Resort) — w planie opisane jako „w linii prostej, +10–20% na ulice”.
+- **Overpass/OSM** (bbox Paceville–Sliema): 91 supermarketów/sklepów; odległości liczone haversine od punktu hotelu (Vegas Resort) — w planie opisane jako „w linii prostej, +10–20% na ulice”.
 - **Dodatkowo wykryte:** PolMalta Polish Shop (~670 m, pon–sob 11:00–19:00) — polskie produkty.
 - **Lotnisko:** Lidl **Luqa** (Triq il-Karmnu) ~0,9–1,2 km od terminala (12–15 min pieszo; przystanki Taljana ~70 m, Tumas ~110 m; linie z Luqi m.in. 71/72/73/117/218), godz. 7:00–22:00. **Werdykt: nie robić w D1** — z bagażem + przejazd do Paceville to realnie +45–70 min i taszczenie zakupów; brak przystanku „pod drzwiami”. W planie: zakupy pieszo w D1 (Welbee's / PAVI-PAMA), tani Lidl w Sliemie „przy okazji” D2.
 
@@ -619,51 +619,53 @@ zostaje 🚫 (20 € tylko wzmacnia werdykt); Comino Ferries „online ~14 €�
 
 **Do potwierdzenia na miejscu:** godziny PAVI-PAMA w St George's Mall (oznaczenia w OSM; centrum handlowe 10:00–22:00, supermarket zwykle od 7:00–8:00) oraz niedzielne godziny **Lidl San Ġwann**. Pozostałe plany (lajtowy / zrównoważony / mapka / pogoda) bez zmian — nowa sekcja niczego w nich nie przeczy.
 
-# Dokładne współrzędne sklepów (GPS) + linki do Map Google — 20.09.2026
+# Dokładne lokalizacje sklepów + linki „maps” do Map Google — 20.09.2026
 
 Dopisane na prośbę: „dodać dokładne lokalizacje sklepów z linkiem do Map Google, ze współrzędnymi w linku (nie przybliżonymi)”.
 
-## Skąd współrzędne (metodyka)
+## Skąd te punkty (metodyka)
 
-1. **4 sklepy Lidl** — oficjalne `geo` z kart sklepów **lidl.com.mt** (JSON-LD `GroceryStore`): Sliema `35.91238, 14.50475` (SLM 1708), San Ġwann `35.90916, 14.47744` (SGN 1331), Luqa `35.8608, 14.48494` (LQA 1311), Mosta `35.91803, 14.42078` (MST 1743).
+1. **4 sklepy Lidl** — oficjalne `geo` z kart sklepów **lidl.com.mt** (JSON-LD `GroceryStore`): Sliema (SLM 1708), San Ġwann (SGN 1331), Luqa (LQA 1311), Mosta (MST 1743).
 2. **Pozostałe** — punktowe POI z **OpenStreetMap / Overpass** (`nwr[shop=supermarket|convenience]`, `out center`) — nie centroidy miejscowości.
 3. **Weryfikacja:** każdy punkt sprawdzony geokodowaniem zwrotnym **Nominatim** (20.09.2026) — zwraca właściwy sklep i właściwą ulicę (Welbee's → Triq Gort STJ 1901; PAVI-PAMA → St George's Shore; Lidl Sliema → Triq Amery; Savemart → Triq Agostino Matrenza/Tal-Balal SGN 9020 itd.).
-4. **Format linku:** `https://www.google.com/maps?q=SZEROKOŚĆ,DŁUGOŚĆ` — pinezka ląduje w dokładnym punkcie (nie na przybliżonym adresie). W tabelach podane 6 miejsc po przecinku (≈11 cm).
+4. **Format linku:** `https://www.google.com/maps?q=…` — link `maps` otwiera pinezkę dokładnie w danym punkcie (nie na przybliżonym adresie). Wartości liczbowe zostają wyłącznie w linku — w opisach ich nie wypisujemy.
 
-| Sklep | GPS | Źródło |
-| --- | --- | --- |
-| Welbee's Paceville (Triq Gort) | 35.922162, 14.487596 | OSM + Nominatim |
-| PAVI-PAMA St George's Mall | 35.927599, 14.488042 | OSM + Nominatim |
-| Welbee's Spinola | 35.917343, 14.489226 | OSM + Nominatim |
-| Welbee's Balluta | 35.916989, 14.493236 | OSM |
-| Lidl Sliema (Triq Amery) | 35.912380, 14.504750 | lidl.com.mt |
-| Lidl San Ġwann | 35.909160, 14.477440 | lidl.com.mt |
-| Lidl Luqa | 35.860800, 14.484940 | lidl.com.mt |
-| Lidl Mosta | 35.918030, 14.420780 | lidl.com.mt |
-| Eurospin Mosta | 35.918406, 14.422436 | OSM + Nominatim |
-| Greens Swieqi | 35.922782, 14.474778 | OSM + Nominatim |
-| Savemart Tal-Balal | 35.910967, 14.469401 | OSM + Nominatim |
-| PolMalta Polish Shop | 35.918307, 14.490414 | OSM + Nominatim |
-| Little Greens / Spar Express / MyConvenience / Daves | 35.923101, 14.489810 / 35.922275, 14.490153 / 35.923385, 14.488873 / 35.920203, 14.482025 | OSM |
+| Sklep | Źródło |
+| --- | --- |
+| Welbee's Paceville (Triq Gort) | OSM + Nominatim |
+| PAVI-PAMA St George's Mall | OSM + Nominatim |
+| Welbee's Spinola | OSM + Nominatim |
+| Welbee's Balluta | OSM |
+| Lidl Sliema (Triq Amery) | lidl.com.mt |
+| Lidl San Ġwann | lidl.com.mt |
+| Lidl Luqa | lidl.com.mt |
+| Lidl Mosta | lidl.com.mt |
+| Eurospin Mosta | OSM + Nominatim |
+| Greens Swieqi | OSM + Nominatim |
+| Savemart Tal-Balal | OSM + Nominatim |
+| PolMalta Polish Shop | OSM + Nominatim |
+| Little Greens / Spar Express / MyConvenience / Daves | OSM |
+
+Każdy sklep ma w `plan_mapka.html` (karta „🛒 Sklepy i zakupy”) i w §7a link **`maps`** otwierający dokładny punkt — precyzja jest w linku, nie w opisie.
 
 ## Zmiany plików
 
-1. `plan_kompletny.md` + `Plan_kompletny.html` — tabela 7a zyskała kolumnę **„📍 GPS → Mapy Google”** (klikalne dokładne współrzędne), dodane wiersze **Welbee's Balluta**, **Lidl Mosta**, **PolMalta**, rozbite convenience; nota o lotnisku z GPS Lidla Luqa; nota „skąd te współrzędne”; link D1 w Welbee's zaokrąglono do pełnej precyzji (`35.922162,14.487596`).
-2. `plan_transportu.md` + `Plan_transportu.html` — nota „🛒 Zakupy po drodze (D1)” z dokładnymi GPS i linkami (Welbee's 35.922162, 14.487596 · PAVI-PAMA 35.927599, 14.488042 · Lidl Sliema 35.912380, 14.504750 · Lidl San Ġwann 35.909160, 14.477440).
+1. `plan_kompletny.md` + `Plan_kompletny.html` — tabela 7a zyskała kolumnę **„📍 Mapy Google”** (klikalny link `maps` do dokładnego punktu), dodane wiersze **Welbee's Balluta**, **Lidl Mosta**, **PolMalta**, rozbite convenience; nota o lotnisku z GPS Lidla Luqa; nota „skąd te punkty”; link D1 w Welbee's uzupełniono do pełnej precyzji punktu.
+2. `plan_transportu.md` + `Plan_transportu.html` — nota „🛒 Zakupy po drodze (D1)” z linkami `maps` do wszystkich czterech sklepów.
 3. `ZMIANY.md` — ten wpis.
 
 # Linki „maps”, sekcja sklepów w mapce, Lidl w D2, restyle pogody — 20.09.2026
 
 ## 1. Linki GPS → etykieta „maps”
-Wszystkie linki do Map Google, które dodałem w sekcji 7a i w notkach transportu, mają teraz krótką etykietę **`maps`** (współrzędne zostały jako tekst obok, żeby nie stracić precyzji):
+Wszystkie linki do Map Google, które dodałem w sekcji 7a i w notkach transportu, mają teraz krótką etykietę **`maps`** (wówczas współrzędne zostawały jeszcze jako tekst obok — usunięto je w kolejnym wpisie: „Bez współrzędnych w opisach”):
 - `Plan_kompletny.html`: 17 linków (kolumna „📍 GPS → Mapy Google” + nowy wiersz D2) → `maps`
 - `plan_kompletny.md`: 16 linków `[maps](https://www.google.com/maps?q=…)` + nota o lotnisku (Lidl Luqa)
 - `Plan_transportu.html` / `plan_transportu.md`: 4 + 4 linki w notce D1
 - `plan_mapka.html`: **ujednolicono cały plik** — 103 dotychczasowe „🧭 Google Maps” → `maps` (spójna etykieta w całym pliku); łącznie 119 linków `maps`
 
 ## 2. plan_mapka.html — nowa karta „🛒 Sklepy i zakupy (sekcja 7a)”
-16 wierszy (Miejsce · Co / dlaczego · GPS · Mapa) wstawionych tuż przed kartą „🚌 Transport i infrastruktura”:
-Welbee's Paceville `35.922162, 14.487596` · PAVI-PAMA St George's Mall `35.927599, 14.488042` · Welbee's Spinola `35.917343, 14.489226` · Welbee's Balluta `35.916989, 14.493236` · **Lidl Sliema** `35.912380, 14.504750` · **Lidl San Ġwann** `35.909160, 14.477440` · **Lidl Luqa** `35.860800, 14.484940` · **Lidl Mosta** `35.918030, 14.420780` · Eurospin Mosta `35.918406, 14.422436` · Greens Swieqi `35.922782, 14.474778` · Savemart `35.910967, 14.469401` · PolMalta `35.918307, 14.490414` · convenience: Little Greens `35.923101, 14.489810`, Spar Express `35.922275, 14.490153`, MyConvenience `35.923385, 14.488873`, Daves `35.920203, 14.482025`. Do tego notka o strategii (D1 pieszo, Lidl w D2).
+16 wierszy (Miejsce · Co / dlaczego · Mapa) wstawionych tuż przed kartą „🚌 Transport i infrastruktura”:
+Wszystkie 16 pozycji mają w kolumnie „Mapa” link `maps` do dokładnego punktu: Welbee's Paceville · PAVI-PAMA St George's Mall · Welbee's Spinola · Welbee's Balluta · **Lidl Sliema** · **Lidl San Ġwann** · **Lidl Luqa** · **Lidl Mosta** · Eurospin Mosta · Greens Swieqi · Savemart · PolMalta · convenience: Little Greens, Spar Express, MyConvenience, Daves. Do tego notka o strategii (D1 pieszo, Lidl w D2).
 
 ## 3. Lidl w D2 (dzień Valletta)
 - `plan_kompletny.md` + `Plan_kompletny.html`: nowy wiersz **17:30+ „Opcja Lidl po drodze (Sliema)”** — powrót 13/14/15 z Valletty tylko do Sliemy (przystanki **Chalet** ~190 m / **Huber** ~330 m od Lidla) → **Lidl Sliema** (Triq Amery, SLM 1708; codziennie 7:00–22:00) → zakupy → 13/14/15 Sliema → Ross → hotel ~18:30–19:00; plus notka „Tanie zakupy przy okazji D2” pod tabelą dnia.
@@ -720,3 +722,89 @@ Nowy plik **`Przewodnik_miejsca.html`** (+ `przewodnik_miejsca.md` dla spójnoś
 2. Wszystkie 6 planów HTML zyskało w nawigacji pozycję **📖 Przewodnik** (spójna nawigacja w całym repo).
 3. `ZMIANY.md` — ten wpis.
 4. `_gen_przewodnik.py` — generator (dane miejsc w jednym miejscu; pozwala szybko dopisywać kolejne obiekty).
+
+
+# Bez współrzędnych w opisach — link „maps” wystarczy — 25.09.2026
+
+Na prośbę: „popraw opisy w taki sposób, żeby nie wypisywać nigdzie explicite współrzędnych, link «Maps» który je zawiera w środku w zupełności wystarczy”.
+
+## Zasada
+Wartości liczbowe (szerokość/długość) **nigdzie nie są wypisywane** — ani w tabelach, ani w notkach, ani w legendzie.
+Precyzja zostaje wyłącznie w linku: każdy link ma etykietę **`maps`**, a w adresie `https://www.google.com/maps?q=…`
+siedzą dokładne współrzędne punktu, więc nic nie tracimy.
+
+## Co zmieniono
+- `plan_mapka.html`: usunięta kolumna **GPS** (12 nagłówków tabel + **119 komórek** z liczbami) — zostaje kolumna **Mapa** z linkiem `maps`; poprawiony opis nagłówka i stopka (mówią o „dokładnym punkcie”, nie o wypisanych współrzędnych).
+- `Plan_kompletny.html` + `plan_kompletny.md` (§7a): nagłówek kolumny **„📍 GPS → Mapy Google” → „📍 Mapy Google”**; usuniętych **18** komórek `span.gps` (HTML) i **18** wystąpień „lat, lon · ” + „**lat, lon** → ” (MD); notka końcowa mówi teraz „skąd te punkty” i opisuje źródła oraz weryfikację Nominatim bez podawania liczb.
+- `plan_transportu.md` + `Plan_transportu.html`: notka „🛒 Zakupy po drodze (D1)” i odcinek 5 w D2 — przy nazwie sklepu zostaje sam link `maps`; „(współrzędne + godziny + ceny)” → „(lokalizacje + godziny + ceny)”.
+- **CSS**: reguła `.gps` usunięta z `Plan_kompletny.html`, `Plan_pogoda.html`, `Przewodnik_miejsca.html`, `plan_mapka.html` (arkusze pozostają spójne 1:1).
+- `sklepy_gps.csv`: usunięte kolumny `lat`, `lon`, `wspolrzedne`; układ: `sklep;adres;godziny;map_link;odleglosc_od_hotelu;zrodlo` (kolejność sklepów bez zmian).
+- `Przewodnik_miejsca.html` + `przewodnik_miejsca.md`: legenda i stopka odsyłają do linków `maps` w `plan_mapka.html` (zmiana w `_gen_przewodnik.py` + regeneracja, więc generator i pliki są zgodne).
+- `ZMIANY.md` (ten plik) + `PUSH.md`: wpisy historyczne z liczbami przepisane na opisy („pinezka hotelu/przystanku”, „link `maps`”), żeby zasada obowiązywała w całym repo.
+
+# Maltański słowniczek z wymową + zakładka w nagłówkach — 25.09.2026
+
+Na prośbę: „dodaj nowy plik z podstawowymi słówkami wraz z wymową w języku maltańskim, zalinkuj z pozostałych plików w nagłówku”.
+
+## Nowy plik (para HTML + MD)
+`Slowniczek_maltanski.html` + `slowniczek_maltanski.md`, generowane przez **`_gen_slowniczek.py`** (edycja danych w skrypcie + `python3 _gen_slowniczek.py` odtwarza oba pliki — nie edytować HTML ręcznie):
+- **🔤 Jak czytać maltański** — litery, które zmieniają wszystko: ċ = cz, ġ = dż, għ = nieme (wydłuża samogłoskę), ħ = gardłowe h, x = sz, ż = z, z = c, q = zwarcie krtaniowe, ie = długie „i”; akcent na przedostatniej sylabie.
+- **⭐ Szybka ściąga** — 10 zwrotów na cały wyjazd (Bonġu, Grazzi, Jekk jogħġbok, Skużi, Saħħa, Iva/Le, Ma nifhimx, Fejn hu…?, Kemm jiswa?, L-ikla t-tajba!).
+- Sekcje: 👋 podstawowe zwroty · 🗣️ gdy nie rozumiesz · 🚌 w drodze (autobus, bilet, prom, lotnisko — spójne z planem autobusowym) · 🛒 zakupy i pieniądze (spójne z §7a) · 🍽️ restauracja + maltańskie smaki (pastizzi, ġbejna, ftira, bigilla, Kinnie, Cisk = „czisk”) · 🌤️ pogoda i plaża (spójne z `Plan_pogoda.html`) · 🔢 liczby 1–10 i ceny · 💬 słowa-wytrychy (mela, ħafna, biss, tajjeb, orrajt, ejja, ħa).
+- **🗺️ Wymowa nazw wszystkich miejsc z planu** (33 pozycje — od Valletty, Paceville i Sliemy po Ġgantija, Xagħra, Xlendi, Wied iż-Żurrieq, Ta' Pinu, Bejn il-Kmiemen), z uwagami typu „Mdina = im-DI-na, nigdy Medina”, „Għawdex = AW-desz”, „Luqa = LU-a (q = przerwa)”.
+- **💡 Ciekawostki o języku** (jedyny język semicki w alfabecie łacińskim i jedyny semicki język urzędowy UE; alfabet 30 liter; od 1934 urzędowy obok angielskiego; akcent najczęściej na przedostatniej sylabie) + **📚 źródła** (Preply, Language Trainers, Wikitravel, GBS Malta, GCM, Talk in Maltese, Polyglot Club, r/malta, Wikipedia/Wiktionary).
+
+Wymowa zapisana **„po polsku”** (wielkie litery = sylaba akcentowana); przy literach bez polskiego odpowiednika opisano przybliżenie słownie. Styl: identyczny arkusz co pozostałe plany (CSS czytany z `Plan_kompletny.html` przy generacji) + jedna dodatkowa reguła `.pron` na kolumnę wymowy.
+
+## Zakładki w nagłówkach (wszystkie pozostałe pliki)
+- Dodano zakładkę **🗣️ Słowniczek** do nawigacji 7 plików HTML: `Plan_kompletny.html`, `Plan_zrownowazony.html`, `Plan_lajtowy.html`, `Plan_transportu.html`, `plan_mapka.html`, `Plan_pogoda.html`, `Przewodnik_miejsca.html` — nawigacja liczy teraz **8 pozycji**.
+- Uzupełniono stałą `NAV` w `_gen_przewodnik.py` o nową zakładkę i zregenerowano przewodnik (diff: wyłącznie nawigacja).
+
+## Weryfikacja
+- 8/8 plików HTML przechodzi kontrolę struktury (`HTMLParser`) — 0 błędów.
+- Wszystkie lokalne linki w słowniczku wskazują na istniejące pliki; zakładka obecna w 7/7 pozostałych plików HTML.
+
+# Słowniczek: rozbudowana sekcja grzecznościowa + scenariusz check-inu („lepszy pokój”) — 25.09.2026
+
+Na prośbę: „rozbuduj sekcję ze zwrotami grzecznościowymi, chcę się ładnie przywitać w recepcji aby dali mi lepszy pokój”.
+
+## 1. Sekcja 👋 → „Zwroty grzecznościowe — od «Bonġu» do «grazzi ħafna»”
+Dopisane wiersze: **L-għodwa t-tajba** (formalny dzień dobry), **Il-ġurnata t-tajba** (miłego dnia), **Ta' xejn** (nie ma za co), **Prosit!** (brawo/gratulacje), **Awguri!** (wszystkiego najlepszego), **Napprezza ħafna** (bardzo to doceniam — słowo do każdej prośby), **Ħadna pjaċir ħafna** (bardzo nam było miło). W sekcji „Gdy nie rozumiesz” doszło **Ma jimpurtax** (nic nie szkodzi).
+
+## 2. Nowa karta 🏨 „W recepcji — jak miło poprosić o lepszy pokój” *(zastąpiona wersją grzecznościową — patrz kolejny wpis)*
+- **Gotowa formułka jednym tchem** (po maltańsku + wymowa „po polsku” + tłumaczenie): powitanie → rezerwacja → prośba „jekk possibbli, nista' jkolli kamra ftit aħjar?” → konkrety → podziękowanie.
+- **10 kroków check-inu** — od „Bonġu!” po pożegnalne „Ħadna pjaċir ħafna bis-soġġorn tagħna” (w tym warianty, gdy się udaje / gdy się nie udaje).
+- **19 słówek hotelowych**: il-kamra, kmamar vojta, iċ-ċavetta, is-sodda, il-veduta (tal-baħar), il-gallerija, sular ogħla, trankwilla, arja kondizzjonata, xugaman, il-kolazzjon, „Il-Wi-Fi ma jaħdimx”, „Tista' tgħinni?”, „Ħa nara”, „Ċertament!”…
+- **10 zasad „jak to zagrać”**: pytaj, nie żądaj; konkret zamiast „najlepszy pokój”; prawdziwa okazja; elastyczność („Nista' nistenna”); późny check-in; 29.09 (przed Defected 1–4.10) to lepszy moment niż szczyt; zapytaj o dopłatę; uśmiech przy odmowie; dwa zdania po maltańsku, potem angielski („Is there any chance of an upgrade?”).
+- Źródła: Malta Language Learning (lista check-in/check-out), World Schoolbooks, Talkpal + strategia: Upgraded Points, Havenago, HuffPost — dopisane do sekcji 📚.
+
+## 3. Odsyłacze w planach
+- `plan_kompletny.md`/`.html` (akapit o hotelu) oraz `plan_transportu.md`/`.html` (notka o wydarzeniach) — dopisany odsyłacz: „Scenariusz check-inu i zwroty po maltańsku (w tym gotowa prośba o lepszy pokój): **Slowniczek_maltanski.html** → sekcja **🏨 W recepcji**”.
+
+## Weryfikacja
+- 8/8 plików HTML bez błędów struktury; tabele bez pustych komórek; oba pliki słowniczka odtwarzane przez `_gen_slowniczek.py`.
+
+# Korekta słowniczka: karta w recepcji bez proszenia o lepszy pokój — 25.09.2026
+
+Na prośbę: „przesadziłeś, usuń sekcję «Jak to zagrać, żeby „lepszy pokój” naprawdę się zdarzył» — chcę się grzecznie przywitać, spytać jak się mają, powiedzieć że mam rezerwację i liczyć że ich oczaruję urokiem osobistym zamiast pytać explicite o lepszy pokój”.
+
+## Co usunięto
+- **Całą sekcję „🧠 Jak to zagrać, żeby «lepszy pokój» naprawdę się zdarzył”** (10 zasad taktyki upgrade’u: „pytaj, nie żądaj”, „zapytaj o dopłatę”, „późny check-in”, „termin 29.09 vs Defected” itd.).
+- Z tabeli kroków: punkty **„Prośba o lepszy pokój”** („nista’ jkolli kamra ftit aħjar?”) i **„Doprecyzuj, co znaczy «lepszy»»”**.
+- Z „gotowej formułki”: zdanie z prośbą o lepszy pokój — zastąpione scenką powitania.
+- Ze źródeł: Upgraded Points, Havenago, HuffPost (dotyczyły wyłącznie taktyki prośby o upgrade).
+
+## Jak wygląda karta teraz
+Tytuł: **„🏨 W recepcji — jak się ładnie przywitać”** (podtytuł mówi wprost: celowo bez proszenia o cokolwiek).
+- **Mini-dialog przy ladzie** (5 wypowiedzi): *Bonġu! Kif inti?* → *Tajjeb, grazzi. U inti?* → *Tajjeb ħafna, grazzi. Għandi reżervazzjoni fuq isem Kowalski.* → *L-ewwel darba tagħna hawn — ħafna pjaċir!* → *Grazzi ħafna, napprezza ħafna.*
+- **7 kroków** (powitanie · jak się mają · rezerwacja · miły akcent · podziękowanie · praktyczne pytania · pożegnanie na check-out).
+- **Mały small talk**: *Malta hija sabiħa ħafna!*, *Se noqogħdu hawn ġimgħa.*, *Awguri!*, *Prosit!*, *Narak iktar tard · Saħħa!*
+- **Słówka hotelowe** (16) — neutralne, z grzecznościowymi prośbami o rzeczy codzienne (drugi klucz, ręcznik, Wi-Fi, śniadanie).
+- Zamiast taktyki krótka ramka **„💛 Dlaczego to działa”** — recepcja słyszy te same zdania po angielsku; kto wita się po maltańsku i pyta „kif inti?”, zapada w pamięć. Dobre pierwsze wrażenie bez proszenia o cokolwiek.
+
+## Odsyłacze w planach
+- `plan_kompletny.md`/`.html` i `plan_transportu.md`/`.html`: „Scenariusz check-inu … (w tym gotowa prośba o lepszy pokój)” → **„Zwroty po maltańsku i scenariusz miłego przywitania w recepcji (mini-dialog, small talk, słówka)”**.
+
+## Weryfikacja
+- W `_gen_slowniczek.py`, `Slowniczek_maltanski.html` i `slowniczek_maltanski.md` nie ma już ani słowa o prośbie o lepszy pokój / upgrade (grep = 0).
+- 8/8 plików HTML bez błędów struktury.

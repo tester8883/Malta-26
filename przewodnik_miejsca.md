@@ -1,6 +1,6 @@
 # 📖 Przewodnik po miejscach z planu (Malta 29.09–06.10)
 
-Podstawowe informacje + ciekawostki dla **każdego miejsca z planu**. Źródła podane przy każdym obiekcie. Ceny/godziny zwiedzania — zgodne z planem (stan 09.2026). Współrzędne: `plan_mapka.html`.
+Podstawowe informacje + ciekawostki dla **każdego miejsca z planu**. Źródła podane przy każdym obiekcie. Ceny/godziny zwiedzania — zgodne z planem (stan 09.2026). Linki „maps” do wszystkich miejsc: `plan_mapka.html`.
 
 ## 🌆 D1 · St Julian's (29.09)
 

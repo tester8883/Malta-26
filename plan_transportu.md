@@ -33,7 +33,7 @@ Lądowanie 12:05 → na lotnisku do ~13:00. Kup 7-dniowy Explore (25 €) i **u�
 > 🕐 **Karta Explore = 7 kolejnych dni kalendarzowych** od pierwszego przyłożenia — aktywuj ją **od razu (D1, 29.09)**; wtedy pokrywa D1–D7 (do 05.10). W D8: **TD2 (3 €, poza kartą)** — bez przesiadki z przystanku Dragonara ~100 m od hotelu (zamiast 2 przejazdów single 13/14/15+88 = 4 € i wcześniejszego wstawania).
 >
 
-> 🛒 **Zakupy po drodze (D1)** — dokładne lokalizacje: **Welbee's Paceville** (Pendergardens, Triq Gort; ~250 m od przystanku Ross, pon–nd 7:30–22:00) — 📍 `35.922162, 14.487596` → [maps](https://www.google.com/maps?q=35.922162,14.487596). Drugi duży sklep w zasięgu spaceru: **PAVI-PAMA w St George's Mall** (~450 m od hotelu, do 22:00) — 📍 `35.927599, 14.488042` → [maps](https://www.google.com/maps?q=35.927599,14.488042). **Lidla w Paceville nie ma** — najbliższy: **Lidl Sliema**, Triq Amery, 1,8 km (13/14/15 + 200–350 m) — 📍 `35.912380, 14.504750` → [maps](https://www.google.com/maps?q=35.912380,14.504750); oraz **Lidl San Ġwann** (2,1 km) — 📍 `35.909160, 14.477440` → [maps](https://www.google.com/maps?q=35.909160,14.477440). Pełna tabela sklepów (współrzędne + godziny + ceny): **plan_kompletny.md §7a** (Zakupy / supermarkety).
+> 🛒 **Zakupy po drodze (D1)** — dokładne lokalizacje: **Welbee's Paceville** (Pendergardens, Triq Gort; ~250 m od przystanku Ross, pon–nd 7:30–22:00) — [maps](https://www.google.com/maps?q=35.922162,14.487596). Drugi duży sklep w zasięgu spaceru: **PAVI-PAMA w St George's Mall** (~450 m od hotelu, do 22:00) — [maps](https://www.google.com/maps?q=35.927599,14.488042). **Lidla w Paceville nie ma** — najbliższy: **Lidl Sliema**, Triq Amery, 1,8 km (13/14/15 + 200–350 m) — [maps](https://www.google.com/maps?q=35.912380,14.504750); oraz **Lidl San Ġwann** (2,1 km) — [maps](https://www.google.com/maps?q=35.909160,14.477440). Pełna tabela sklepów (lokalizacje + godziny + ceny): **plan_kompletny.md §7a** (Zakupy / supermarkety).
 
 ## Dzień 2 · śr 30.09 — Valletta autobus 13/14/15 · w karcie
 
@@ -46,7 +46,7 @@ Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
 | 3 | pieszo | Po Valletcie: St John's → Barrakka → Lower Barrakka | cały dzień | 15 € (St John's) | 🕐 St John's 09:00; salut na Upper Barrakka 12:00 |
 | 3b | pieszo (◽ max 1) | ◽ Grandmaster's Palace (12 €) / MUŻA (10 €) / Archeologia (5 €) / Malta Experience (20 €) | 1–1,5 h | 5–20 € | ✅ Grandmaster's możliwy (otwarte codziennie ~10:00–18:00; 12 €; ⚠️ Sala Tronowa zamknięta do odwołania; State Rooms do 13:30 tylko 25.09/28.10/18.11/2.12.2026) · MUŻA ⚠️ jeśli lubisz sztukę · Malta Experience 🚫 drogi show, nie historia |
 | 4 | autobus 13/14/15 | Valletta → Sliema | ~20–25 min | karta | opcjonalnie prom |
-| 5 | 🛒 opcja | autobus 13/14/15 + pieszo | Valletta → **Sliema (Chalet / Huber)** → **Lidl Sliema** → Sliema → **Ross** | +30–40 min | karta | **Lidl Sliema** (Triq Amery, SLM 1708; 35.912380, 14.504750 · [maps](https://www.google.com/maps?q=35.912380,14.504750)) — codziennie 7:00–22:00, ~190–330 m od przystanku; potem 13/14/15 Sliema → Ross |
+| 5 | 🛒 opcja | autobus 13/14/15 + pieszo | Valletta → **Sliema (Chalet / Huber)** → **Lidl Sliema** → Sliema → **Ross** | +30–40 min | karta | **Lidl Sliema** (Triq Amery, SLM 1708; [maps](https://www.google.com/maps?q=35.912380,14.504750)) — codziennie 7:00–22:00, ~190–330 m od przystanku; potem 13/14/15 Sliema → Ross |
 
 > Alternatywa dla ⚠️ (Grandmaster's Palace / muzea): kawa przy Upper Barrakka + spacer po bastionach i Lower Barrakka (gratis); ewentualnie Casa Rocca Piccola (12 €; pn–sob) zamiast pałacu.
 >
@@ -101,7 +101,7 @@ Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
 > ⚠️ **Landing pass na Blue Lagoon (bezpłatny, osobny od biletu na łódź):** aby **wejść na brzeg**, trzeba zarezerwować **darmowy kod QR** (limit 4000 os.). Okna: **08:00–13:00 · 13:30–17:30 · 18:00–22:00** — wybierz slot **08:00–13:00** i zarezerwuj na **bluelagooncomino.mt / blcomino.com**. Pływasz z pokładu (bez schodzenia na brzeg) → pass niepotrzebny.
 >
 
-> 🎉 **Wydarzenia:** **Notte Bianca** (sob 3.10, wieczór D5) — darmowy festiwal sztuki w Valletcie ~19:00–4:00 (opcjonalnie, maks. do ~21:30, bo D6 zaczyna się wcześnie) · **Defected Malta** 1–4.10 — główne venue poza Paceville (Ta' Qali · Valletta · St Paul's Bay), możliwe after-party; Paceville i tak głośne nocą — proś o cichszy pokój w Vegas Resort.
+> 🎉 **Wydarzenia:** **Notte Bianca** (sob 3.10, wieczór D5) — darmowy festiwal sztuki w Valletcie ~19:00–4:00 (opcjonalnie, maks. do ~21:30, bo D6 zaczyna się wcześnie) · **Defected Malta** 1–4.10 — główne venue poza Paceville (Ta' Qali · Valletta · St Paul's Bay), możliwe after-party; Paceville i tak głośne nocą — proś o cichszy pokój w Vegas Resort. Jak się miło przywitać w recepcji (mini-dialog, small talk, słówka): **Slowniczek_maltanski.html** → sekcja **🏨 W recepcji**.
 >
 
 ## Dzień 6 · nd 04.10 — Blue Grotto (rano) + Marsaxlokk (obiad/klimat) 13/74/81/119/201 · karta 7 dni
