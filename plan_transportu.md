@@ -2,7 +2,19 @@
 
 Zamiast mapek — dokładna rozpiska każdego odcinka podróży. Linie: autobus · prom/rejs · pieszo. Czasy orientacyjne — sprawdzaj na żywo w aplikacji Tallinja.
 
-**🎟️ Bilet: 7-dniowy Explore (25 €)** pokrywa autobusy **D1–D7** (start 29.09 — 7 dni kalendarzowych → do 05.10; **D8: TD2 3 €** poza kartą). Obejmuje 88 i 13/14/15 (D1) oraz wszystkie trasy D2–D7. ⚠️ **Explore NIE obejmuje linii „Tallinja Direct"/TD** (3 €/przejazd) — w planie TD2 tylko na lotnisko w D8. Osobno płacisz: szybki prom Gozo (D3, ~15 € w obie przez Valletta; przez Sliema ~17 €), prom Valletta→Three Cities (D4, 4,50–5 € return), prom Comino z Ċirkewwy (D5, ~15 €), rejs Blue Grotto (D6, ~10 €) i wstępy. Explore kupisz w Malta Public Transport Sales Office w Welcomer's Hall na lotnisku (~08:00–19:30).
+**🎟️ Bilet: 7-dniowy Explore (25 €)** pokrywa autobusy **D1–D7** (start 29.09 — 7 dni kalendarzowych → do 05.10; **D8: TD2 3 €** poza kartą). Obejmuje 88 i 13/14 (D1) oraz wszystkie trasy D2–D7. ⚠️ **Explore NIE obejmuje linii „Tallinja Direct"/TD** (3 €/przejazd) — w planie TD2 tylko na lotnisko w D8. Osobno płacisz: szybki prom Gozo (D3, ~15 € w obie przez Valletta; przez Sliema ~17 €), prom Valletta→Three Cities (D4, 4,50–5 € return), prom Comino z Ċirkewwy (D5, ~15 €), rejs Blue Grotto (D6, ~10 €) i wstępy. Explore kupisz w Malta Public Transport Sales Office w Welcomer's Hall na lotnisku (~08:00–19:30).
+
+## 🚏 Przystanki przy hotelu — który wybrać
+
+| Przystanek | Od hotelu | Linie (stan 25.09.2026, MPT/OSM) | Po co |
+| --- | --- | --- | --- |
+| **Paceville – Dragonara** (2035) | **~100 m** | **14**, 120/N120, **TD2** | **najbliżej hotelu**: 14 → Sliema/Valletta, TD2 → lotnisko (D8) |
+| **Paceville – Qaliet** (2037) | **~150 m** | **14**, 120/N120 | drugi najbliższy; ta sama 14 → Sliema/Valletta |
+| **San Ġiljan – Ross** (926 / 1038) | ~300–370 m (~5 min) | 13, 14, 16, 110, 120, 121, 202, 211, 212, 222, 225, 233, N13, TD13 | hub: **222 → Ċirkewwa**, **202 → Mdina**, 13/14 → Valletta; tu wysiadasz wracając z Sliemy/Valletty |
+| **San Ġiljan** (923 / 1037) | ~350 m | 13, 14, 202, 222, TD2, TD3 | zapas (TD3 awaryjnie na lotnisko) |
+
+> ⚠️ **Linia 15 nie dojeżdża do St Julian's** — jeździ tylko **Valletta ↔ Sliema**. Dlatego na odcinkach z/do hotelu jest **13/14**, a „13/14/15" pojawia się wyłącznie na odcinku Sliema ↔ Valletta.
+> 💡 **W praktyce:** w stronę Sliemy/Valletty wsiadasz w **14** już ~100 m od hotelu (**Dragonara 2035**) — nie musisz iść na Ross. Wracając z Sliemy/Valletty wysiadasz na **Ross** (tam stają 13 i 14). **222** (Ċirkewwa) i **202** (Mdina) zatrzymują się **tylko na Rossie**.
 
 ## Elastyczność dni — co sztywne, co zalecane, co dowolne
 
@@ -20,44 +32,44 @@ Zamiast mapek — dokładna rozpiska każdego odcinka podróży. Linie: autobus 
 > Jedyne twarde punkty to loty (D1/D8) i Mdina w pon (D7, unikaj niedzieli). D6 nie jest już zależne od niedzieli. D4/D5 można dowolnie przestawiać — np. przy złej pogodzie na Comino zamienisz D5 z D4 lub D7 bez łamania zasad. Nie rób dwóch wysp (Gozo+Comino) ani dwóch miast (Valletta+Three Cities) z rzędu — na zmianę miasto/wyspa.
 >
 
-## Dzień 1 · wt 29.09 — Przylot + St Julian's 88 + 13/14/15
+## Dzień 1 · wt 29.09 — Przylot + St Julian's 88 + 13/14
 
 Lądowanie 12:05 → na lotnisku do ~13:00. Kup 7-dniowy Explore (25 €) i **używaj od dziś** — ważność to **7 kolejnych dni kalendarzowych** od pierwszego przyłożenia (start 29.09 → **do 05.10**; D8 06.10 celowo poza kartą — **TD2**, 3 €, bez przesiadki). **Na lotnisko/ze lotniska: 88** (zwykła, w karcie) i **TD2** („Direct", +3 €, poza kartą).
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | autobus 88 | Lotnisko → Valletta | ~35 min | karta | **pierwsze przyłożenie karty Explore = start (29.09)** → przesiadka 13/14/15 → **San Giljan – Ross** |
-| 1b | autobus 13/14/15 | Valletta → St Julian's | ~25 min | karta | przesiadka w Valletcie; wysiądź **San Giljan – Ross** (~5 min pieszo do hotelu) |
+| 1 | autobus 88 | Lotnisko → Valletta | ~35 min | karta | **pierwsze przyłożenie karty Explore = start (29.09)** → przesiadka **13/14** → wysiądź **San Giljan – Ross** (13 i 14 stają na Rossie; 15 tu nie dojeżdża) |
+| 1b | autobus 13/14 | Valletta → St Julian's | ~25 min | karta | przesiadka w Valletcie; wysiądź **San Giljan – Ross** (~300–370 m, ~5 min pieszo do hotelu) |
 | 2 | pieszo | Hotel **Vegas Resort (Paceville)** → Spinola Bay → Portomaso → St George's Bay | ~1,5–2 h | 0 € | Wieczorny spacer + zachód słońca |
 
-> 🕐 **Karta Explore = 7 kolejnych dni kalendarzowych** od pierwszego przyłożenia — aktywuj ją **od razu (D1, 29.09)**; wtedy pokrywa D1–D7 (do 05.10). W D8: **TD2 (3 €, poza kartą)** — bez przesiadki z przystanku Dragonara ~100 m od hotelu (zamiast 2 przejazdów single 13/14/15+88 = 4 € i wcześniejszego wstawania).
+> 🕐 **Karta Explore = 7 kolejnych dni kalendarzowych** od pierwszego przyłożenia — aktywuj ją **od razu (D1, 29.09)**; wtedy pokrywa D1–D7 (do 05.10). W D8: **TD2 (3 €, poza kartą)** — bez przesiadki z przystanku Dragonara ~100 m od hotelu (zamiast 2 przejazdów single 13/14+88 = 4 € i wcześniejszego wstawania).
 >
 
-> 🛒 **Zakupy po drodze (D1)** — dokładne lokalizacje: **Welbee's Paceville** (Pendergardens, Triq Gort; ~250 m od przystanku Ross, pon–nd 7:30–22:00) — [maps](https://www.google.com/maps?q=35.922162,14.487596). Drugi duży sklep w zasięgu spaceru: **PAVI-PAMA w St George's Mall** (~450 m od hotelu, do 22:00) — [maps](https://www.google.com/maps?q=35.927599,14.488042). **Lidla w Paceville nie ma** — najbliższy: **Lidl Sliema**, Triq Amery, 1,8 km (13/14/15 + 200–350 m) — [maps](https://www.google.com/maps?q=35.912380,14.504750); oraz **Lidl San Ġwann** (2,1 km) — [maps](https://www.google.com/maps?q=35.909160,14.477440). Pełna tabela sklepów (lokalizacje + godziny + ceny): **plan_kompletny.md §7a** (Zakupy / supermarkety).
+> 🛒 **Zakupy po drodze (D1)** — dokładne lokalizacje: **Welbee's Paceville** (Pendergardens, Triq Gort; ~250 m od przystanku Ross, pon–nd 7:30–22:00) — [maps](https://www.google.com/maps?q=35.922162,14.487596). Drugi duży sklep w zasięgu spaceru: **PAVI-PAMA w St George's Mall** (~450 m od hotelu, do 22:00) — [maps](https://www.google.com/maps?q=35.927599,14.488042). **Lidla w Paceville nie ma** — najbliższy: **Lidl Sliema**, Triq Amery, 1,8 km (13/14 + 200–350 m) — [maps](https://www.google.com/maps?q=35.912380,14.504750); oraz **Lidl San Ġwann** (2,1 km) — [maps](https://www.google.com/maps?q=35.909160,14.477440). Pełna tabela sklepów (lokalizacje + godziny + ceny): **plan_kompletny.md §7a** (Zakupy / supermarkety).
 
-## Dzień 2 · śr 30.09 — Valletta autobus 13/14/15 · w karcie
+## Dzień 2 · śr 30.09 — Valletta autobus 13/14 · w karcie
 
 Do Valletty autobusem (w cenie 7-dniowej karty) zamiast promu. Wstępy osobno.
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | pieszo | Hotel → przystanek **San Giljan – Ross** | ~5 min | 0 € | 13/14/15 → Valletta · 222 → Ċirkewwa · 202 → Mdina (TD2 na lotnisko: przystanek Dragonara ~100 m od hotelu) |
-| 2 | autobus 13/14/15 | Sliema → Valletta | ~20–25 min | karta | opcjonalnie prom ~10 min za ~2 € (widok/szybciej) |
+| 1 | pieszo | Hotel → przystanek **Paceville – Dragonara** (~100 m) **albo San Giljan – Ross** (~5 min) | ~1–5 min | 0 € | **14** w stronę Sliemy/Valletty staje na **Dragonarze** (100 m) i **Qaliet** (150 m) — najbliżej hotelu; 13/16/222/202 tylko z Rossa (TD2 na lotnisko: Dragonara ~100 m) |
+| 2 | autobus 13/14 | Sliema → Valletta | ~20–25 min | karta | opcjonalnie prom ~10 min za ~2 € (widok/szybciej) |
 | 3 | pieszo | Po Valletcie: St John's → Barrakka → Lower Barrakka | cały dzień | 15 € (St John's) | 🕐 St John's 09:00; salut na Upper Barrakka 12:00 |
 | 3b | pieszo (◽ max 1) | ◽ Grandmaster's Palace (12 €) / MUŻA (10 €) / Archeologia (5 €) / Malta Experience (20 €) | 1–1,5 h | 5–20 € | ✅ Grandmaster's możliwy (otwarte codziennie ~10:00–18:00; 12 €; ⚠️ Sala Tronowa zamknięta do odwołania; State Rooms do 13:30 tylko 25.09/28.10/18.11/2.12.2026) · MUŻA ⚠️ jeśli lubisz sztukę · Malta Experience 🚫 drogi show, nie historia |
 | 4 | autobus 13/14/15 | Valletta → Sliema | ~20–25 min | karta | opcjonalnie prom |
-| 5 | 🛒 opcja | autobus 13/14/15 + pieszo | Valletta → **Sliema (Chalet / Huber)** → **Lidl Sliema** → Sliema → **Ross** | +30–40 min | karta | **Lidl Sliema** (Triq Amery, SLM 1708; [maps](https://www.google.com/maps?q=35.912380,14.504750)) — codziennie 7:00–22:00, ~190–330 m od przystanku; potem 13/14/15 Sliema → Ross |
+| 5 | 🛒 opcja | autobus 13/14 + pieszo | Valletta → **Sliema (Chalet / Huber)** → **Lidl Sliema** → Sliema → **Ross** | +30–40 min | karta | **Lidl Sliema** (Triq Amery, SLM 1708; [maps](https://www.google.com/maps?q=35.912380,14.504750)) — codziennie 7:00–22:00, ~190–330 m od przystanku; potem 13/14 Sliema → Ross |
 
 > Alternatywa dla ⚠️ (Grandmaster's Palace / muzea): kawa przy Upper Barrakka + spacer po bastionach i Lower Barrakka (gratis); ewentualnie Casa Rocca Piccola (12 €; pn–sob) zamiast pałacu.
 >
 
-## Dzień 3 · czw 01.10 — Gozo (pełny dzień) bus 13/14/15 + szybki prom Valletta→Gozo · karta 7 dni
+## Dzień 3 · czw 01.10 — Gozo (pełny dzień) bus 13/14 + szybki prom Valletta→Gozo · karta 7 dni
 
-🚌 13/14/15 → Valletta → 🚤 szybki prom do Mġarr (bez jazdy do Ċirkewwy). Mġarr → (301) → Victoria → (307) → Ġgantija → (301) → Mġarr → (szybki prom) → Valletta → (13/14/15) → Sliema.
+🚌 13/14 → Valletta → 🚤 szybki prom do Mġarr (bez jazdy do Ċirkewwy). Mġarr → (301) → Victoria → (307) → Ġgantija → (301) → Mġarr → (szybki prom) → Valletta → (13/14/15) → Sliema.
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | autobus 13/14/15 | Sliema → Valletta | ~25 min | karta | 🕐 wyjście z hotelu 07:20–07:30 (do Ross ~5 min pieszo; boarding 2 min przed odjazdem; Lascaris szuka się pierwszy raz) |
+| 1 | autobus 13/14 | Sliema → Valletta | ~25 min | karta | 🕐 wyjście z hotelu 07:20–07:30 (do Ross ~5 min pieszo; boarding 2 min przed odjazdem; Lascaris szuka się pierwszy raz) |
 | 2 | szybki prom Gozo Highspeed | Valletta → Mġarr | ~45 min (bezpośrednio) | ~7,50 € (bilet online) | 🕐 kurs ~08:45 → 09:30; z Lascaris Wharf (zejście: **winda Barrakka 1 € za bilet powrotny** — płatna w każdą stronę / X133 / ~10 min pieszo) |
 | 3 | autobus 301 | Mġarr → Victoria | ~15 min | karta | co 15 min (13:45 · 14:00 …) |
 | 3b | pieszo | ⭐ Victoria / Citadella | 1,5 h | 0 € | panorama |
@@ -110,7 +122,7 @@ Kolejność: Blue Grotto NAJPIERW (najlepsze światło do ~13:00, najmniej ludzi
 
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
-| 1 | autobus 13/14/15 | Sliema → Valletta | ~20 min | karta | 🕐 wyjazd z hotelu ~07:45 (do Ross ~5 min pieszo), by zdążyć na **74 o 08:35** (niedziela: jedyny sensowny kurs — następny 09:35) |
+| 1 | autobus 13/14 | Sliema → Valletta | ~20 min | karta | 🕐 wyjazd z hotelu ~07:45 (do Ross ~5 min pieszo), by zdążyć na **74 o 08:35** (niedziela: jedyny sensowny kurs — następny 09:35) |
 | 2 | autobus 74 | Valletta (stanowisko A5) → Blue Grotto (przystanek Panorama) | ~42 min | karta | 🕐 w niedzielę co 60 min — złap kurs 08:35 (przyjazd ~09:17); bądź przed 08:30 |
 | 3 | rejs łódką | Blue Grotto (Wied iż-Żurrieq) | 20–25 min | ~10 € | ⭐ warte; przed grupami wycieczkowymi; kupno na miejscu, ⚠️ zależny od pogody |
 | 3b | pieszo | Klifowy punkt widokowy + ◽ Ħaġar Qim/Mnajdra (10 €, UNESCO, ~15–20 min pieszo) | 1–2 h | 10 € (◽) | ⭐ Ħaġar Qim warte dla lubiących prehistorię; klify |
@@ -136,7 +148,7 @@ Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **
 | 3b | autobus 201 | Dingli → Rabat (powrót) | ~8 min | karta | ⚠️ kursy co 60: 15:37 · 16:37 · **17:37** · 18:37 · 19:37; rozsądny ostatni 19:37 |
 | 3c | pieszo | 🌙 Wieczorna Mdina (podświetlone mury) | ~45 min | 0 € | opcja, jeśli wrócisz przed 20:00 |
 | 4 | autobus 51 | Rabat → Valletta | ~25 min | karta | powrót awaryjny (pierwszy wybór: 202): 51 **19:44** → Valletta 20:15 → 13 → Ross ~20:52; później **20:14** → Valletta 20:38 → 13 20:55 → Ross ~21:22; 53 ~19:48 MF |
-| 4b | autobus 13/14/15 | Valletta → Ross | ~25 min | karta | częste do ~23:00; do hotelu ~5 min pieszo |
+| 4b | autobus 13/14 | Valletta → Ross | ~25 min | karta | częste do ~23:00; do hotelu ~5 min pieszo |
 
 > **Dlaczego Dingli, a nie bastiony Mdiny?** Z bastionów Mdiny słońce zachodzi **nad lądem**, a z klifów Dingli **nad otwartym morzem** — ikoniczne ujęcie. Zostajemy w okolicy cały dzień (Rabat → Dingli → wieczorna Mdina → 202), więc wracamy raz, nie dwukrotnie. ⚠️ **Zabezpieczenie:** 201 z Dingli wieczorem ~co 60 min — sprawdź ostatni kurs na 5.10; jeśli jest za wcześnie na zachód (~18:42), oglądaj go z bastionów Mdiny.
 >
@@ -149,7 +161,7 @@ Mdina (spacer + bastiony) → pieszo do Rabatu (katakumby) → autobus 201 na **
 | Odcinek | Środek / linia | Skąd → dokąd | Orient. czas | Bilet | Uwagi |
 | --- | --- | --- | --- | --- | --- |
 | 1 | TD2 | Paceville – Dragonara (2035) → Lotnisko | ~35–40 min | **3 € (poza kartą)** | 🕐 **09:34 → ~10:02** (2 h 28 min przed odlotem); zapas TD2 10:04 → ~10:32 · TD3 z San Giljan (1037) 09:45 → ~10:30; przystanek ~100 m od hotelu (⚠️ TD2 nie staje na Rossie) — **zero przesiadki, ~50 min dłuższego snu**. Wyjście z hotelu ~09:15 (check-out do 10:00) |
-| 2 | (awaryjnie) | St Julian's → Valletta → Lotnisko | ~1 h | ~4 € (single) | gdyby TD2 09:34 przepadł: 13/14/15 + 88 (wyjście 08:20 → lotnisko ~09:47); karta wygasła 05.10 |
+| 2 | (awaryjnie) | St Julian's → Valletta → Lotnisko | ~1 h | ~4 € (single) | gdyby TD2 09:34 przepadł: 13/14 + 88 (wyjście 08:20 → lotnisko ~09:47); karta wygasła 05.10 |
 
 > Na lotnisku **~10:02** (2 h 28 min przed odlotem 12:30 — komfortowy zapas; Malta Airport zaleca 2 h dla lotu w Schengen, 3 h tylko dla non-Schengen/long-haul). **TD2 jedzie bez przesiadki** prosto z przystanku Dragonara przy hotelu (09:34 → ~10:02; co 30 min) — stąd dłuższy sen i zero kombinowania; karta Explore wygasła 05.10 (celowo: D8 = TD2, 3 €).
 >

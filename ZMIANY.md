@@ -826,3 +826,41 @@ Cała treść `Plan_pogoda.html` była opakowana w `<div class="wrap">`, a w ark
 - 8/8 plików HTML przechodzi kontrolę struktury (`HTMLParser`) — 0 błędów; liczba `<div>` = 20/20 (zbalansowana).
 - Wspólnych reguł CSS z `Plan_kompletny.html`: **27**; reguły „tylko pogoda” to wyłącznie dodatki specyficzne dla tego pliku, „tylko kompletny”: brak.
 - Brak wystąpień `.wrap` w pliku.
+
+# Weryfikacja przystanków przy hotelu (Qaliet / Dragonara vs Ross) + korekta linii 15 — 25.09.2026
+
+Pytanie: „sprawdź ponownie autobusy, czy przystanki Qaliet i Dragonara nie są bliżej hotelu niż przystanek San Giljan – Ross”.
+
+## Wynik: TAK — oba są bliżej niż Ross
+
+Odległości liczone od hotelu **Vegas Resort (Dragonara Road, 35.92441, 14.49072)** do punktów przystanków (OSM, 25.09.2026):
+
+| Przystanek | Kod | Od hotelu | Linie (MPT + OSM) |
+| --- | --- | --- | --- |
+| **Paceville – Dragonara** | 2035 | **~104 m** | **14**, 120/N120, **TD2** |
+| **Paceville – Qaliet** | 2037 | **~146 m** | **14**, 120/N120 |
+| Paceville – Paceville | 2034 | ~186 m | 14, 120/N120, TD2 |
+| **San Ġiljan – Ross** | 926 / 1038 | **~300 m / ~367 m** | 13, 14, 16, 110, 120, 121, 202, 211, 212, 222, 225, 233, N13, TD13 |
+| San Ġiljan | 923 / 1037 | ~350 m | 13, 14, 202, 222, TD2, TD3 |
+
+Sprawdzone u źródła: **publictransport.com.mt** (strony linii 13, 14, 15, 202, 222, TD2 — listy przystanków z kodami) + **OpenStreetMap/Overpass** (relacje `route=bus` zawierające dane przystanki).
+
+## Co z tego wynika dla planu
+
+1. **Dragonara (2035) i Qaliet (2037) są najbliżej hotelu**, ale nie staje na nich wszystko: obsługuje je **linia 14** (w stronę Sliemy/Valletty) i 120/N120; **TD2** (lotnisko) też staje na Dragonarze — to już było w planie i jest poprawne.
+2. **222 (Ċirkewwa) i 202 (Mdina) stają wyłącznie na Rossie** — tu plan był poprawny.
+3. **Linia 13 nie zatrzymuje się na Dragonarze/Qaliet/Paceville** — jedzie przez St Julian's (Spinola → Ross → San Giljan).
+4. ⚠️ **Linia 15 nie dojeżdża do St Julian's** — z MPT (strona linii 15, 28 przystanków: Valletta – Msida – Gżira – Ta' Xbiex – Sliema/Bouverie) wynika, że obsługuje tylko **Valletta ↔ Sliema**. Dlatego skrót **„13/14/15” był używany błędnie na odcinkach z/do hotelu**.
+
+## Korekty wprowadzone w dokumentach
+
+- **Wszystkie odcinki z/do hotelu (St Julian's/Ross/Dragonara): „13/14/15” → „13/14”** — łącznie **81 wystąpień** (Plan_kompletny, Plan_transportu, plan_lajtowy, plan_zrownowazony, plan_mapka, Plan_pogoda; md + html) + **~10 doprecyzowań** w drugiej rundzie. Skrót „13/14/15” pozostał **wyłącznie na odcinku Sliema ↔ Valletta** (tam linia 15 faktycznie jeździ) oraz przy listach przystanków/węzłów.
+- **plan_transportu.md/.html**: nowa sekcja **„🚏 Przystanki przy hotelu — który wybrać”** (tabela 4 przystanków + odległości + linie + ostrzeżenie o 15 i o 222/202 tylko z Rossa). Zaktualizowane odcinki D1 (przesiadka 13/14, wysiadka Ross) i D2 (dojazd: Dragonara ~100 m albo Ross ~5 min).
+- **plan_kompletny.md/.html**: akapit o hotelu — dodane zdanie o najbliższych przystankach (Dragonara ~100 m, Qaliet ~150 m, linia 14) oraz ostrzeżenie, że 15 nie dojeżdża do St Julian's, a 222/202 stają tylko na Rossie.
+- **plan_zrownowazony.md/.html**: to samo dopisane przy opisie hotelu.
+- **plan_mapka.html** (karta „🚏 Przystanki autobusowe”): zaktualizowany wiersz **Ross** (pełna lista linii + hub 222/202), zaktualizowany wiersz **Dragonara** („najbliższy przystanek ~100 m”, 14 + TD2) oraz **nowy wiersz Qaliet (2037)** z linkiem `maps`.
+- `Plan_pogoda.html`: 3 wystąpienia „13/14 z Rossu” (bez zmian merytorycznych poza numerem linii).
+
+## Weryfikacja
+- 8/8 plików HTML bez błędów struktury.
+- Sprawdzone niezależnie: OSM (relacje tras zawierające przystanki) + strony MPT dla linii 13, 14, 15, 202, 222, TD2 (obecność/brak przystanków 2034/2035/2037/926/1038).

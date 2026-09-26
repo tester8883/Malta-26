@@ -12,27 +12,27 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 
 ## Hotel i bilety
 
-**Hotel:** 🏆 **Vegas Resort (St Julian's – Paceville, Dragonara Road)** — ⭐3, otwarty 2025, ocena **8.4/10** (ok. 1360 opinii), śniadanie bufetowe, basen, recepcja 24 h. ~5 min pieszo do przystanku **San Giljan – Ross** (13/14/15 → Valletta · 222 → Ċirkewwa; TD2 na lotnisko w D8 z przystanku Dragonara ~100 m od hotelu), ~5–7 min do plaży St George's Bay, ~8–10 min do Spinola Bay. ⚠️ **Środek Paceville = głośno nocą** — poproś o pokój od cichej strony / wyżej. Cena orientacyjna: od ~150 €/noc → 7 nocy ≈ **~4 400 zł**.
+**Hotel:** 🏆 **Vegas Resort (St Julian's – Paceville, Dragonara Road)** — ⭐3, otwarty 2025, ocena **8.4/10** (ok. 1360 opinii), śniadanie bufetowe, basen, recepcja 24 h. ~5 min pieszo do przystanku **San Giljan – Ross** (13/14 → Valletta · 222 → Ċirkewwa; TD2 na lotnisko w D8 z przystanku Dragonara ~100 m od hotelu). **Najbliżej hotelu:** **Paceville – Dragonara** ~100 m i **Paceville – Qaliet** ~150 m — linia **14** → Sliema/Valletta; ⚠️ 15 nie dojeżdża do St Julian's, ~5–7 min do plaży St George's Bay, ~8–10 min do Spinola Bay. ⚠️ **Środek Paceville = głośno nocą** — poproś o pokój od cichej strony / wyżej. Cena orientacyjna: od ~150 €/noc → 7 nocy ≈ **~4 400 zł**.
 
 **Bilet:** **7-dniowy Explore (25 €)** pokrywa wszystkie autobusy D1–D7 (D8: TD2, 3 € poza kartą). Osobno: szybki prom Gozo ~7,50 € w jedną (~15 € w obie); alternatywa przez Sliema ~17 €; budżetowo Gozo Channel 4,65 €), prom Valletta→Three Cities 4,50–5 € return, prom Comino z Ċirkewwy ~15 € return, rejs Blue Grotto ~10 €, wejścia.
 
-## Dzień 1 · wt 29.09 — Przylot + odpoczynek 88 + 13/14/15
+## Dzień 1 · wt 29.09 — Przylot + odpoczynek 88 + 13/14
 
 | Godz. | Co |
 | --- | --- |
 | 12:05 | Lądowanie Luqa |
 | 12:45 | **Kup 7-dniowy Explore (25 €)** na lotnisku i **aktywuj od razu** (pierwsze przyłożenie na 88; 7 dni kalendarzowych od 29.09 → do 05.10; **D8 = TD2 3 €**, bez przesiadki) |
-| 13:15 | **Autobus 88 → Valletta** (**pierwsze przyłożenie karty = start 29.09**) → przesiadka **13/14/15 → St Julian's** (karta) — wysiądź **San Giljan – Ross** (~5 min do hotelu). *(Szybciej: TD2 prosto, ale +3 € i poza kartą.)* |
+| 13:15 | **Autobus 88 → Valletta** (**pierwsze przyłożenie karty = start 29.09**) → przesiadka **13/14 → St Julian's** (karta) — wysiądź **San Giljan – Ross** (~5 min do hotelu). *(Szybciej: TD2 prosto, ale +3 € i poza kartą.)* |
 | 14:30–15:00 | Hotel **Vegas Resort** (Paceville), rozpakuj się |
 | 15:30–17:00 | Spacer **Spinola Bay + Portomaso** (~8–10 min pieszo od hotelu) |
 | 17:00–18:30 | ⭐ **St George's Bay** — kąpiel / zachód słońca |
 | 19:30 | Kolacja St Julian's |
 
-## Dzień 2 · śr 30.09 — Valletta (kultura rano + 1 opcja) 13/14/15
+## Dzień 2 · śr 30.09 — Valletta (kultura rano + 1 opcja) 13/14
 
 | Godz. | Co |
 | --- | --- |
-| 08:40 | **Autobus 13/14/15 → Valletta** (~20 min) — karta; 13 o 08:40 / 14 o 08:29 (celuj w 14) |
+| 08:40 | **Autobus 13/14 → Valletta** (~20 min) — karta; 13 o 08:40 / 14 o 08:29 (celuj w 14) |
 | 09:00 | ⭐ **St John's Co-Cathedral** (15 €) — bądź na otwarciu, przed grupami |
 | 09:00–10:30 | Wnętrze + Caravaggio + audio-guide |
 | 10:45–11:30 | Spacer **Republic Street** |
@@ -52,7 +52,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 | Godz. | Co |
 | --- | --- |
 | 07:25 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min pieszo) |
-| 07:45 | **Autobus 13/14/15** → **Valletta** (~25 min, karta) |
+| 07:45 | **Autobus 13/14** → **Valletta** (~25 min, karta) |
 | 08:10 | Dworzec Valletta → **zejście na terminal Lascaris Wharf**: **winda Barrakka 1 € (bilet powrotny)** / darmowy **X133** (stanowisko A1) / ~10 min pieszo → terminal ~08:25 |
 | 08:45 | **🚤 Szybki prom Valletta → Mġarr** (Gozo Highspeed, **~45 min bezpośrednio**; **~7,50 € w jedną (~15 € w obie)**) |
 | 09:30 | **301 → Victoria** (~12 min) — karta |

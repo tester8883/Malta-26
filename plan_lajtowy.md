@@ -23,13 +23,13 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 > **Nie wypada (bo to opcje/alternatywy):** **Three Cities** → **Plan A na D4** (plaża = Plan B) · **popołudnie w Valletcie** (D2, 1 opcja) · **Crystal Lagoon + wieża św. Marii** → opcje na Comino (D5) · **katakumby/Wignacourt Museum** → opcje w D7 · **St Peter's Pool** → opcjonalna kąpiel w D6.
 >
 
-## Dzień 1 · wt 29.09 — Przylot + odpoczynek 88 + 13/14/15
+## Dzień 1 · wt 29.09 — Przylot + odpoczynek 88 + 13/14
 
 | Godz. | Co |
 | --- | --- |
 | 12:05 | Lądowanie Luqa |
 | 12:45 | **Kup 7-dniowy Explore (25 €)** na lotnisku i **aktywuj od razu** (pierwsze przyłożenie na 88; 7 dni kalendarzowych od 29.09 → do 05.10; **D8 = TD2 3 €**, bez przesiadki) |
-| 13:15 | **Autobus 88 → Valletta** (**pierwsze przyłożenie karty = start 29.09**) → przesiadka **13/14/15 → St Julian's** (karta) — wysiądź **San Giljan – Ross** (~5 min do hotelu). *(Szybciej: TD2 prosto, ale +3 € i poza kartą.)* |
+| 13:15 | **Autobus 88 → Valletta** (**pierwsze przyłożenie karty = start 29.09**) → przesiadka **13/14 → St Julian's** (karta) — wysiądź **San Giljan – Ross** (~5 min do hotelu). *(Szybciej: TD2 prosto, ale +3 € i poza kartą.)* |
 | 14:30–15:00 | Hotel **Vegas Resort** (Paceville), rozpakuj się |
 | 15:30–17:00 | Spacer **Spinola Bay + Portomaso** (luźno; ~8–10 min pieszo od hotelu) |
 | 17:00–18:30 | ⭐ **St George's Bay** — kąpiel / zachód słońca (~5–7 min pieszo) |
@@ -38,11 +38,11 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 > Tempo: najlżejszy dzień, aklimatyzacja.
 >
 
-## Dzień 2 · śr 30.09 — Valletta: esencja + popołudnie (1 opcja) 13/14/15
+## Dzień 2 · śr 30.09 — Valletta: esencja + popołudnie (1 opcja) 13/14
 
 | Godz. | Co |
 | --- | --- |
-| 08:40 | **Autobus 13/14/15 → Valletta** (~20 min) — karta; 13 o 08:40 / 14 o 08:29 (celuj w 14) |
+| 08:40 | **Autobus 13/14 → Valletta** (~20 min) — karta; 13 o 08:40 / 14 o 08:29 (celuj w 14) |
 | 09:00 | ⭐ **St John's Co-Cathedral** (15 €) — bądź na otwarciu, przed grupami |
 | 09:00–10:30 | Wnętrze + Caravaggio + audio-guide |
 | 10:45–11:30 | Spacer **Republic Street** (luzem) |
@@ -62,7 +62,7 @@ Przylot **29.09 (wt) 12:05** · Wylot **06.10 (wt) 12:30**. Baza: **St Julian's 
 | Godz. | Co |
 | --- | --- |
 | 07:25 | Wyjście z hotelu → przystanek **San Giljan – Ross** (~5 min pieszo) |
-| 07:45 | **Autobus 13/14/15** → **Valletta** (~25 min, karta) |
+| 07:45 | **Autobus 13/14** → **Valletta** (~25 min, karta) |
 | 08:10 | Dworzec Valletta → **zejście na terminal Lascaris Wharf**: **winda Barrakka 1 € (bilet powrotny)** / darmowy **X133** (stanowisko A1) / ~10 min pieszo → terminal ~08:25 |
 | 08:45 | **🚤 Szybki prom Valletta → Mġarr** (Gozo Highspeed, **~45 min bezpośrednio**; **~7,50 € w jedną (~15 € w obie)**) |
 | 09:30 | **301 → Victoria** (~12 min) — karta |
